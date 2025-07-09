@@ -32,7 +32,7 @@ Pourquoi ?
 
 - Création de personas, interviews, user flows
 
-![Image UI/UX](./ressources/Capture%20d'écran%202025-07-09%20131909.png)
+![Image UI/UX](./ressources/uiux.png)
 - https://roadmap.uxuiopen.com/
 
 ### Nécessités 
