@@ -1,0 +1,787 @@
+WEBVTT
+
+STYLE
+::cue(.black) {
+ color: black;
+}
+
+STYLE
+::cue(.red) {
+ color: red;
+}
+
+STYLE
+::cue(.green) {
+ color: green;
+}
+
+STYLE
+::cue(.yellow) {
+ color: yellow;
+}
+
+STYLE
+::cue(.blue) {
+ color: blue;
+}
+
+STYLE
+::cue(.magenta) {
+ color: magenta;
+}
+
+STYLE
+::cue(.cyan) {
+ color: cyan;
+}
+
+STYLE
+::cue(.white) {
+ color: white;
+}
+
+STYLE
+::cue(.bg_black) {
+ background-color: black;
+}
+
+STYLE
+::cue(.bg_red) {
+ background-color: red;
+}
+
+STYLE
+::cue(.bg_green) {
+ background-color: green;
+}
+
+STYLE
+::cue(.bg_yellow) {
+ background-color: yellow;
+}
+
+STYLE
+::cue(.bg_blue) {
+ background-color: blue;
+}
+
+STYLE
+::cue(.bg_magenta) {
+ background-color: magenta;
+}
+
+STYLE
+::cue(.bg_cyan) {
+ background-color: cyan;
+}
+
+STYLE
+::cue(.bg_white) {
+ background-color: white;
+}
+
+00:00:03.400 --> 00:00:21.920 line:91% align:left
+<c.magenta.bg_black>...</c>
+
+00:00:22.240 --> 00:00:24.240 line:91% align:center
+<c.white.bg_black>-Ravie de vous retrouver.</c>
+
+00:00:24.560 --> 00:00:27.880 line:83% align:center
+<c.white.bg_black>Angela Merkel,</c>
+<c.white.bg_black>Olaf Scholz et Friedrich Merz,</c>
+
+00:00:28.200 --> 00:00:32.120 line:83% align:center
+<c.white.bg_black>3 chanceliers qui nous racontent</c>
+<c.white.bg_black>3 époques de leur pays.</c>
+
+00:00:32.440 --> 00:00:37.200 line:83% align:center
+<c.white.bg_black>La période Merkel où l'Allemagne</c>
+<c.white.bg_black>est la locomotive de l'Europe,</c>
+
+00:00:37.520 --> 00:00:41.720 line:83% align:center
+<c.white.bg_black>puis la période Scholz,</c>
+<c.white.bg_black>l'invasion russe de l'Ukraine,</c>
+
+00:00:42.040 --> 00:00:46.640 line:83% align:center
+<c.white.bg_black>la fin du pétrole russe bon marché,</c>
+<c.white.bg_black>la menace à moins de 2 000 km,</c>
+
+00:00:46.960 --> 00:00:50.040 line:83% align:center
+<c.white.bg_black>et puis, depuis mars 2025,</c>
+<c.white.bg_black>Friedrich Merz,</c>
+
+00:00:50.360 --> 00:00:53.920 line:83% align:center
+<c.white.bg_black>celui qui doit très vite</c>
+<c.white.bg_black>remilitariser l'Allemagne</c>
+
+00:00:54.240 --> 00:00:57.200 line:83% align:center
+<c.white.bg_black>et donc sortir</c>
+<c.white.bg_black>de l'orthodoxie budgétaire,</c>
+
+00:00:57.520 --> 00:01:00.600 line:83% align:center
+<c.white.bg_black>tout en durcissant le ton</c>
+<c.white.bg_black>sur l'immigration,</c>
+
+00:01:00.920 --> 00:01:04.160 line:83% align:center
+<c.white.bg_black>avec une forte montée</c>
+<c.white.bg_black>de l'extrême droite.</c>
+
+00:01:04.480 --> 00:01:09.160 line:83% align:center
+<c.white.bg_black>On revisite ces 3 périodes</c>
+<c.white.bg_black>de l'Allemagne. Sortons nos cartes.</c>
+
+00:01:09.480 --> 00:01:13.600 line:83% align:center
+<c.cyan.bg_black>Au centre de l'Europe,</c>
+<c.cyan.bg_black>la République fédérale d'Allemagne</c>
+
+00:01:13.920 --> 00:01:17.160 line:70% align:center
+<c.cyan.bg_black>est composée de 16 États fédérés,</c>
+<c.cyan.bg_black>les Länder,</c>
+
+00:01:17.480 --> 00:01:19.720 line:91% align:center
+<c.cyan.bg_black>et s'étend sur 357 000 km2,</c>
+
+00:01:20.040 --> 00:01:22.240 line:91% align:center
+<c.cyan.bg_black>de la Baltique aux Alpes</c>
+
+00:01:22.560 --> 00:01:25.400 line:83% align:center
+<c.cyan.bg_black>et du Rhin</c>
+<c.cyan.bg_black>aux fleuves Oder et Neisse.</c>
+
+00:01:25.720 --> 00:01:30.440 line:83% align:center
+<c.cyan.bg_black>84 millions d'habitants, c'est</c>
+<c.cyan.bg_black>le pays le plus peuplé de l'UE.</c>
+
+00:01:30.760 --> 00:01:32.840 line:91% align:center
+<c.cyan.bg_black>Mais le 24 février 2022,</c>
+
+00:01:33.160 --> 00:01:36.640 line:83% align:center
+<c.cyan.bg_black>l'invasion russe de l'Ukraine</c>
+<c.cyan.bg_black>ébranle l'Allemagne.</c>
+
+00:01:36.960 --> 00:01:41.400 line:83% align:center
+<c.cyan.bg_black>La guerre est de retour en Europe,</c>
+<c.cyan.bg_black>non loin de ses frontières.</c>
+
+00:01:41.720 --> 00:01:45.080 line:83% align:center
+<c.cyan.bg_black>Elle remet en cause</c>
+<c.cyan.bg_black>les fondamentaux de la RFA,</c>
+
+00:01:45.400 --> 00:01:49.040 line:83% align:center
+<c.cyan.bg_black>fondée depuis la fin du nazisme</c>
+<c.cyan.bg_black>et la réunification</c>
+
+00:01:49.360 --> 00:01:53.000 line:83% align:center
+<c.cyan.bg_black>sur la primauté de la paix,</c>
+<c.cyan.bg_black>du droit et du commerce.</c>
+
+00:01:53.320 --> 00:01:56.520 line:83% align:center
+<c.cyan.bg_black>Des millions de réfugiés ukrainiens</c>
+<c.cyan.bg_black>traversent le pays</c>
+
+00:01:56.840 --> 00:01:58.760 line:91% align:center
+<c.cyan.bg_black>qui en accueille un million.</c>
+
+00:01:59.080 --> 00:02:02.720 line:83% align:center
+<c.cyan.bg_black>En accord</c>
+<c.cyan.bg_black>avec les sanctions internationales,</c>
+
+00:02:03.040 --> 00:02:07.400 line:83% align:center
+<c.cyan.bg_black>Olaf Scholz stoppe les importations</c>
+<c.cyan.bg_black>d'hydrocarbures de Russie,</c>
+
+00:02:07.720 --> 00:02:10.400 line:83% align:center
+<c.cyan.bg_black>40% du gaz</c>
+<c.cyan.bg_black>et 30% du pétrole allemands.</c>
+
+00:02:10.720 --> 00:02:13.880 line:83% align:center
+<c.cyan.bg_black>C'est la fin des gazoducs</c>
+<c.cyan.bg_black>Nord Stream 1 et 2,</c>
+
+00:02:14.200 --> 00:02:17.440 line:83% align:center
+<c.cyan.bg_black>fruits de l'intense coopération</c>
+<c.cyan.bg_black>germano-russe</c>
+
+00:02:17.760 --> 00:02:20.680 line:50% align:center
+<c.cyan.bg_black>sous les gouvernements</c>
+<c.cyan.bg_black>Schröder et Merkel,</c>
+
+00:02:21.000 --> 00:02:25.640 line:83% align:center
+<c.cyan.bg_black>fournissant du gaz bon marché</c>
+<c.cyan.bg_black>à la puissante industrie allemande,</c>
+
+00:02:25.960 --> 00:02:30.720 line:83% align:center
+<c.cyan.bg_black>compensant l'abandon du nucléaire</c>
+<c.cyan.bg_black>après Fukushima et du charbon.</c>
+
+00:02:31.040 --> 00:02:33.840 line:83% align:center
+<c.cyan.bg_black>Ce choc énergétique</c>
+<c.cyan.bg_black>est en partie comblé</c>
+
+00:02:34.160 --> 00:02:37.600 line:83% align:center
+<c.cyan.bg_black>avec du gaz de Norvège,</c>
+<c.cyan.bg_black>des Pays-Bas, de Belgique</c>
+
+00:02:37.920 --> 00:02:42.240 line:83% align:center
+<c.cyan.bg_black>et des États-Unis, et surtout</c>
+<c.cyan.bg_black>par les énergies renouvelables,</c>
+
+00:02:42.560 --> 00:02:46.800 line:83% align:center
+<c.cyan.bg_black>solaire et éolien, plus de 60%</c>
+<c.cyan.bg_black>de la consommation allemande.</c>
+
+00:02:47.120 --> 00:02:51.200 line:83% align:center
+<c.cyan.bg_black>Mais la facture est lourde</c>
+<c.cyan.bg_black>avec la perte de marchés russes</c>
+
+00:02:51.520 --> 00:02:55.080 line:83% align:center
+<c.cyan.bg_black>et pour les dirigeants</c>
+<c.cyan.bg_black>qui misaient sur le commerce</c>
+
+00:02:55.400 --> 00:02:59.240 line:83% align:center
+<c.cyan.bg_black>pour changer les régimes</c>
+<c.cyan.bg_black>autoritaires russe et chinois.</c>
+
+00:02:59.560 --> 00:03:02.800 line:83% align:center
+<c.cyan.bg_black>Depuis 2018,</c>
+<c.cyan.bg_black>le modèle allemand s'essouffle.</c>
+
+00:03:03.120 --> 00:03:06.800 line:83% align:center
+<c.cyan.bg_black>La réunification et les réformes</c>
+<c.cyan.bg_black>du gouvernement Schröder</c>
+
+00:03:07.120 --> 00:03:08.800 line:91% align:center
+<c.cyan.bg_black>ont baissé les coûts salariaux.</c>
+
+00:03:09.120 --> 00:03:10.480 line:91% align:center
+<c.cyan.bg_black>Cela a dopé l'économie</c>
+
+00:03:10.800 --> 00:03:12.960 line:83% align:center
+<c.cyan.bg_black>en doublant</c>
+<c.cyan.bg_black>les exportations allemandes.</c>
+
+00:03:13.280 --> 00:03:17.200 line:83% align:center
+<c.cyan.bg_black>Automobiles, chimie,</c>
+<c.cyan.bg_black>électronique, sidérurgie,</c>
+
+00:03:17.520 --> 00:03:19.040 line:91% align:center
+<c.cyan.bg_black>l'Allemagne est devenue</c>
+
+00:03:19.360 --> 00:03:23.280 line:83% align:center
+<c.cyan.bg_black>la 3e économie mondiale</c>
+<c.cyan.bg_black>après les États-Unis et la Chine.</c>
+
+00:03:23.600 --> 00:03:25.120 line:91% align:center
+<c.cyan.bg_black>Moins de 6% de chômage.</c>
+
+00:03:25.440 --> 00:03:28.160 line:91% align:center
+<c.cyan.bg_black>L'Allemagne est la 1re économie</c>
+
+00:03:28.480 --> 00:03:31.640 line:83% align:center
+<c.cyan.bg_black>de l'Union européenne,</c>
+<c.cyan.bg_black>son principal marché.</c>
+
+00:03:31.960 --> 00:03:34.840 line:83% align:center
+<c.cyan.bg_black>Mais depuis 2023,</c>
+<c.cyan.bg_black>c'est la récession</c>
+
+00:03:35.160 --> 00:03:39.160 line:83% align:center
+<c.cyan.bg_black>à cause de la hausse</c>
+<c.cyan.bg_black>du nationalisme économique,</c>
+
+00:03:39.480 --> 00:03:41.000 line:91% align:center
+<c.cyan.bg_black>notamment états-unien,</c>
+
+00:03:41.320 --> 00:03:43.840 line:83% align:center
+<c.cyan.bg_black>que ce soit</c>
+<c.cyan.bg_black>via les taxes sur l'automobile</c>
+
+00:03:44.160 --> 00:03:45.440 line:91% align:center
+<c.cyan.bg_black>et l'aluminium allemand</c>
+
+00:03:45.760 --> 00:03:47.640 line:91% align:center
+<c.cyan.bg_black>par la 1re administration Trump</c>
+
+00:03:47.960 --> 00:03:50.960 line:83% align:center
+<c.cyan.bg_black>ou le plan Biden de soutien</c>
+<c.cyan.bg_black>aux infrastructures</c>
+
+00:03:51.280 --> 00:03:53.560 line:91% align:center
+<c.cyan.bg_black>et aux énergies renouvelables.</c>
+
+00:03:53.880 --> 00:03:56.440 line:83% align:center
+<c.cyan.bg_black>Puis, l'absence</c>
+<c.cyan.bg_black>d'investissements publics,</c>
+
+00:03:56.760 --> 00:04:01.240 line:83% align:center
+<c.cyan.bg_black>surtout dans les transports et</c>
+<c.cyan.bg_black>dans la digitalisation haut débit</c>
+
+00:04:01.560 --> 00:04:06.160 line:66% align:center
+<c.cyan.bg_black>à cause des politiques d'austérité</c>
+<c.cyan.bg_black>des gouvernements depuis 2009.</c>
+
+00:04:06.480 --> 00:04:10.080 line:83% align:center
+<c.cyan.bg_black>Enfin, la fin des exportations</c>
+<c.cyan.bg_black>massives vers l'Asie</c>
+
+00:04:10.400 --> 00:04:12.880 line:91% align:center
+<c.cyan.bg_black>et la concurrence chinoise.</c>
+
+00:04:13.200 --> 00:04:15.440 line:91% align:center
+<c.cyan.bg_black>D'importateur net pour s'équiper,</c>
+
+00:04:15.760 --> 00:04:18.520 line:83% align:center
+<c.cyan.bg_black>Pékin, 1er partenaire commercial</c>
+<c.cyan.bg_black>de l'Allemagne,</c>
+
+00:04:18.840 --> 00:04:22.000 line:83% align:center
+<c.cyan.bg_black>exporte des automobiles,</c>
+<c.cyan.bg_black>des machines-outils,</c>
+
+00:04:22.320 --> 00:04:25.680 line:83% align:center
+<c.cyan.bg_black>des semi-conducteurs</c>
+<c.cyan.bg_black>et des technologies vertes,</c>
+
+00:04:26.000 --> 00:04:28.960 line:83% align:center
+<c.cyan.bg_black>menaçant des millions d'emplois</c>
+<c.cyan.bg_black>allemands.</c>
+
+00:04:29.280 --> 00:04:34.320 line:83% align:center
+<c.cyan.bg_black>Une des Nouvelles routes de la soie</c>
+<c.cyan.bg_black>passe par l'Allemagne, à Duisbourg.</c>
+
+00:04:34.640 --> 00:04:38.240 line:83% align:center
+<c.cyan.bg_black>De plus, la population allemande</c>
+<c.cyan.bg_black>est vieillissante,</c>
+
+00:04:38.560 --> 00:04:40.560 line:91% align:center
+<c.cyan.bg_black>divisée et insécurisée.</c>
+
+00:04:40.880 --> 00:04:44.480 line:83% align:center
+<c.cyan.bg_black>Le taux de natalité stagne</c>
+<c.cyan.bg_black>à 1,46 enfant par femme,</c>
+
+00:04:44.800 --> 00:04:47.280 line:91% align:center
+<c.cyan.bg_black>loin du seuil de renouvellement.</c>
+
+00:04:47.600 --> 00:04:52.520 line:50% align:center
+<c.cyan.bg_black>Le pays devrait perdre 13 millions</c>
+<c.cyan.bg_black>d'habitants d'ici la fin du siècle,</c>
+
+00:04:52.840 --> 00:04:56.600 line:83% align:center
+<c.cyan.bg_black>en particulier à l'est du pays,</c>
+<c.cyan.bg_black>plus pauvre, plus rural</c>
+
+00:04:56.920 --> 00:04:59.360 line:91% align:center
+<c.cyan.bg_black>et davantage touché par le chômage.</c>
+
+00:04:59.680 --> 00:05:01.600 line:91% align:center
+<c.cyan.bg_black>35 ans après la réunification,</c>
+
+00:05:01.920 --> 00:05:06.040 line:83% align:center
+<c.cyan.bg_black>les Allemands de l'Est</c>
+<c.cyan.bg_black>restent frustrés par cette division</c>
+
+00:05:06.360 --> 00:05:10.880 line:83% align:center
+<c.cyan.bg_black>et opposés à l'arrivée de migrants</c>
+<c.cyan.bg_black>pour compenser ce déclin.</c>
+
+00:05:11.240 --> 00:05:14.920 line:83% align:center
+<c.cyan.bg_black>Longtemps pays d'émigration</c>
+<c.cyan.bg_black>vers l'est et la Russie,</c>
+
+00:05:15.240 --> 00:05:17.320 line:91% align:center
+<c.cyan.bg_black>l'Amérique du Sud et les USA,</c>
+
+00:05:17.640 --> 00:05:21.520 line:83% align:center
+<c.cyan.bg_black>l'Allemagne est devenue depuis 1960</c>
+<c.cyan.bg_black>pays d'immigration,</c>
+
+00:05:21.840 --> 00:05:24.320 line:91% align:center
+<c.cyan.bg_black>avec une forte poussée depuis 2013.</c>
+
+00:05:24.640 --> 00:05:27.160 line:83% align:center
+<c.cyan.bg_black>Elle compte</c>
+<c.cyan.bg_black>14 millions d'étrangers,</c>
+
+00:05:27.480 --> 00:05:29.800 line:91% align:center
+<c.cyan.bg_black>venus surtout d'Europe de l'Est,</c>
+
+00:05:30.120 --> 00:05:32.640 line:83% align:center
+<c.cyan.bg_black>de Turquie,</c>
+<c.cyan.bg_black>et, depuis 2015, de Syrie.</c>
+
+00:05:32.960 --> 00:05:36.240 line:83% align:center
+<c.cyan.bg_black>L'intégration de ces derniers</c>
+<c.cyan.bg_black>est une réussite.</c>
+
+00:05:36.560 --> 00:05:39.440 line:83% align:center
+<c.cyan.bg_black>64% ont des emplois</c>
+<c.cyan.bg_black>souvent qualifiés,</c>
+
+00:05:39.760 --> 00:05:44.280 line:83% align:center
+<c.cyan.bg_black>mais des attentats islamistes</c>
+<c.cyan.bg_black>meurtriers ont insécurisé le pays</c>
+
+00:05:44.600 --> 00:05:49.040 line:83% align:center
+<c.cyan.bg_black>entre 2016 et 2025,</c>
+<c.cyan.bg_black>minant le débat public.</c>
+
+00:05:50.560 --> 00:05:55.280 line:83% align:center
+<c.white.bg_black>La guerre en Ukraine marque, selon</c>
+<c.white.bg_black>l'expression du chancelier Scholz,</c>
+
+00:05:55.600 --> 00:05:57.400 line:91% align:center
+<c.white.bg_black>"un changement d'époque".</c>
+
+00:05:57.720 --> 00:06:01.800 line:83% align:center
+<c.white.bg_black>On est loin des années Merkel</c>
+<c.white.bg_black>et de son leadership européen.</c>
+
+00:06:02.120 --> 00:06:03.960 line:91% align:center
+<c.white.bg_black>Le retour de Donald Trump</c>
+
+00:06:04.280 --> 00:06:08.720 line:83% align:center
+<c.white.bg_black>marque la remise en cause d'un</c>
+<c.white.bg_black>pilier de la sécurité allemande,</c>
+
+00:06:09.040 --> 00:06:11.280 line:91% align:center
+<c.white.bg_black>l'Alliance transatlantique.</c>
+
+00:06:11.600 --> 00:06:13.360 line:91% align:center
+<c.cyan.bg_black>Tirant les leçons du nazisme,</c>
+
+00:06:13.680 --> 00:06:17.160 line:83% align:center
+<c.cyan.bg_black>l'Allemagne,</c>
+<c.cyan.bg_black>géant économique mais pacifiste,</c>
+
+00:06:17.480 --> 00:06:20.680 line:83% align:center
+<c.cyan.bg_black>prône une politique</c>
+<c.cyan.bg_black>de retenue internationale.</c>
+
+00:06:21.000 --> 00:06:24.440 line:83% align:center
+<c.cyan.bg_black>Après ses 1ers envois</c>
+<c.cyan.bg_black>de Casques bleus en Bosnie,</c>
+
+00:06:24.760 --> 00:06:28.360 line:12% align:center
+<c.cyan.bg_black>puis de troupes en Afghanistan</c>
+<c.cyan.bg_black>sous casquette OTAN,</c>
+
+00:06:28.680 --> 00:06:32.360 line:83% align:center
+<c.cyan.bg_black>Berlin participe à 17 opérations</c>
+<c.cyan.bg_black>de l'ONU ou de l'UE</c>
+
+00:06:32.680 --> 00:06:37.160 line:83% align:center
+<c.cyan.bg_black>sur 3 continents, se voyant comme</c>
+<c.cyan.bg_black>honnête médiateur de conflits.</c>
+
+00:06:37.480 --> 00:06:41.280 line:83% align:center
+<c.cyan.bg_black>Mais depuis 1955, Berlin a surtout</c>
+<c.cyan.bg_black>misé sur Washington</c>
+
+00:06:41.600 --> 00:06:45.400 line:83% align:center
+<c.cyan.bg_black>et sur l'Alliance atlantique</c>
+<c.cyan.bg_black>pour assurer sa sécurité.</c>
+
+00:06:45.720 --> 00:06:49.080 line:12% align:center
+<c.cyan.bg_black>D'où son soutien à toute épreuve</c>
+<c.cyan.bg_black>aux États-Unis,</c>
+
+00:06:49.400 --> 00:06:52.000 line:83% align:center
+<c.cyan.bg_black>exception faite</c>
+<c.cyan.bg_black>de la guerre en Irak,</c>
+
+00:06:52.320 --> 00:06:56.000 line:83% align:center
+<c.cyan.bg_black>ce qui lui évitait</c>
+<c.cyan.bg_black>de coûteuses dépenses militaires.</c>
+
+00:06:56.320 --> 00:07:00.760 line:12% align:center
+<c.cyan.bg_black>Durant la guerre froide, celles-ci</c>
+<c.cyan.bg_black>atteignaient 2,9% de son PIB,</c>
+
+00:07:01.080 --> 00:07:03.280 line:12% align:center
+<c.cyan.bg_black>puis 2,5% à la chute du Mur.</c>
+
+00:07:03.600 --> 00:07:06.760 line:12% align:center
+<c.cyan.bg_black>Mais en 2000,</c>
+<c.cyan.bg_black>elles tombent à 1,35% seulement</c>
+
+00:07:07.080 --> 00:07:11.160 line:12% align:center
+<c.cyan.bg_black>et ne dépasseront jamais 1,5%</c>
+<c.cyan.bg_black>sous Angela Merkel.</c>
+
+00:07:12.200 --> 00:07:16.120 line:12% align:center
+<c.cyan.bg_black>Début 2025, la Bundeswehr</c>
+<c.cyan.bg_black>compte 182 900 soldats,</c>
+
+00:07:16.440 --> 00:07:20.880 line:12% align:center
+<c.cyan.bg_black>soit moitié moins que les 370 000</c>
+<c.cyan.bg_black>prévus à la réunification.</c>
+
+00:07:21.200 --> 00:07:25.240 line:12% align:center
+<c.cyan.bg_black>Le choc de la guerre en Ukraine</c>
+<c.cyan.bg_black>a cependant obligé Berlin</c>
+
+00:07:25.560 --> 00:07:30.040 line:83% align:center
+<c.cyan.bg_black>à une remilitarisation urgente,</c>
+<c.cyan.bg_black>soutenu par la classe politique,</c>
+
+00:07:30.360 --> 00:07:34.400 line:83% align:center
+<c.cyan.bg_black>à l'exception de l'extrême gauche</c>
+<c.cyan.bg_black>et de l'extrême droite.</c>
+
+00:07:34.720 --> 00:07:38.120 line:12% align:center
+<c.cyan.bg_black>Dès 2023, le budget de l'armée</c>
+<c.cyan.bg_black>atteint 2% du PIB,</c>
+
+00:07:38.440 --> 00:07:41.560 line:12% align:center
+<c.cyan.bg_black>plus 100 milliards d'euros</c>
+<c.cyan.bg_black>d'un fonds spécial</c>
+
+00:07:41.880 --> 00:07:45.400 line:83% align:center
+<c.cyan.bg_black>permettant l'achat</c>
+<c.cyan.bg_black>de chasseurs F-35 états-uniens,</c>
+
+00:07:45.720 --> 00:07:49.680 line:83% align:center
+<c.cyan.bg_black>d'Eurofighter, de drones,</c>
+<c.cyan.bg_black>de frégates et de sous-marins.</c>
+
+00:07:50.000 --> 00:07:53.800 line:83% align:center
+<c.cyan.bg_black>Le prochain gouvernement</c>
+<c.cyan.bg_black>veut investir dans la défense</c>
+
+00:07:54.120 --> 00:07:58.880 line:83% align:center
+<c.cyan.bg_black>pour redevenir l'un des principaux</c>
+<c.cyan.bg_black>garants de la sécurité en Europe.</c>
+
+00:07:59.200 --> 00:08:02.640 line:12% align:center
+<c.cyan.bg_black>À terme, la Bundeswehr compterait</c>
+<c.cyan.bg_black>272 000 soldats</c>
+
+00:08:02.960 --> 00:08:05.480 line:12% align:center
+<c.cyan.bg_black>et même 480 000 en cas de guerre.</c>
+
+00:08:05.800 --> 00:08:08.320 line:83% align:center
+<c.cyan.bg_black>Preuve de cet engagement :</c>
+<c.cyan.bg_black>fin 2023,</c>
+
+00:08:08.640 --> 00:08:11.600 line:83% align:center
+<c.cyan.bg_black>Berlin a installé une brigade</c>
+<c.cyan.bg_black>en Lituanie.</c>
+
+00:08:11.920 --> 00:08:12.960 line:91% align:center
+<c.cyan.bg_black>D'ici 2027,</c>
+
+00:08:13.280 --> 00:08:17.040 line:83% align:center
+<c.cyan.bg_black>4 800 soldats y défendront</c>
+<c.cyan.bg_black>le front est de l'OTAN et de l'UE.</c>
+
+00:08:17.360 --> 00:08:21.960 line:83% align:center
+<c.cyan.bg_black>L'Allemagne fournit aussi la 2e</c>
+<c.cyan.bg_black>plus importante aide à l'Ukraine,</c>
+
+00:08:22.280 --> 00:08:25.320 line:83% align:center
+<c.cyan.bg_black>après les États-Unis :</c>
+<c.cyan.bg_black>plus de 17 milliards.</c>
+
+00:08:25.640 --> 00:08:29.880 line:83% align:center
+<c.cyan.bg_black>Le retour de Donald Trump a ébranlé</c>
+<c.cyan.bg_black>le lien transatlantique.</c>
+
+00:08:30.200 --> 00:08:33.440 line:83% align:center
+<c.cyan.bg_black>En 2019 déjà,</c>
+<c.cyan.bg_black>Trump I avait accusé l'Allemagne</c>
+
+00:08:33.760 --> 00:08:36.360 line:91% align:center
+<c.cyan.bg_black>de jouer "au passager clandestin"</c>
+
+00:08:36.680 --> 00:08:41.280 line:83% align:center
+<c.cyan.bg_black>et de profiter sans contrepartie</c>
+<c.cyan.bg_black>de sa dissuasion nucléaire.</c>
+
+00:08:41.600 --> 00:08:45.160 line:83% align:center
+<c.cyan.bg_black>Il avait alors menacé de retirer</c>
+<c.cyan.bg_black>1/4 des 38 000 GI,</c>
+
+00:08:45.480 --> 00:08:49.080 line:83% align:center
+<c.cyan.bg_black>notamment ceux de Ramstein,</c>
+<c.cyan.bg_black>Stuttgart et Grafenwöhr.</c>
+
+00:08:49.400 --> 00:08:52.120 line:83% align:center
+<c.cyan.bg_black>En février 2025,</c>
+<c.cyan.bg_black>Trump II va plus loin.</c>
+
+00:08:52.440 --> 00:08:54.560 line:91% align:center
+<c.cyan.bg_black>À la conférence de Munich,</c>
+
+00:08:54.880 --> 00:08:59.320 line:66% align:center
+<c.cyan.bg_black>les États-Unis laissent la sécurité</c>
+<c.cyan.bg_black>du continent aux Européens,</c>
+
+00:08:59.640 --> 00:09:01.400 line:75% align:center
+<c.cyan.bg_black>un cauchemar pour Berlin.</c>
+
+00:09:01.720 --> 00:09:06.040 line:83% align:center
+<c.cyan.bg_black>L'Allemagne s'est assurée de</c>
+<c.cyan.bg_black>la protection nucléaire américaine</c>
+
+00:09:06.360 --> 00:09:08.160 line:91% align:center
+<c.cyan.bg_black>en leur achetant des armes.</c>
+
+00:09:08.480 --> 00:09:10.800 line:91% align:center
+<c.cyan.bg_black>Berlin souhaite désormais renforcer</c>
+
+00:09:11.120 --> 00:09:14.960 line:83% align:center
+<c.cyan.bg_black>la défense européenne,</c>
+<c.cyan.bg_black>le souhait de 3/4 des Allemands.</c>
+
+00:09:15.280 --> 00:09:17.800 line:91% align:center
+<c.cyan.bg_black>Début 2025, Paris a ouvert le débat</c>
+
+00:09:18.120 --> 00:09:20.680 line:83% align:center
+<c.cyan.bg_black>pour étendre</c>
+<c.cyan.bg_black>sa dissuasion nucléaire</c>
+
+00:09:21.000 --> 00:09:22.640 line:91% align:center
+<c.cyan.bg_black>à l'Allemagne et à l'Europe.</c>
+
+00:09:22.960 --> 00:09:24.800 line:91% align:center
+<c.cyan.bg_black>Côté industrie militaire,</c>
+
+00:09:25.120 --> 00:09:29.360 line:83% align:center
+<c.cyan.bg_black>l'Allemagne et la France coopèrent</c>
+<c.cyan.bg_black>au sein du groupe Airbus,</c>
+
+00:09:29.680 --> 00:09:33.360 line:83% align:center
+<c.cyan.bg_black>réputé pour ses satellites</c>
+<c.cyan.bg_black>et ses avions militaires.</c>
+
+00:09:33.680 --> 00:09:37.880 line:83% align:center
+<c.cyan.bg_black>Les usines allemandes se situent</c>
+<c.cyan.bg_black>à Hambourg, Brême et Stade.</c>
+
+00:09:38.200 --> 00:09:41.440 line:83% align:center
+<c.cyan.bg_black>Et au sein du groupe KNDS,</c>
+<c.cyan.bg_black>né du rapprochement</c>
+
+00:09:41.760 --> 00:09:44.440 line:83% align:center
+<c.cyan.bg_black>du bavarois KMW</c>
+<c.cyan.bg_black>et du français Nexter</c>
+
+00:09:44.760 --> 00:09:48.280 line:83% align:center
+<c.cyan.bg_black>qui produisent ensemble</c>
+<c.cyan.bg_black>les chars Leopard 2, Leclerc</c>
+
+00:09:48.600 --> 00:09:49.960 line:91% align:center
+<c.cyan.bg_black>et les canons Caesar.</c>
+
+00:09:50.280 --> 00:09:53.360 line:83% align:center
+<c.cyan.bg_black>Sans oublier</c>
+<c.cyan.bg_black>le géant allemand Rheinmettal,</c>
+
+00:09:53.680 --> 00:09:58.720 line:83% align:center
+<c.cyan.bg_black>à Düsseldorf, spécialiste des chars</c>
+<c.cyan.bg_black>et véhicules blindés, dont le Puma.</c>
+
+00:09:59.040 --> 00:10:03.080 line:83% align:center
+<c.cyan.bg_black>Berlin et Paris veulent renforcer</c>
+<c.cyan.bg_black>leur partenariat unique</c>
+
+00:10:03.400 --> 00:10:07.080 line:83% align:center
+<c.cyan.bg_black>datant des traités de l'Élysée</c>
+<c.cyan.bg_black>et d'Aix-la-Chapelle</c>
+
+00:10:07.400 --> 00:10:09.840 line:91% align:center
+<c.cyan.bg_black>en développant l'armement du futur.</c>
+
+00:10:10.160 --> 00:10:12.240 line:91% align:center
+<c.cyan.bg_black>L'Allemagne mise sur la Pologne,</c>
+
+00:10:12.560 --> 00:10:16.880 line:83% align:center
+<c.cyan.bg_black>puissance militaire montante,</c>
+<c.cyan.bg_black>Paris-Berlin-Varsovie étant liés</c>
+
+00:10:17.200 --> 00:10:19.880 line:83% align:center
+<c.cyan.bg_black>depuis 1991</c>
+<c.cyan.bg_black>par le Triangle de Weimar.</c>
+
+00:10:20.200 --> 00:10:25.080 line:83% align:center
+<c.cyan.bg_black>Sans oublier Bruxelles, au coeur de</c>
+<c.cyan.bg_black>la politique étrangère allemande.</c>
+
+00:10:25.400 --> 00:10:28.520 line:83% align:center
+<c.cyan.bg_black>Berlin reste</c>
+<c.cyan.bg_black>le 1er contributeur de l'Union,</c>
+
+00:10:28.840 --> 00:10:32.840 line:83% align:center
+<c.cyan.bg_black>modelant ses institutions :</c>
+<c.cyan.bg_black>banque centrale indépendante,</c>
+
+00:10:33.160 --> 00:10:37.120 line:83% align:center
+<c.cyan.bg_black>basée à Francfort, et euro fort,</c>
+<c.cyan.bg_black>copie du Deutsche Mark.</c>
+
+00:10:37.440 --> 00:10:40.680 line:12% align:center
+<c.cyan.bg_black>La présidente de la Commission</c>
+<c.cyan.bg_black>est allemande,</c>
+
+00:10:41.000 --> 00:10:45.560 line:12% align:center
+<c.cyan.bg_black>de même que le leader du plus</c>
+<c.cyan.bg_black>grand groupe du Parlement européen,</c>
+
+00:10:45.880 --> 00:10:47.040 line:12% align:center
+<c.cyan.bg_black>le PPE.</c>
+
+00:10:47.360 --> 00:10:51.520 line:83% align:center
+<c.white.bg_black>Terminons sur ce nouveau phénomène</c>
+<c.white.bg_black>politique en Allemagne,</c>
+
+00:10:51.840 --> 00:10:56.520 line:83% align:center
+<c.white.bg_black>une extrême droite à plus de 20%,</c>
+<c.white.bg_black>du jamais-vu depuis 1945.</c>
+
+00:10:56.840 --> 00:10:59.760 line:83% align:center
+<c.white.bg_black>Alice Weidel,</c>
+<c.white.bg_black>coprésidente de l'AFD,</c>
+
+00:11:00.080 --> 00:11:02.880 line:91% align:center
+<c.white.bg_black>cultive l'ambiguïté sur le nazisme.</c>
+
+00:11:03.200 --> 00:11:08.000 line:83% align:center
+<c.white.bg_black>Elle a reçu pendant la campagne</c>
+<c.white.bg_black>des élections de 2025 le soutien</c>
+
+00:11:08.320 --> 00:11:13.280 line:83% align:center
+<c.white.bg_black>du vice-président américain,</c>
+<c.white.bg_black>J.D. Vance, et d'Elon Musk.</c>
+
+00:11:13.600 --> 00:11:17.680 line:83% align:center
+<c.yellow.bg_black>Pour aller plus loin, 2 ouvrages :</c>
+<c.yellow.bg_black>"Atlas de l'Allemagne",</c>
+
+00:11:18.000 --> 00:11:21.080 line:83% align:center
+<c.yellow.bg_black>aux éditions Autrement,</c>
+<c.yellow.bg_black>par Michel Deshaies,</c>
+
+00:11:21.400 --> 00:11:25.000 line:83% align:center
+<c.yellow.bg_black>et le grand historien du nazisme,</c>
+<c.yellow.bg_black>Johann Chapoutot,</c>
+
+00:11:25.320 --> 00:11:28.800 line:83% align:center
+<c.yellow.bg_black>qui publie</c>
+<c.yellow.bg_black>cette "Histoire de l'Allemagne,</c>
+
+00:11:29.120 --> 00:11:31.640 line:91% align:center
+<c.yellow.bg_black>"de 1806 à nos jours".</c>
+
+00:11:33.040 --> 00:11:35.400 line:91% align:center
+<c.white.bg_black>Rendez-vous bien sûr</c>
+
+00:11:35.720 --> 00:11:40.080 line:83% align:center
+<c.white.bg_black>la semaine prochaine, même endroit,</c>
+<c.white.bg_black>même heure. À bientôt !</c>
+
+00:11:40.400 --> 00:11:45.400 line:91% align:center
+<c.green.bg_black>france.tv access</c>
+

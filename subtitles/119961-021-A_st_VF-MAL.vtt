@@ -1,0 +1,836 @@
+WEBVTT
+
+STYLE
+::cue(.black) {
+ color: black;
+}
+
+STYLE
+::cue(.red) {
+ color: red;
+}
+
+STYLE
+::cue(.green) {
+ color: green;
+}
+
+STYLE
+::cue(.yellow) {
+ color: yellow;
+}
+
+STYLE
+::cue(.blue) {
+ color: blue;
+}
+
+STYLE
+::cue(.magenta) {
+ color: magenta;
+}
+
+STYLE
+::cue(.cyan) {
+ color: cyan;
+}
+
+STYLE
+::cue(.white) {
+ color: white;
+}
+
+STYLE
+::cue(.bg_black) {
+ background-color: black;
+}
+
+STYLE
+::cue(.bg_red) {
+ background-color: red;
+}
+
+STYLE
+::cue(.bg_green) {
+ background-color: green;
+}
+
+STYLE
+::cue(.bg_yellow) {
+ background-color: yellow;
+}
+
+STYLE
+::cue(.bg_blue) {
+ background-color: blue;
+}
+
+STYLE
+::cue(.bg_magenta) {
+ background-color: magenta;
+}
+
+STYLE
+::cue(.bg_cyan) {
+ background-color: cyan;
+}
+
+STYLE
+::cue(.bg_white) {
+ background-color: white;
+}
+
+00:00:03.400 --> 00:00:20.080 line:91% align:left
+<c.magenta.bg_black>...</c>
+
+00:00:20.840 --> 00:00:23.920 line:83% align:center
+<c.white.bg_black>-Bienvenue</c>
+<c.white.bg_black>pour le "Dessous des cartes".</c>
+
+00:00:24.240 --> 00:00:29.200 line:83% align:center
+<c.white.bg_black>On débute avec cette image : 2013,</c>
+<c.white.bg_black>le président François Hollande</c>
+
+00:00:29.520 --> 00:00:33.080 line:83% align:center
+<c.white.bg_black>accueilli en héros à Bamako,</c>
+<c.white.bg_black>le président malien de l'époque</c>
+
+00:00:33.400 --> 00:00:36.600 line:83% align:center
+<c.white.bg_black>ayant demandé à l'armée française</c>
+<c.white.bg_black>son aide</c>
+
+00:00:36.920 --> 00:00:40.600 line:83% align:center
+<c.white.bg_black>pour repousser des attaques</c>
+<c.white.bg_black>djihadistes sur une partie du pays.</c>
+
+00:00:41.160 --> 00:00:44.080 line:83% align:center
+<c.white.bg_black>Moins de 10 ans après,</c>
+<c.white.bg_black>toujours à Bamako,</c>
+
+00:00:44.400 --> 00:00:46.440 line:91% align:center
+<c.white.bg_black>voici des manifestations</c>
+
+00:00:46.760 --> 00:00:50.920 line:83% align:center
+<c.white.bg_black>où l'on célèbre le drapeau</c>
+<c.white.bg_black>de la Russie de Vladimir Poutine.</c>
+
+00:00:51.240 --> 00:00:54.920 line:83% align:center
+<c.white.bg_black>Le pouvoir a changé au Mali,</c>
+<c.white.bg_black>et les nouveaux dirigeants maliens</c>
+
+00:00:55.240 --> 00:00:58.280 line:83% align:center
+<c.white.bg_black>ne veulent plus</c>
+<c.white.bg_black>d'une présence française.</c>
+
+00:00:58.600 --> 00:01:00.280 line:91% align:center
+<c.white.bg_black>Un mouvement observé</c>
+
+00:01:00.600 --> 00:01:04.120 line:83% align:center
+<c.white.bg_black>dans bien d'autres anciennes</c>
+<c.white.bg_black>colonies françaises d'Afrique.</c>
+
+00:01:04.440 --> 00:01:07.080 line:83% align:center
+<c.white.bg_black>Voici</c>
+<c.white.bg_black>"Afrique, la France en berne",</c>
+
+00:01:07.400 --> 00:01:11.160 line:83% align:center
+<c.white.bg_black>sur fond de nouvelles influences</c>
+<c.white.bg_black>et de nouveaux rapports de force.</c>
+
+00:01:11.480 --> 00:01:13.160 line:91% align:center
+<c.white.bg_black>Sortons nos cartes.</c>
+
+00:01:13.800 --> 00:01:18.160 line:83% align:center
+<c.cyan.bg_black>Comparons deux cartes. Voici</c>
+<c.cyan.bg_black>la présence militaire française</c>
+
+00:01:18.480 --> 00:01:22.400 line:16% align:center
+<c.cyan.bg_black>en Afrique subsaharienne en 2020,</c>
+<c.cyan.bg_black>avec des bases permanentes</c>
+
+00:01:22.720 --> 00:01:25.560 line:16% align:center
+<c.cyan.bg_black>à Djibouti,</c>
+<c.cyan.bg_black>en République centrafricaine,</c>
+
+00:01:25.880 --> 00:01:29.360 line:16% align:center
+<c.cyan.bg_black>au Tchad, au Niger, au Mali,</c>
+<c.cyan.bg_black>au Burkina Faso, au Sénégal,</c>
+
+00:01:29.680 --> 00:01:34.360 line:16% align:center
+<c.cyan.bg_black>en Côte d'Ivoire et au Gabon,</c>
+<c.cyan.bg_black>dans le cadre d'accords de défense.</c>
+
+00:01:34.680 --> 00:01:38.160 line:12% align:center
+<c.cyan.bg_black>Au total, les effectifs</c>
+<c.cyan.bg_black>se montent alors à 3 150 soldats,</c>
+
+00:01:38.480 --> 00:01:40.760 line:20% align:center
+<c.cyan.bg_black>Djibouti, N'Djamena et Abidjan</c>
+
+00:01:41.080 --> 00:01:44.040 line:12% align:center
+<c.cyan.bg_black>étant les bases</c>
+<c.cyan.bg_black>les plus importantes.</c>
+
+00:01:44.360 --> 00:01:47.440 line:12% align:center
+<c.cyan.bg_black>Voici à présent</c>
+<c.cyan.bg_black>la situation en 2025 :</c>
+
+00:01:47.760 --> 00:01:51.800 line:16% align:center
+<c.cyan.bg_black>les troupes françaises ont quitté</c>
+<c.cyan.bg_black>le Mali et la Centrafrique en 2022,</c>
+
+00:01:52.120 --> 00:01:55.320 line:16% align:center
+<c.cyan.bg_black>puis le Niger</c>
+<c.cyan.bg_black>et le Burkina Faso en 2023.</c>
+
+00:01:55.640 --> 00:01:59.360 line:16% align:center
+<c.cyan.bg_black>Fin 2024, le Tchad et le Sénégal</c>
+<c.cyan.bg_black>ont demandé à Paris</c>
+
+00:01:59.680 --> 00:02:03.840 line:16% align:center
+<c.cyan.bg_black>la fermeture des bases à N'Djamena,</c>
+<c.cyan.bg_black>Faya, Abéché et Dakar.</c>
+
+00:02:04.160 --> 00:02:08.120 line:16% align:center
+<c.cyan.bg_black>Le 1er janvier 2025, le président</c>
+<c.cyan.bg_black>ivoirien, Alassane Ouattara,</c>
+
+00:02:08.440 --> 00:02:12.200 line:16% align:center
+<c.cyan.bg_black>a annoncé la rétrocession</c>
+<c.cyan.bg_black>de la base française d'Abidjan</c>
+
+00:02:12.520 --> 00:02:15.800 line:16% align:center
+<c.cyan.bg_black>à la Côte d'Ivoire</c>
+<c.cyan.bg_black>avant les élections de décembre.</c>
+
+00:02:16.120 --> 00:02:19.560 line:16% align:center
+<c.cyan.bg_black>Dès février, les soldats français</c>
+<c.cyan.bg_black>ont commencé à quitter</c>
+
+00:02:19.880 --> 00:02:23.520 line:16% align:center
+<c.cyan.bg_black>la base d'infanterie de marine</c>
+<c.cyan.bg_black>occupée depuis 1960.</c>
+
+00:02:23.840 --> 00:02:27.040 line:16% align:center
+<c.cyan.bg_black>Ne restent que</c>
+<c.cyan.bg_black>la grande base navale de Djibouti,</c>
+
+00:02:27.360 --> 00:02:31.360 line:16% align:center
+<c.cyan.bg_black>avec ses 1 500 hommes, et une</c>
+<c.cyan.bg_black>présence symbolique à Libreville.</c>
+
+00:02:32.640 --> 00:02:36.360 line:83% align:center
+<c.cyan.bg_black>Ce retrait est l'aboutissement</c>
+<c.cyan.bg_black>d'un long processus :</c>
+
+00:02:36.680 --> 00:02:40.680 line:83% align:center
+<c.cyan.bg_black>les effectifs militaires français</c>
+<c.cyan.bg_black>sur le continent ont diminué</c>
+
+00:02:41.000 --> 00:02:45.000 line:16% align:center
+<c.cyan.bg_black>depuis les indépendances,</c>
+<c.cyan.bg_black>passant de 30 000 en 1960</c>
+
+00:02:45.320 --> 00:02:47.240 line:91% align:center
+<c.cyan.bg_black>à 10 000 en 1990,</c>
+
+00:02:47.560 --> 00:02:49.840 line:91% align:center
+<c.cyan.bg_black>puis 6 600 en 2014.</c>
+
+00:02:50.160 --> 00:02:53.280 line:83% align:center
+<c.cyan.bg_black>Depuis la fin</c>
+<c.cyan.bg_black>de la guerre d'Algérie, en 1962,</c>
+
+00:02:53.600 --> 00:02:57.320 line:66% align:center
+<c.cyan.bg_black>la France a conduit plus de 50</c>
+<c.cyan.bg_black>opérations militaires en Afrique,</c>
+
+00:02:57.640 --> 00:03:00.120 line:75% align:center
+<c.cyan.bg_black>ce qui fait d'elle une exception</c>
+
+00:03:00.440 --> 00:03:03.800 line:66% align:center
+<c.cyan.bg_black>parmi les anciennes puissances</c>
+<c.cyan.bg_black>coloniales européennes.</c>
+
+00:03:04.120 --> 00:03:07.880 line:66% align:center
+<c.cyan.bg_black>Pour comprendre cette exception</c>
+<c.cyan.bg_black>française, revenons sur l'histoire</c>
+
+00:03:08.200 --> 00:03:11.520 line:83% align:center
+<c.cyan.bg_black>de la colonisation</c>
+<c.cyan.bg_black>et des indépendances africaines.</c>
+
+00:03:11.840 --> 00:03:12.840 line:91% align:center
+<c.cyan.bg_black>1885 :</c>
+
+00:03:13.160 --> 00:03:16.920 line:62% align:center
+<c.cyan.bg_black>à la conférence de Berlin, les</c>
+<c.cyan.bg_black>Européens se partagent une Afrique</c>
+
+00:03:17.240 --> 00:03:20.440 line:83% align:center
+<c.cyan.bg_black>affaiblie par des siècles</c>
+<c.cyan.bg_black>de traite des esclaves.</c>
+
+00:03:20.760 --> 00:03:23.680 line:83% align:center
+<c.cyan.bg_black>La France conquiert</c>
+<c.cyan.bg_black>d'immenses territoires,</c>
+
+00:03:24.000 --> 00:03:26.360 line:91% align:center
+<c.cyan.bg_black>surtout au centre et à l'ouest,</c>
+
+00:03:26.680 --> 00:03:30.240 line:83% align:center
+<c.cyan.bg_black>et va soumettre les peuples</c>
+<c.cyan.bg_black>autochtones par le feu des armes</c>
+
+00:03:30.560 --> 00:03:34.320 line:62% align:center
+<c.cyan.bg_black>ou par la négociation. À l'aube</c>
+<c.cyan.bg_black>de la Première Guerre mondiale,</c>
+
+00:03:34.640 --> 00:03:38.240 line:62% align:center
+<c.cyan.bg_black>l'empire africain de la France</c>
+<c.cyan.bg_black>s'étend du Maroc à Madagascar,</c>
+
+00:03:38.560 --> 00:03:42.120 line:62% align:center
+<c.cyan.bg_black>avec, en son coeur, l'Afrique</c>
+<c.cyan.bg_black>occidentale française, AOF,</c>
+
+00:03:42.440 --> 00:03:45.440 line:62% align:center
+<c.cyan.bg_black>et l'Afrique équatoriale française,</c>
+<c.cyan.bg_black>AEF.</c>
+
+00:03:45.760 --> 00:03:49.160 line:83% align:center
+<c.cyan.bg_black>Les richesses humaines</c>
+<c.cyan.bg_black>et naturelles de ces territoires</c>
+
+00:03:49.480 --> 00:03:53.120 line:83% align:center
+<c.cyan.bg_black>sont exploitées au bénéfice</c>
+<c.cyan.bg_black>de la métropole et ces possessions</c>
+
+00:03:53.440 --> 00:03:57.040 line:83% align:center
+<c.cyan.bg_black>confèrent à la France un statut</c>
+<c.cyan.bg_black>de grande puissance mondiale.</c>
+
+00:03:57.360 --> 00:03:58.680 line:91% align:center
+<c.cyan.bg_black>À partir de 1945,</c>
+
+00:03:59.000 --> 00:04:03.000 line:62% align:center
+<c.cyan.bg_black>les luttes nationalistes</c>
+<c.cyan.bg_black>contre les Français s'organisent.</c>
+
+00:04:03.320 --> 00:04:07.120 line:62% align:center
+<c.cyan.bg_black>En 58, la Guinée, sous la houlette</c>
+<c.cyan.bg_black>de l'opposant Sékou Touré,</c>
+
+00:04:07.440 --> 00:04:11.240 line:62% align:center
+<c.cyan.bg_black>est la 1re colonie africaine de</c>
+<c.cyan.bg_black>l'empire français au sud du Sahara</c>
+
+00:04:11.560 --> 00:04:14.840 line:83% align:center
+<c.cyan.bg_black>à devenir indépendante.</c>
+<c.cyan.bg_black>Les Guinéens ont voté non</c>
+
+00:04:15.160 --> 00:04:18.800 line:16% align:center
+<c.cyan.bg_black>au référendum sur l'entrée</c>
+<c.cyan.bg_black>dans la Communauté franco-africaine</c>
+
+00:04:19.120 --> 00:04:22.240 line:83% align:center
+<c.cyan.bg_black>proposée par de Gaulle</c>
+<c.cyan.bg_black>pour remplacer l'empire.</c>
+
+00:04:22.560 --> 00:04:23.320 line:91% align:center
+<c.cyan.bg_black>En 1960,</c>
+
+00:04:23.640 --> 00:04:27.680 line:16% align:center
+<c.cyan.bg_black>14 pays d'Afrique francophone</c>
+<c.cyan.bg_black>emboîtent le pas à la Guinée</c>
+
+00:04:28.000 --> 00:04:30.520 line:91% align:center
+<c.cyan.bg_black>et accèdent à l'indépendance.</c>
+
+00:04:30.840 --> 00:04:34.120 line:16% align:center
+<c.cyan.bg_black>Le lien de dépendance</c>
+<c.cyan.bg_black>n'est pas coupé pour autant :</c>
+
+00:04:34.440 --> 00:04:37.520 line:12% align:center
+<c.cyan.bg_black>s'installe une relation</c>
+<c.cyan.bg_black>post-coloniale inégale,</c>
+
+00:04:37.840 --> 00:04:41.680 line:12% align:center
+<c.cyan.bg_black>la Françafrique. Jacques Foccart,</c>
+<c.cyan.bg_black>le conseiller spécial de de Gaulle</c>
+
+00:04:42.000 --> 00:04:45.040 line:16% align:center
+<c.cyan.bg_black>pour l'Afrique,</c>
+<c.cyan.bg_black>en sera la cheville ouvrière.</c>
+
+00:04:45.360 --> 00:04:48.840 line:16% align:center
+<c.cyan.bg_black>Pour maintenir son influence</c>
+<c.cyan.bg_black>dans les anciennes colonies,</c>
+
+00:04:49.160 --> 00:04:52.760 line:12% align:center
+<c.cyan.bg_black>stratégiques pour sa sécurité</c>
+<c.cyan.bg_black>et l'obtention de matières 1res,</c>
+
+00:04:53.080 --> 00:04:55.560 line:12% align:center
+<c.cyan.bg_black>Paris va oeuvrer</c>
+<c.cyan.bg_black>à plusieurs niveaux.</c>
+
+00:04:55.880 --> 00:04:58.560 line:83% align:center
+<c.cyan.bg_black>Politique,</c>
+<c.cyan.bg_black>en soutenant des dirigeants amis,</c>
+
+00:04:58.880 --> 00:05:01.360 line:83% align:center
+<c.cyan.bg_black>comme Félix Houphouët-Boigny</c>
+<c.cyan.bg_black>en Côte d'Ivoire,</c>
+
+00:05:01.680 --> 00:05:03.840 line:91% align:center
+<c.cyan.bg_black>Léopold Sédar Senghor au Sénégal,</c>
+
+00:05:04.160 --> 00:05:07.240 line:83% align:center
+<c.cyan.bg_black>Omar Bongo au Gabon</c>
+<c.cyan.bg_black>ou Paul Biya au Cameroun.</c>
+
+00:05:07.560 --> 00:05:10.280 line:83% align:center
+<c.cyan.bg_black>Économique,</c>
+<c.cyan.bg_black>grâce à ses investissements</c>
+
+00:05:10.600 --> 00:05:13.680 line:83% align:center
+<c.cyan.bg_black>et à un accès privilégié</c>
+<c.cyan.bg_black>des entreprises tricolores</c>
+
+00:05:14.000 --> 00:05:15.520 line:91% align:center
+<c.cyan.bg_black>aux marchés et ressources :</c>
+
+00:05:15.840 --> 00:05:18.560 line:83% align:center
+<c.cyan.bg_black>pétrole au Gabon</c>
+<c.cyan.bg_black>et en République du Congo,</c>
+
+00:05:18.880 --> 00:05:21.960 line:91% align:center
+<c.cyan.bg_black>ou uranium au Niger, entre autres.</c>
+
+00:05:22.280 --> 00:05:26.000 line:16% align:center
+<c.cyan.bg_black>Au niveau financier, avec le</c>
+<c.cyan.bg_black>contrôle des politiques monétaires</c>
+
+00:05:26.320 --> 00:05:29.960 line:16% align:center
+<c.cyan.bg_black>des jeunes nations par le franc CFA</c>
+<c.cyan.bg_black>qui est rattaché au franc.</c>
+
+00:05:30.280 --> 00:05:33.600 line:83% align:center
+<c.cyan.bg_black>Influences culturelles</c>
+<c.cyan.bg_black>et scientifiques par la présence</c>
+
+00:05:33.920 --> 00:05:37.440 line:83% align:center
+<c.cyan.bg_black>de coopérants et l'accueil</c>
+<c.cyan.bg_black>d'étudiants africains en France.</c>
+
+00:05:37.760 --> 00:05:41.480 line:83% align:center
+<c.cyan.bg_black>Liens militaires avec des accords</c>
+<c.cyan.bg_black>de défense et des interventions</c>
+
+00:05:41.800 --> 00:05:45.320 line:83% align:center
+<c.cyan.bg_black>pour soutenir certains régimes</c>
+<c.cyan.bg_black>autoritaires à parti unique.</c>
+
+00:05:45.640 --> 00:05:49.640 line:83% align:center
+<c.cyan.bg_black>Au Cameroun, une guerre est menée</c>
+<c.cyan.bg_black>avec l'appui des troupes françaises</c>
+
+00:05:49.960 --> 00:05:53.720 line:83% align:center
+<c.cyan.bg_black>contre les opposants nationalistes</c>
+<c.cyan.bg_black>jusqu'en 1971.</c>
+
+00:05:54.880 --> 00:05:57.720 line:83% align:center
+<c.cyan.bg_black>La guerre froide</c>
+<c.cyan.bg_black>entre le bloc occidental,</c>
+
+00:05:58.040 --> 00:06:01.320 line:83% align:center
+<c.cyan.bg_black>auquel appartient la France,</c>
+<c.cyan.bg_black>et le bloc communiste,</c>
+
+00:06:01.640 --> 00:06:05.440 line:83% align:center
+<c.cyan.bg_black>est à son apogée et elle se joue</c>
+<c.cyan.bg_black>aussi au sud du Sahara.</c>
+
+00:06:05.760 --> 00:06:09.600 line:83% align:center
+<c.cyan.bg_black>Dans ce contexte, Paris est</c>
+<c.cyan.bg_black>le "gendarme de l'Afrique",</c>
+
+00:06:09.920 --> 00:06:14.520 line:83% align:center
+<c.cyan.bg_black>et la France rompt avec les pays</c>
+<c.cyan.bg_black>qui se rapprochent trop de l'URSS,</c>
+
+00:06:14.840 --> 00:06:19.320 line:16% align:center
+<c.cyan.bg_black>comme le Mali de Modibo Keïta</c>
+<c.cyan.bg_black>ou le Bénin de Mathieu Kérékou.</c>
+
+00:06:19.960 --> 00:06:22.680 line:16% align:center
+<c.cyan.bg_black>1990,</c>
+<c.cyan.bg_black>c'est la conférence de La Baule.</c>
+
+00:06:23.000 --> 00:06:26.400 line:70% align:center
+<c.cyan.bg_black>Le président Mitterrand</c>
+<c.cyan.bg_black>annonce le soutien de la France</c>
+
+00:06:26.720 --> 00:06:29.520 line:62% align:center
+<c.cyan.bg_black>au multipartisme</c>
+<c.cyan.bg_black>en Afrique francophone,</c>
+
+00:06:29.840 --> 00:06:33.040 line:62% align:center
+<c.cyan.bg_black>ce qui semble ouvrir</c>
+<c.cyan.bg_black>le début d'une nouvelle ère.</c>
+
+00:06:33.360 --> 00:06:36.680 line:16% align:center
+<c.cyan.bg_black>Mais en 1994, au Rwanda,</c>
+<c.cyan.bg_black>en soutenant trop longtemps</c>
+
+00:06:37.000 --> 00:06:40.400 line:16% align:center
+<c.cyan.bg_black>le régime génocidaire</c>
+<c.cyan.bg_black>du président Habyarimana,</c>
+
+00:06:40.720 --> 00:06:44.400 line:16% align:center
+<c.cyan.bg_black>la France entache l'image de</c>
+<c.cyan.bg_black>la "patrie des droits de l'homme"</c>
+
+00:06:44.720 --> 00:06:46.400 line:91% align:center
+<c.cyan.bg_black>sur le continent.</c>
+
+00:06:47.200 --> 00:06:50.760 line:83% align:center
+<c.white.bg_black>Au 21e siècle, une nouvelle</c>
+<c.white.bg_black>génération arrive au pouvoir</c>
+
+00:06:51.080 --> 00:06:54.720 line:83% align:center
+<c.white.bg_black>sur le continent le plus jeune</c>
+<c.white.bg_black>du monde, mais aussi en France.</c>
+
+00:06:55.040 --> 00:06:58.840 line:83% align:center
+<c.white.bg_black>Un nouveau nationalisme africain</c>
+<c.white.bg_black>émerge, alors que d'autres acteurs</c>
+
+00:06:59.160 --> 00:07:02.680 line:83% align:center
+<c.white.bg_black>économiques et politiques</c>
+<c.white.bg_black>viennent concurrencer la France.</c>
+
+00:07:03.000 --> 00:07:06.040 line:83% align:center
+<c.white.bg_black>Voyons quelles sont</c>
+<c.white.bg_black>ces nouvelles influences.</c>
+
+00:07:06.360 --> 00:07:08.960 line:83% align:center
+<c.cyan.bg_black>En attisant</c>
+<c.cyan.bg_black>le ressentiment populaire</c>
+
+00:07:09.280 --> 00:07:12.800 line:83% align:center
+<c.cyan.bg_black>contre le néocolonialisme français,</c>
+<c.cyan.bg_black>la Russie de Poutine</c>
+
+00:07:13.120 --> 00:07:17.320 line:83% align:center
+<c.cyan.bg_black>est entrée en concurrence directe</c>
+<c.cyan.bg_black>avec la France en Afrique.</c>
+
+00:07:17.640 --> 00:07:21.480 line:83% align:center
+<c.cyan.bg_black>Dans les années 2010, des sociétés</c>
+<c.cyan.bg_black>de mercenaires comme Wagner,</c>
+
+00:07:21.800 --> 00:07:24.880 line:83% align:center
+<c.cyan.bg_black>la plus célèbre, mais pas la seule,</c>
+<c.cyan.bg_black>ont profité</c>
+
+00:07:25.200 --> 00:07:28.920 line:83% align:center
+<c.cyan.bg_black>de l'arrivée de groupes djihadistes</c>
+<c.cyan.bg_black>et de l'instabilité politique</c>
+
+00:07:29.240 --> 00:07:32.360 line:83% align:center
+<c.cyan.bg_black>pour remplacer l'armée française</c>
+<c.cyan.bg_black>dans plusieurs pays :</c>
+
+00:07:32.680 --> 00:07:37.000 line:83% align:center
+<c.cyan.bg_black>Mali, Burkina Faso,</c>
+<c.cyan.bg_black>République centrafricaine et Niger.</c>
+
+00:07:37.640 --> 00:07:41.880 line:83% align:center
+<c.cyan.bg_black>Le Mali est emblématique</c>
+<c.cyan.bg_black>de la stratégie russe,</c>
+
+00:07:42.200 --> 00:07:45.640 line:16% align:center
+<c.cyan.bg_black>qui allie offres sécuritaires</c>
+<c.cyan.bg_black>et campagnes de propagande</c>
+
+00:07:45.960 --> 00:07:49.600 line:16% align:center
+<c.cyan.bg_black>pour discréditer la France.</c>
+<c.cyan.bg_black>Arrivées au Mali en 2013</c>
+
+00:07:49.920 --> 00:07:53.240 line:16% align:center
+<c.cyan.bg_black>à la demande du Président</c>
+<c.cyan.bg_black>Dioncounda Traoré,</c>
+
+00:07:53.560 --> 00:07:56.480 line:83% align:center
+<c.cyan.bg_black>menacé</c>
+<c.cyan.bg_black>par des attaques djihadistes,</c>
+
+00:07:56.800 --> 00:08:00.520 line:83% align:center
+<c.cyan.bg_black>les troupes françaises ont d'abord</c>
+<c.cyan.bg_black>été accueillies en sauveuses.</c>
+
+00:08:00.840 --> 00:08:04.560 line:16% align:center
+<c.cyan.bg_black>Mais au fil des années,</c>
+<c.cyan.bg_black>l'opération Barkhane s'enlise et,</c>
+
+00:08:04.880 --> 00:08:07.360 line:91% align:center
+<c.cyan.bg_black>faute de mettre fin aux attaques,</c>
+
+00:08:07.680 --> 00:08:10.520 line:83% align:center
+<c.cyan.bg_black>perd sa légitimité</c>
+<c.cyan.bg_black>aux yeux des Maliens,</c>
+
+00:08:10.840 --> 00:08:13.680 line:91% align:center
+<c.cyan.bg_black>tandis que la désinformation russe</c>
+
+00:08:14.000 --> 00:08:16.920 line:83% align:center
+<c.cyan.bg_black>attise</c>
+<c.cyan.bg_black>les sentiments antifrançais.</c>
+
+00:08:17.760 --> 00:08:21.720 line:83% align:center
+<c.cyan.bg_black>Après deux coups d'État de</c>
+<c.cyan.bg_black>jeunes officiers en 2020 et 2021,</c>
+
+00:08:22.040 --> 00:08:26.040 line:16% align:center
+<c.cyan.bg_black>Paris annonce son intention</c>
+<c.cyan.bg_black>de retirer ses troupes du Mali.</c>
+
+00:08:26.360 --> 00:08:30.800 line:16% align:center
+<c.cyan.bg_black>La junte au pouvoir fait appel</c>
+<c.cyan.bg_black>aux miliciens russes de Wagner,</c>
+
+00:08:31.120 --> 00:08:34.600 line:16% align:center
+<c.cyan.bg_black>puis dénonce les accords</c>
+<c.cyan.bg_black>de défense avec la France.</c>
+
+00:08:34.920 --> 00:08:38.360 line:16% align:center
+<c.cyan.bg_black>En 2022, les derniers soldats</c>
+<c.cyan.bg_black>français quittent le Mali,</c>
+
+00:08:38.680 --> 00:08:41.960 line:16% align:center
+<c.cyan.bg_black>première étape</c>
+<c.cyan.bg_black>du retrait militaire du Sahel.</c>
+
+00:08:42.280 --> 00:08:44.400 line:91% align:center
+<c.cyan.bg_black>Sur le plan économique,</c>
+
+00:08:44.720 --> 00:08:48.360 line:83% align:center
+<c.cyan.bg_black>la France doit faire face</c>
+<c.cyan.bg_black>à de nouveaux concurrents,</c>
+
+00:08:48.680 --> 00:08:52.360 line:83% align:center
+<c.cyan.bg_black>voyons lesquels.</c>
+<c.cyan.bg_black>Présente de longue date en Afrique,</c>
+
+00:08:52.680 --> 00:08:56.080 line:83% align:center
+<c.cyan.bg_black>la Chine est le 1er partenaire</c>
+<c.cyan.bg_black>commercial du continent,</c>
+
+00:08:56.400 --> 00:08:59.600 line:83% align:center
+<c.cyan.bg_black>loin devant la France</c>
+<c.cyan.bg_black>et les pays européens.</c>
+
+00:08:59.920 --> 00:09:03.280 line:83% align:center
+<c.cyan.bg_black>Les entreprises chinoises</c>
+<c.cyan.bg_black>investissent dans les ports,</c>
+
+00:09:03.600 --> 00:09:07.040 line:83% align:center
+<c.cyan.bg_black>chemins de fer, gazoducs,</c>
+<c.cyan.bg_black>stades et centres commerciaux,</c>
+
+00:09:07.360 --> 00:09:11.160 line:83% align:center
+<c.cyan.bg_black>tandis que les banques prêtent aux</c>
+<c.cyan.bg_black>États pour financer ces travaux.</c>
+
+00:09:11.480 --> 00:09:14.800 line:66% align:center
+<c.cyan.bg_black>Médias chinois et Institut</c>
+<c.cyan.bg_black>Confucius, très présents,</c>
+
+00:09:15.120 --> 00:09:18.440 line:83% align:center
+<c.cyan.bg_black>bâtissent</c>
+<c.cyan.bg_black>l'influence culturelle de la Chine.</c>
+
+00:09:18.760 --> 00:09:22.000 line:83% align:center
+<c.cyan.bg_black>D'autres pays ont étendu</c>
+<c.cyan.bg_black>leur influence économique</c>
+
+00:09:22.320 --> 00:09:25.600 line:83% align:center
+<c.cyan.bg_black>au sud du Sahara,</c>
+<c.cyan.bg_black>et ils font de la France</c>
+
+00:09:25.920 --> 00:09:29.840 line:83% align:center
+<c.cyan.bg_black>un partenaire parmi d'autres</c>
+<c.cyan.bg_black>pour ces États africains.</c>
+
+00:09:30.160 --> 00:09:32.320 line:91% align:center
+<c.cyan.bg_black>Face à cette nouvelle donne,</c>
+
+00:09:32.640 --> 00:09:35.360 line:83% align:center
+<c.cyan.bg_black>la France a revu</c>
+<c.cyan.bg_black>sa doctrine africaine.</c>
+
+00:09:35.680 --> 00:09:38.840 line:83% align:center
+<c.cyan.bg_black>Échanges commerciaux</c>
+<c.cyan.bg_black>et investissements français</c>
+
+00:09:39.160 --> 00:09:42.720 line:83% align:center
+<c.cyan.bg_black>se sont redéployés en dehors</c>
+<c.cyan.bg_black>de l'ancien pré carré colonial,</c>
+
+00:09:43.040 --> 00:09:46.680 line:16% align:center
+<c.cyan.bg_black>notamment vers l'Afrique du Sud,</c>
+<c.cyan.bg_black>le Nigeria et l'Angola,</c>
+
+00:09:47.000 --> 00:09:50.000 line:16% align:center
+<c.cyan.bg_black>des poids lourds</c>
+<c.cyan.bg_black>de l'économie continentale.</c>
+
+00:09:50.320 --> 00:09:53.640 line:83% align:center
+<c.cyan.bg_black>Les Français ont diversifié</c>
+<c.cyan.bg_black>leurs approvisionnements</c>
+
+00:09:53.960 --> 00:09:57.800 line:83% align:center
+<c.cyan.bg_black>en matières 1res stratégiques sur</c>
+<c.cyan.bg_black>le continent africain et ailleurs.</c>
+
+00:09:58.120 --> 00:10:01.600 line:83% align:center
+<c.cyan.bg_black>Par exemple, les sociétés</c>
+<c.cyan.bg_black>françaises achètent aujourd'hui</c>
+
+00:10:01.920 --> 00:10:05.360 line:83% align:center
+<c.cyan.bg_black>davantage de pétrole en Angola</c>
+<c.cyan.bg_black>et au Nigeria qu'au Gabon</c>
+
+00:10:05.680 --> 00:10:09.480 line:16% align:center
+<c.cyan.bg_black>ou à la République du Congo. Et</c>
+<c.cyan.bg_black>le champion tricolore du nucléaire,</c>
+
+00:10:09.800 --> 00:10:13.400 line:16% align:center
+<c.cyan.bg_black>Orano, remplace l'uranium du Niger</c>
+<c.cyan.bg_black>par celui d'Asie centrale,</c>
+
+00:10:13.720 --> 00:10:16.480 line:91% align:center
+<c.cyan.bg_black>d'Australie ou bientôt de Namibie.</c>
+
+00:10:16.800 --> 00:10:20.120 line:16% align:center
+<c.cyan.bg_black>Poursuivi pour corruption au Togo,</c>
+<c.cyan.bg_black>le groupe Bolloré,</c>
+
+00:10:20.440 --> 00:10:22.400 line:91% align:center
+<c.cyan.bg_black>très présent en Afrique,</c>
+
+00:10:22.720 --> 00:10:25.800 line:16% align:center
+<c.cyan.bg_black>a revendu ses nombreuses</c>
+<c.cyan.bg_black>concessions portuaires</c>
+
+00:10:26.120 --> 00:10:28.640 line:91% align:center
+<c.cyan.bg_black>et ses activités logistiques.</c>
+
+00:10:29.200 --> 00:10:33.200 line:83% align:center
+<c.cyan.bg_black>La perte d'influence de la France</c>
+<c.cyan.bg_black>sur le continent africain</c>
+
+00:10:33.520 --> 00:10:36.400 line:83% align:center
+<c.cyan.bg_black>se traduit également</c>
+<c.cyan.bg_black>au niveau politique,</c>
+
+00:10:36.720 --> 00:10:40.320 line:83% align:center
+<c.cyan.bg_black>par exemple en Côte d'Ivoire.</c>
+<c.cyan.bg_black>Le président Macron</c>
+
+00:10:40.640 --> 00:10:44.200 line:83% align:center
+<c.cyan.bg_black>a discrètement tenté</c>
+<c.cyan.bg_black>de dissuader Alassane Ouattara,</c>
+
+00:10:44.520 --> 00:10:48.920 line:83% align:center
+<c.cyan.bg_black>au pouvoir depuis 2011,</c>
+<c.cyan.bg_black>de briguer un quatrième mandat.</c>
+
+00:10:49.240 --> 00:10:50.160 line:91% align:center
+<c.cyan.bg_black>En vain :</c>
+
+00:10:50.480 --> 00:10:55.240 line:83% align:center
+<c.cyan.bg_black>Ouattara a voulu maintenir</c>
+<c.cyan.bg_black>sa candidature à 83 ans.</c>
+
+00:10:55.880 --> 00:10:59.320 line:83% align:center
+<c.white.bg_black>Voilà pour ce constat</c>
+<c.white.bg_black>d'une influence française en berne</c>
+
+00:10:59.640 --> 00:11:01.240 line:91% align:center
+<c.white.bg_black>sur le continent africain,</c>
+
+00:11:01.560 --> 00:11:05.240 line:83% align:center
+<c.white.bg_black>pour des raisons liées au rejet</c>
+<c.white.bg_black>de l'ancienne puissance coloniale,</c>
+
+00:11:05.560 --> 00:11:09.800 line:83% align:center
+<c.white.bg_black>et à de nouvelles influences,</c>
+<c.white.bg_black>notamment russes et chinoises.</c>
+
+00:11:10.120 --> 00:11:13.240 line:83% align:center
+<c.white.bg_black>Mais le lien privilégié</c>
+<c.white.bg_black>avec la France perdure,</c>
+
+00:11:13.560 --> 00:11:15.400 line:91% align:center
+<c.white.bg_black>notamment grâce au franc CFA,</c>
+
+00:11:15.720 --> 00:11:18.400 line:83% align:center
+<c.white.bg_black>un legs de l'époque coloniale</c>
+<c.white.bg_black>pour certains,</c>
+
+00:11:18.720 --> 00:11:22.000 line:83% align:center
+<c.white.bg_black>mais un outil de stabilité</c>
+<c.white.bg_black>économique pour d'autres.</c>
+
+00:11:22.320 --> 00:11:26.080 line:83% align:center
+<c.white.bg_black>Et citons le français, une langue</c>
+<c.white.bg_black>encore très présente en Afrique.</c>
+
+00:11:26.400 --> 00:11:30.560 line:83% align:center
+<c.white.bg_black>La France a un chemin difficile</c>
+<c.white.bg_black>à trouver dans les années à venir :</c>
+
+00:11:30.880 --> 00:11:34.240 line:83% align:center
+<c.white.bg_black>construire un lien nouveau</c>
+<c.white.bg_black>avec le continent africain,</c>
+
+00:11:34.560 --> 00:11:37.680 line:83% align:center
+<c.white.bg_black>enfin débarrassé du poids</c>
+<c.white.bg_black>du passé colonial.</c>
+
+00:11:38.000 --> 00:11:40.920 line:83% align:center
+<c.cyan.bg_black>Pour aller plus loin,</c>
+<c.cyan.bg_black>la revue "L'Histoire"</c>
+
+00:11:41.240 --> 00:11:44.760 line:83% align:center
+<c.cyan.bg_black>évoque l'expression stigmatisant</c>
+<c.cyan.bg_black>les relations de la France</c>
+
+00:11:45.080 --> 00:11:48.280 line:83% align:center
+<c.cyan.bg_black>avec ses anciennes colonies,</c>
+<c.cyan.bg_black>la "Françafrique".</c>
+
+00:11:48.600 --> 00:11:51.200 line:83% align:center
+<c.white.bg_black>C'est la fin</c>
+<c.white.bg_black>du "Dessous des cartes".</c>
+
+00:11:51.520 --> 00:11:53.880 line:91% align:center
+<c.white.bg_black>À la semaine prochaine,</c>
+
+00:11:54.200 --> 00:11:57.720 line:83% align:center
+<c.white.bg_black>et d'ici là, n'oubliez pas</c>
+<c.white.bg_black>arte.tv et nos réseaux sociaux</c>
+
+00:11:58.040 --> 00:12:02.040 line:83% align:center
+<c.white.bg_black>pour retrouver nos vidéos,</c>
+<c.white.bg_black>et abonnez-vous à notre newsletter.</c>
+
+00:12:02.360 --> 00:12:03.360 line:91% align:center
+<c.white.bg_black>À bientôt.</c>
+
+00:12:03.680 --> 00:12:08.680 line:91% align:center
+<c.green.bg_black>france.tv access</c>
+

@@ -1,0 +1,785 @@
+WEBVTT
+
+STYLE
+::cue(.black) {
+ color: black;
+}
+
+STYLE
+::cue(.red) {
+ color: red;
+}
+
+STYLE
+::cue(.green) {
+ color: green;
+}
+
+STYLE
+::cue(.yellow) {
+ color: yellow;
+}
+
+STYLE
+::cue(.blue) {
+ color: blue;
+}
+
+STYLE
+::cue(.magenta) {
+ color: magenta;
+}
+
+STYLE
+::cue(.cyan) {
+ color: cyan;
+}
+
+STYLE
+::cue(.white) {
+ color: white;
+}
+
+STYLE
+::cue(.bg_black) {
+ background-color: black;
+}
+
+STYLE
+::cue(.bg_red) {
+ background-color: red;
+}
+
+STYLE
+::cue(.bg_green) {
+ background-color: green;
+}
+
+STYLE
+::cue(.bg_yellow) {
+ background-color: yellow;
+}
+
+STYLE
+::cue(.bg_blue) {
+ background-color: blue;
+}
+
+STYLE
+::cue(.bg_magenta) {
+ background-color: magenta;
+}
+
+STYLE
+::cue(.bg_cyan) {
+ background-color: cyan;
+}
+
+STYLE
+::cue(.bg_white) {
+ background-color: white;
+}
+
+00:00:03.400 --> 00:00:21.000 line:91% align:left
+<c.magenta.bg_black>...</c>
+
+00:00:21.320 --> 00:00:23.680 line:91% align:center
+<c.white.bg_black>-Ravie de vous retrouver.</c>
+
+00:00:24.000 --> 00:00:27.720 line:83% align:center
+<c.white.bg_black>On commence cette émission</c>
+<c.white.bg_black>avec une chouette effraie,</c>
+
+00:00:28.040 --> 00:00:33.040 line:83% align:center
+<c.white.bg_black>animal nocturne au cri effrayant,</c>
+<c.white.bg_black>d'où son nom, et au plumage clair.</c>
+
+00:00:33.360 --> 00:00:36.600 line:83% align:center
+<c.white.bg_black>Présente sur la quasi-totalité</c>
+<c.white.bg_black>des continents,</c>
+
+00:00:36.920 --> 00:00:39.760 line:91% align:center
+<c.white.bg_black>cette espèce, protégée depuis 1976,</c>
+
+00:00:40.080 --> 00:00:42.920 line:83% align:center
+<c.white.bg_black>est sérieusement</c>
+<c.white.bg_black>menacée de disparition.</c>
+
+00:00:43.240 --> 00:00:48.120 line:83% align:center
+<c.white.bg_black>Par an, 20 000 chouettes effraies</c>
+<c.white.bg_black>sont tuées sur les routes de France</c>
+
+00:00:48.440 --> 00:00:53.040 line:83% align:center
+<c.white.bg_black>parce qu'elles volent au ras du sol</c>
+<c.white.bg_black>quand elles chassent la nuit.</c>
+
+00:00:53.360 --> 00:00:55.920 line:83% align:center
+<c.white.bg_black>Les granges et greniers</c>
+<c.white.bg_black>sont rénovés,</c>
+
+00:00:56.240 --> 00:00:59.640 line:83% align:center
+<c.white.bg_black>ne permettant plus aux chouettes</c>
+<c.white.bg_black>de s'y réfugier.</c>
+
+00:00:59.960 --> 00:01:03.560 line:83% align:center
+<c.white.bg_black>Les bois et prairies</c>
+<c.white.bg_black>se font de plus en plus rares,</c>
+
+00:01:03.880 --> 00:01:08.120 line:83% align:center
+<c.white.bg_black>et les petits rongeurs dont</c>
+<c.white.bg_black>elles se nourrissent disparaissent.</c>
+
+00:01:08.440 --> 00:01:12.480 line:83% align:center
+<c.white.bg_black>De plus, ces derniers ingèrent</c>
+<c.white.bg_black>produits chimiques et pesticides</c>
+
+00:01:12.800 --> 00:01:16.920 line:83% align:center
+<c.white.bg_black>qui contaminent l'organisme</c>
+<c.white.bg_black>de la chouette durant la digestion.</c>
+
+00:01:17.240 --> 00:01:22.200 line:83% align:center
+<c.white.bg_black>On vous propose un voyage à travers</c>
+<c.white.bg_black>le monde de ces animaux en danger</c>
+
+00:01:22.520 --> 00:01:26.000 line:83% align:center
+<c.white.bg_black>qui va nous conduire</c>
+<c.white.bg_black>sur plusieurs continents,</c>
+
+00:01:26.320 --> 00:01:30.280 line:83% align:center
+<c.white.bg_black>pour mesurer à quel point</c>
+<c.white.bg_black>la biodiversité est menacée.</c>
+
+00:01:30.600 --> 00:01:35.120 line:83% align:center
+<c.white.bg_black>Tout de suite, voici "SOS animaux".</c>
+<c.white.bg_black>Sortons nos cartes.</c>
+
+00:01:35.440 --> 00:01:39.160 line:83% align:center
+<c.cyan.bg_black>Sur l'île Maurice vivait</c>
+<c.cyan.bg_black>jusqu'au 17e siècle le dodo</c>
+
+00:01:39.480 --> 00:01:43.200 line:83% align:center
+<c.cyan.bg_black>ou Dronte de Maurice,</c>
+<c.cyan.bg_black>qui a disparu moins d'un siècle</c>
+
+00:01:43.520 --> 00:01:46.840 line:83% align:center
+<c.cyan.bg_black>après la découverte de l'île</c>
+<c.cyan.bg_black>par les Européens.</c>
+
+00:01:47.160 --> 00:01:51.960 line:83% align:center
+<c.cyan.bg_black>Sans prédateur, le dodo est devenu</c>
+<c.cyan.bg_black>une proie facile pour les Hommes,</c>
+
+00:01:52.320 --> 00:01:55.240 line:83% align:center
+<c.cyan.bg_black>d'autant plus</c>
+<c.cyan.bg_black>qu'il ne pouvait pas voler.</c>
+
+00:01:55.560 --> 00:01:59.080 line:83% align:center
+<c.cyan.bg_black>Il est devenu l'emblème national</c>
+<c.cyan.bg_black>de l'île Maurice</c>
+
+00:01:59.400 --> 00:02:03.480 line:83% align:center
+<c.cyan.bg_black>sur les billets, les timbres</c>
+<c.cyan.bg_black>et les produits touristiques.</c>
+
+00:02:03.800 --> 00:02:07.960 line:83% align:center
+<c.cyan.bg_black>C'est l'un des symboles</c>
+<c.cyan.bg_black>de la disparition des espèces</c>
+
+00:02:08.280 --> 00:02:10.440 line:91% align:center
+<c.cyan.bg_black>du fait de l'activité humaine.</c>
+
+00:02:10.760 --> 00:02:15.200 line:83% align:center
+<c.cyan.bg_black>La disparition des animaux se fait</c>
+<c.cyan.bg_black>de plus en plus inquiétante.</c>
+
+00:02:15.520 --> 00:02:19.600 line:83% align:center
+<c.cyan.bg_black>Regardons la diminution des espèces</c>
+<c.cyan.bg_black>en nombre d'individus.</c>
+
+00:02:19.920 --> 00:02:24.280 line:50% align:center
+<c.cyan.bg_black>Selon le WWF, les populations</c>
+<c.cyan.bg_black>de vertébrés, sur des décennies,</c>
+
+00:02:24.600 --> 00:02:28.400 line:83% align:center
+<c.cyan.bg_black>poissons, oiseaux, mammifères,</c>
+<c.cyan.bg_black>amphibiens et reptiles,</c>
+
+00:02:28.720 --> 00:02:30.880 line:91% align:center
+<c.cyan.bg_black>ont chuté de 73% en moyenne</c>
+
+00:02:31.200 --> 00:02:33.440 line:91% align:center
+<c.cyan.bg_black>entre 1970 et 2020.</c>
+
+00:02:33.760 --> 00:02:36.840 line:83% align:center
+<c.cyan.bg_black>Le déclin selon les régions</c>
+<c.cyan.bg_black>est le suivant :</c>
+
+00:02:37.160 --> 00:02:39.840 line:91% align:center
+<c.cyan.bg_black>en Amérique latine et aux Caraïbes,</c>
+
+00:02:40.160 --> 00:02:44.320 line:62% align:center
+<c.cyan.bg_black>le nombre de vertébrés sauvages</c>
+<c.cyan.bg_black>a diminué de 95%,</c>
+
+00:02:44.640 --> 00:02:49.400 line:12% align:center
+<c.cyan.bg_black>de 39% en Amérique du Nord,</c>
+<c.cyan.bg_black>de 76% en Afrique,</c>
+
+00:02:49.720 --> 00:02:52.520 line:12% align:center
+<c.cyan.bg_black>de 60% en Asie et en Océanie</c>
+
+00:02:52.840 --> 00:02:56.640 line:62% align:center
+<c.cyan.bg_black>et de 35%</c>
+<c.cyan.bg_black>en Europe et en Asie centrale.</c>
+
+00:02:56.960 --> 00:03:00.440 line:83% align:center
+<c.cyan.bg_black>En ce qui concerne</c>
+<c.cyan.bg_black>l'extinction des espèces,</c>
+
+00:03:00.760 --> 00:03:03.640 line:83% align:center
+<c.cyan.bg_black>elle n'est pas toujours facile</c>
+<c.cyan.bg_black>à prouver.</c>
+
+00:03:03.960 --> 00:03:06.480 line:83% align:center
+<c.cyan.bg_black>C'est le cas</c>
+<c.cyan.bg_black>du courlis à bec grêle.</c>
+
+00:03:06.800 --> 00:03:10.520 line:83% align:center
+<c.cyan.bg_black>Cet échassier vit</c>
+<c.cyan.bg_black>dans une vaste zone biogéographique</c>
+
+00:03:10.840 --> 00:03:14.000 line:83% align:center
+<c.cyan.bg_black>allant de l'ouest de l'Oural</c>
+<c.cyan.bg_black>au Moyen-Orient,</c>
+
+00:03:14.320 --> 00:03:16.800 line:83% align:center
+<c.cyan.bg_black>au nord de l'Afrique</c>
+<c.cyan.bg_black>et à l'Islande.</c>
+
+00:03:17.120 --> 00:03:21.560 line:83% align:center
+<c.cyan.bg_black>Selon l'Union internationale pour</c>
+<c.cyan.bg_black>la conservation de la nature,</c>
+
+00:03:21.880 --> 00:03:26.600 line:12% align:center
+<c.cyan.bg_black>ce courlis est dans la catégorie</c>
+<c.cyan.bg_black>"en danger critique d'extinction".</c>
+
+00:03:26.920 --> 00:03:29.600 line:12% align:center
+<c.cyan.bg_black>Sa dernière évaluation</c>
+<c.cyan.bg_black>remonte à 2018.</c>
+
+00:03:29.920 --> 00:03:34.160 line:12% align:center
+<c.cyan.bg_black>Selon une étude publiée dans</c>
+<c.cyan.bg_black>la revue ornithologique "Ibis",</c>
+
+00:03:34.480 --> 00:03:36.440 line:12% align:center
+<c.cyan.bg_black>il est très probablement éteint.</c>
+
+00:03:36.760 --> 00:03:39.000 line:12% align:center
+<c.cyan.bg_black>L'UICN va réévaluer son statut,</c>
+
+00:03:39.320 --> 00:03:42.320 line:12% align:center
+<c.cyan.bg_black>sachant qu'une espèce</c>
+<c.cyan.bg_black>ne peut être déclarée éteinte</c>
+
+00:03:42.640 --> 00:03:46.520 line:12% align:center
+<c.cyan.bg_black>que lorsqu'il est certain</c>
+<c.cyan.bg_black>que le dernier individu est mort.</c>
+
+00:03:46.840 --> 00:03:49.120 line:91% align:center
+<c.cyan.bg_black>L'UICN publie une liste rouge</c>
+
+00:03:49.440 --> 00:03:53.320 line:12% align:center
+<c.cyan.bg_black>qui fait un état des lieux</c>
+<c.cyan.bg_black>de la biodiversité mondiale.</c>
+
+00:03:53.640 --> 00:03:55.360 line:12% align:center
+<c.cyan.bg_black>Il y a 9 catégories.</c>
+
+00:03:55.680 --> 00:03:58.200 line:12% align:center
+<c.cyan.bg_black>Une espèce est en voie d'extinction</c>
+
+00:03:58.520 --> 00:04:02.120 line:12% align:center
+<c.cyan.bg_black>si elle est classée</c>
+<c.cyan.bg_black>dans "vulnérable", "en danger"</c>
+
+00:04:02.440 --> 00:04:04.280 line:12% align:center
+<c.cyan.bg_black>et "en danger critique".</c>
+
+00:04:04.600 --> 00:04:08.120 line:83% align:center
+<c.cyan.bg_black>Chez les vertébrés,</c>
+<c.cyan.bg_black>une espèce de mammifères sur 4</c>
+
+00:04:08.440 --> 00:04:10.240 line:91% align:center
+<c.cyan.bg_black>est menacée d'extinction,</c>
+
+00:04:10.560 --> 00:04:14.520 line:12% align:center
+<c.cyan.bg_black>une espèce d'oiseaux sur 8,</c>
+<c.cyan.bg_black>une espèce de reptiles sur 5</c>
+
+00:04:14.840 --> 00:04:18.200 line:12% align:center
+<c.cyan.bg_black>et plus d'une espèce d'amphibiens</c>
+<c.cyan.bg_black>sur 3.</c>
+
+00:04:18.520 --> 00:04:23.280 line:83% align:center
+<c.cyan.bg_black>On trouve le plus grand nombre</c>
+<c.cyan.bg_black>d'espèces menacées en Indonésie,</c>
+
+00:04:23.600 --> 00:04:25.840 line:91% align:center
+<c.cyan.bg_black>vertébrés et invertébrés.</c>
+
+00:04:26.160 --> 00:04:30.240 line:83% align:center
+<c.cyan.bg_black>Viennent ensuite dans l'ordre</c>
+<c.cyan.bg_black>les États-Unis, l'Australie,</c>
+
+00:04:30.560 --> 00:04:33.520 line:83% align:center
+<c.cyan.bg_black>le Brésil, le Mexique,</c>
+<c.cyan.bg_black>l'Inde, Madagascar,</c>
+
+00:04:33.840 --> 00:04:36.440 line:12% align:center
+<c.cyan.bg_black>la Chine, la Malaisie</c>
+<c.cyan.bg_black>et la Colombie.</c>
+
+00:04:36.760 --> 00:04:40.480 line:12% align:center
+<c.cyan.bg_black>Dans les 30 pays comptant</c>
+<c.cyan.bg_black>le plus d'espèces menacées,</c>
+
+00:04:40.800 --> 00:04:42.960 line:91% align:center
+<c.cyan.bg_black>4 pays de l'Union européenne :</c>
+
+00:04:43.280 --> 00:04:46.080 line:91% align:center
+<c.cyan.bg_black>Espagne, Grèce, Italie et Portugal.</c>
+
+00:04:46.400 --> 00:04:49.960 line:91% align:center
+<c.cyan.bg_black>La France métropolitaine est 31e.</c>
+
+00:04:52.880 --> 00:04:55.840 line:83% align:center
+<c.cyan.bg_black>Prenons l'exemple</c>
+<c.cyan.bg_black>du vison d'Europe.</c>
+
+00:04:56.160 --> 00:05:00.960 line:83% align:center
+<c.cyan.bg_black>Il était répandu en Europe,</c>
+<c.cyan.bg_black>de l'Oural jusqu'à l'Atlantique.</c>
+
+00:05:01.280 --> 00:05:03.640 line:91% align:center
+<c.cyan.bg_black>Mais depuis le milieu du 19e,</c>
+
+00:05:04.000 --> 00:05:08.040 line:83% align:center
+<c.cyan.bg_black>l'aire de répartition du vison</c>
+<c.cyan.bg_black>a diminué de plus de 85%.</c>
+
+00:05:08.360 --> 00:05:11.960 line:41% align:center
+<c.cyan.bg_black>Il est classé</c>
+<c.cyan.bg_black>en "danger critique d'extinction".</c>
+
+00:05:12.280 --> 00:05:16.360 line:83% align:center
+<c.cyan.bg_black>Sa présence se limite</c>
+<c.cyan.bg_black>aux populations isolées en Russie,</c>
+
+00:05:16.680 --> 00:05:19.280 line:54% align:center
+<c.cyan.bg_black>en Roumanie</c>
+<c.cyan.bg_black>dans le delta du Danube,</c>
+
+00:05:19.600 --> 00:05:22.200 line:45% align:center
+<c.cyan.bg_black>en Ukraine dans le delta du Dniestr</c>
+
+00:05:22.520 --> 00:05:27.120 line:83% align:center
+<c.cyan.bg_black>et en Estonie où en 2000, il a été</c>
+<c.cyan.bg_black>réintroduit sur l'île Hiiumaa.</c>
+
+00:05:27.440 --> 00:05:29.440 line:91% align:center
+<c.cyan.bg_black>Le vison d'Europe vit aussi</c>
+
+00:05:29.760 --> 00:05:33.640 line:83% align:center
+<c.cyan.bg_black>dans le Nord de l'Espagne</c>
+<c.cyan.bg_black>et le Sud-Ouest de la France</c>
+
+00:05:33.960 --> 00:05:37.320 line:83% align:center
+<c.cyan.bg_black>où il n'est plus présent</c>
+<c.cyan.bg_black>que dans 7 départements</c>
+
+00:05:37.640 --> 00:05:39.680 line:91% align:center
+<c.cyan.bg_black>contre 40 à la fin du 19e.</c>
+
+00:05:40.000 --> 00:05:44.800 line:83% align:center
+<c.cyan.bg_black>Il est protégé depuis 2007</c>
+<c.cyan.bg_black>sur tout le territoire national.</c>
+
+00:05:45.120 --> 00:05:49.480 line:83% align:center
+<c.white.bg_black>Les disparitions d'espèces</c>
+<c.white.bg_black>sont nombreuses à travers le monde,</c>
+
+00:05:49.800 --> 00:05:52.480 line:91% align:center
+<c.white.bg_black>même si les évaluer est difficile.</c>
+
+00:05:52.800 --> 00:05:57.000 line:83% align:center
+<c.white.bg_black>Quelles en sont les causes</c>
+<c.white.bg_black>et surtout comment lutter ?</c>
+
+00:05:57.320 --> 00:05:59.440 line:91% align:center
+<c.white.bg_black>On va voir ça maintenant.</c>
+
+00:05:59.760 --> 00:06:03.360 line:83% align:center
+<c.cyan.bg_black>Les causes d'effondrement</c>
+<c.cyan.bg_black>des espèces sont variées.</c>
+
+00:06:03.680 --> 00:06:07.840 line:83% align:center
+<c.cyan.bg_black>En 1er, le changement d'utilisation</c>
+<c.cyan.bg_black>des terres et des mers</c>
+
+00:06:08.160 --> 00:06:10.680 line:66% align:center
+<c.cyan.bg_black>par l'agriculture</c>
+<c.cyan.bg_black>et l'urbanisation,</c>
+
+00:06:11.000 --> 00:06:15.080 line:66% align:center
+<c.cyan.bg_black>conduisant à la dégradation</c>
+<c.cyan.bg_black>ou la perte de leurs habitats.</c>
+
+00:06:15.400 --> 00:06:20.080 line:66% align:center
+<c.cyan.bg_black>On trouve aussi l'exploitation</c>
+<c.cyan.bg_black>directe, via la chasse ou la pêche.</c>
+
+00:06:20.400 --> 00:06:23.560 line:83% align:center
+<c.cyan.bg_black>Les autres causes</c>
+<c.cyan.bg_black>d'effondrement des espèces</c>
+
+00:06:23.880 --> 00:06:27.200 line:83% align:center
+<c.cyan.bg_black>sont les changements climatiques,</c>
+<c.cyan.bg_black>la pollution</c>
+
+00:06:27.520 --> 00:06:30.240 line:83% align:center
+<c.cyan.bg_black>et les espèces exotiques</c>
+<c.cyan.bg_black>envahissantes.</c>
+
+00:06:30.560 --> 00:06:34.800 line:83% align:center
+<c.cyan.bg_black>La plupart de ces facteurs</c>
+<c.cyan.bg_black>se combinent chez les amphibiens,</c>
+
+00:06:35.120 --> 00:06:38.160 line:83% align:center
+<c.cyan.bg_black>le groupe de vertébrés</c>
+<c.cyan.bg_black>le plus préoccupant,</c>
+
+00:06:38.480 --> 00:06:40.880 line:91% align:center
+<c.cyan.bg_black>avec 41% des espèces menacées.</c>
+
+00:06:41.200 --> 00:06:44.880 line:83% align:center
+<c.cyan.bg_black>Les plus grandes concentrations</c>
+<c.cyan.bg_black>d'amphibiens menacés</c>
+
+00:06:45.200 --> 00:06:48.840 line:62% align:center
+<c.cyan.bg_black>se trouvent dans les Caraïbes,</c>
+<c.cyan.bg_black>en Amérique centrale,</c>
+
+00:06:49.160 --> 00:06:52.840 line:12% align:center
+<c.cyan.bg_black>dans les Andes tropicales,</c>
+<c.cyan.bg_black>en Afrique subsaharienne,</c>
+
+00:06:53.160 --> 00:06:56.760 line:12% align:center
+<c.cyan.bg_black>à Madagascar, au sud-ouest</c>
+<c.cyan.bg_black>de l'Inde, au Sri Lanka,</c>
+
+00:06:57.080 --> 00:06:59.000 line:12% align:center
+<c.cyan.bg_black>en Chine et au Vietnam.</c>
+
+00:06:59.320 --> 00:07:04.040 line:83% align:center
+<c.cyan.bg_black>Ces animaux respirant par la peau</c>
+<c.cyan.bg_black>sont particulièrement vulnérables</c>
+
+00:07:04.360 --> 00:07:08.840 line:83% align:center
+<c.cyan.bg_black>aux changements de température</c>
+<c.cyan.bg_black>et d'humidité et à la pollution.</c>
+
+00:07:09.160 --> 00:07:12.640 line:83% align:center
+<c.cyan.bg_black>Intéressons-nous</c>
+<c.cyan.bg_black>à la morue ou cabillaud,</c>
+
+00:07:12.960 --> 00:07:16.280 line:83% align:center
+<c.cyan.bg_black>l'un des poissons</c>
+<c.cyan.bg_black>les plus appréciés en Europe.</c>
+
+00:07:16.600 --> 00:07:18.520 line:91% align:center
+<c.cyan.bg_black>Du fait de la surpêche,</c>
+
+00:07:18.840 --> 00:07:22.720 line:45% align:center
+<c.cyan.bg_black>la morue d'Atlantique</c>
+<c.cyan.bg_black>est classée comme "vulnérable".</c>
+
+00:07:23.040 --> 00:07:27.880 line:45% align:center
+<c.cyan.bg_black>Si elle venait à disparaître,</c>
+<c.cyan.bg_black>fini le "fish and chips" anglais,</c>
+
+00:07:28.200 --> 00:07:31.320 line:12% align:center
+<c.cyan.bg_black>ainsi qu'une partie</c>
+<c.cyan.bg_black>de la cuisine portugaise</c>
+
+00:07:31.680 --> 00:07:33.720 line:91% align:center
+<c.cyan.bg_black>ou l'huile de foie de morue.</c>
+
+00:07:34.040 --> 00:07:36.560 line:83% align:center
+<c.cyan.bg_black>Les animaux nourrissent</c>
+<c.cyan.bg_black>les humains,</c>
+
+00:07:36.880 --> 00:07:39.760 line:83% align:center
+<c.cyan.bg_black>mais ils ont bien sûr</c>
+<c.cyan.bg_black>d'autres rôles.</c>
+
+00:07:40.080 --> 00:07:42.800 line:91% align:center
+<c.cyan.bg_black>Dans la forêt atlantique du Brésil,</c>
+
+00:07:43.120 --> 00:07:46.280 line:83% align:center
+<c.cyan.bg_black>les populations</c>
+<c.cyan.bg_black>de grands animaux frugivores,</c>
+
+00:07:46.600 --> 00:07:48.960 line:91% align:center
+<c.cyan.bg_black>tapirs, toucans, tamarins, cerfs,</c>
+
+00:07:49.280 --> 00:07:51.800 line:83% align:center
+<c.cyan.bg_black>disparaissent</c>
+<c.cyan.bg_black>en raison de la chasse</c>
+
+00:07:52.120 --> 00:07:54.240 line:91% align:center
+<c.cyan.bg_black>et du commerce illégal.</c>
+
+00:07:54.560 --> 00:07:57.000 line:91% align:center
+<c.cyan.bg_black>Ces animaux mangent des fruits mûrs</c>
+
+00:07:57.320 --> 00:08:01.480 line:83% align:center
+<c.cyan.bg_black>et jouent un rôle essentiel</c>
+<c.cyan.bg_black>dans la dispersion des graines,</c>
+
+00:08:01.800 --> 00:08:04.680 line:83% align:center
+<c.cyan.bg_black>renouvelant les arbres</c>
+<c.cyan.bg_black>à grosses graines,</c>
+
+00:08:05.000 --> 00:08:09.880 line:83% align:center
+<c.cyan.bg_black>des feuillus de grande taille</c>
+<c.cyan.bg_black>qui stockent davantage le carbone.</c>
+
+00:08:10.200 --> 00:08:14.160 line:83% align:center
+<c.cyan.bg_black>Lorsque les populations</c>
+<c.cyan.bg_black>de ces grands animaux diminuent,</c>
+
+00:08:14.480 --> 00:08:18.920 line:83% align:center
+<c.cyan.bg_black>ils ne dispersent plus les graines</c>
+<c.cyan.bg_black>et les arbres disparaissent.</c>
+
+00:08:19.240 --> 00:08:22.760 line:83% align:center
+<c.cyan.bg_black>La forêt perd alors de sa capacité</c>
+<c.cyan.bg_black>à stocker du carbone</c>
+
+00:08:23.080 --> 00:08:27.520 line:83% align:center
+<c.cyan.bg_black>et à produire de l'oxygène,</c>
+<c.cyan.bg_black>aggravant le changement climatique.</c>
+
+00:08:27.840 --> 00:08:31.200 line:83% align:center
+<c.cyan.bg_black>Heureusement,</c>
+<c.cyan.bg_black>pour protéger les animaux menacés,</c>
+
+00:08:31.520 --> 00:08:34.000 line:83% align:center
+<c.cyan.bg_black>il existe</c>
+<c.cyan.bg_black>des accords internationaux</c>
+
+00:08:34.320 --> 00:08:36.960 line:91% align:center
+<c.cyan.bg_black>et des politiques de conservation.</c>
+
+00:08:37.280 --> 00:08:40.000 line:91% align:center
+<c.cyan.bg_black>Concernant les accords entre États,</c>
+
+00:08:40.320 --> 00:08:43.400 line:83% align:center
+<c.cyan.bg_black>la Convention</c>
+<c.cyan.bg_black>sur le commerce international</c>
+
+00:08:43.720 --> 00:08:48.240 line:83% align:center
+<c.cyan.bg_black>des espèces de faune et de flore</c>
+<c.cyan.bg_black>sauvages menacées d'extinction,</c>
+
+00:08:48.560 --> 00:08:51.800 line:83% align:center
+<c.cyan.bg_black>la CITES, a été signée en 1973,</c>
+<c.cyan.bg_black>à Washington.</c>
+
+00:08:52.120 --> 00:08:54.560 line:91% align:center
+<c.cyan.bg_black>Entrée en vigueur 2 ans plus tard,</c>
+
+00:08:54.880 --> 00:08:59.200 line:62% align:center
+<c.cyan.bg_black>elle compte désormais 184 pays,</c>
+<c.cyan.bg_black>ainsi que l'Union européenne.</c>
+
+00:08:59.520 --> 00:09:03.880 line:12% align:center
+<c.cyan.bg_black>Elle réglemente le passage</c>
+<c.cyan.bg_black>aux frontières des espèces sauvages</c>
+
+00:09:04.200 --> 00:09:08.240 line:12% align:center
+<c.cyan.bg_black>pour éviter la surexploitation</c>
+<c.cyan.bg_black>du commerce international.</c>
+
+00:09:08.560 --> 00:09:11.240 line:83% align:center
+<c.cyan.bg_black>Autre accord,</c>
+<c.cyan.bg_black>celui de Kunming-Montréal,</c>
+
+00:09:11.560 --> 00:09:15.640 line:83% align:center
+<c.cyan.bg_black>adopté en décembre 2022</c>
+<c.cyan.bg_black>lors de la COP15 Biodiversité,</c>
+
+00:09:15.960 --> 00:09:18.960 line:83% align:center
+<c.cyan.bg_black>organisée à Montréal</c>
+<c.cyan.bg_black>par les 195 États</c>
+
+00:09:19.280 --> 00:09:23.720 line:83% align:center
+<c.cyan.bg_black>de la convention des Nations unies</c>
+<c.cyan.bg_black>sur la diversité biologique,</c>
+
+00:09:24.040 --> 00:09:27.560 line:83% align:center
+<c.cyan.bg_black>avec l'Union européenne,</c>
+<c.cyan.bg_black>mais sans les États-Unis.</c>
+
+00:09:27.880 --> 00:09:31.080 line:58% align:center
+<c.cyan.bg_black>Ce cadre mondial fixe</c>
+<c.cyan.bg_black>pour la période 2020-2030</c>
+
+00:09:31.400 --> 00:09:35.680 line:58% align:center
+<c.cyan.bg_black>des objectifs précis avec 23 cibles</c>
+<c.cyan.bg_black>dotées d'un cadre de suivi.</c>
+
+00:09:36.000 --> 00:09:39.320 line:12% align:center
+<c.cyan.bg_black>La cible 4 concerne</c>
+<c.cyan.bg_black>la conservation des espèces</c>
+
+00:09:39.640 --> 00:09:41.720 line:12% align:center
+<c.cyan.bg_black>et de la diversité génétique.</c>
+
+00:09:42.040 --> 00:09:44.680 line:20% align:center
+<c.cyan.bg_black>La cible 5, la récolte, le commerce</c>
+
+00:09:45.000 --> 00:09:48.080 line:12% align:center
+<c.cyan.bg_black>et l'utilisation durable</c>
+<c.cyan.bg_black>des espèces.</c>
+
+00:09:48.400 --> 00:09:51.320 line:83% align:center
+<c.cyan.bg_black>Il y a aussi</c>
+<c.cyan.bg_black>des politiques volontaristes,</c>
+
+00:09:51.640 --> 00:09:53.640 line:91% align:center
+<c.cyan.bg_black>comme en Inde, depuis 1973,</c>
+
+00:09:54.000 --> 00:09:57.720 line:12% align:center
+<c.cyan.bg_black>avec le projet Tiger.</c>
+<c.cyan.bg_black>De quoi s'agit-il ?</c>
+
+00:09:58.040 --> 00:10:02.080 line:83% align:center
+<c.cyan.bg_black>L'Inde abrite les 3/4</c>
+<c.cyan.bg_black>de la population mondiale de tigres</c>
+
+00:10:02.400 --> 00:10:03.960 line:91% align:center
+<c.cyan.bg_black>dans 18 États.</c>
+
+00:10:04.280 --> 00:10:08.160 line:50% align:center
+<c.cyan.bg_black>L'UICN a classé le tigre</c>
+<c.cyan.bg_black>dans la catégorie "en danger".</c>
+
+00:10:08.480 --> 00:10:10.920 line:91% align:center
+<c.cyan.bg_black>Son aire de répartition a augmenté,</c>
+
+00:10:11.240 --> 00:10:14.000 line:91% align:center
+<c.cyan.bg_black>passant de 106 330km2 en 2006</c>
+
+00:10:14.320 --> 00:10:17.560 line:91% align:center
+<c.cyan.bg_black>à 138 200km2 en 2018,</c>
+
+00:10:17.880 --> 00:10:21.800 line:83% align:center
+<c.cyan.bg_black>soit une hausse de 30%</c>
+<c.cyan.bg_black>en un peu plus d'une décennie.</c>
+
+00:10:22.120 --> 00:10:25.920 line:83% align:center
+<c.cyan.bg_black>Les tigres occupent</c>
+<c.cyan.bg_black>des zones protégées, sans humains,</c>
+
+00:10:26.240 --> 00:10:28.120 line:91% align:center
+<c.cyan.bg_black>et riches en proies.</c>
+
+00:10:28.440 --> 00:10:30.960 line:91% align:center
+<c.cyan.bg_black>Ils ont aussi colonisé des habitats</c>
+
+00:10:31.280 --> 00:10:34.040 line:83% align:center
+<c.cyan.bg_black>partagés</c>
+<c.cyan.bg_black>avec 60 millions de personnes !</c>
+
+00:10:34.360 --> 00:10:38.440 line:83% align:center
+<c.cyan.bg_black>La revue "Science" fait remarquer</c>
+<c.cyan.bg_black>à propos du projet Tiger</c>
+
+00:10:38.760 --> 00:10:42.360 line:83% align:center
+<c.cyan.bg_black>que pour pouvoir partager</c>
+<c.cyan.bg_black>les terres avec les tigres,</c>
+
+00:10:42.680 --> 00:10:46.360 line:83% align:center
+<c.cyan.bg_black>il faut un contexte socio-politique</c>
+<c.cyan.bg_black>qui le permette,</c>
+
+00:10:46.720 --> 00:10:49.480 line:83% align:center
+<c.cyan.bg_black>c'est-à-dire</c>
+<c.cyan.bg_black>un développement économique</c>
+
+00:10:49.800 --> 00:10:51.960 line:91% align:center
+<c.cyan.bg_black>et une stabilité politique.</c>
+
+00:10:54.200 --> 00:10:58.640 line:83% align:center
+<c.white.bg_black>Voilà pour ce tour d'horizon</c>
+<c.white.bg_black>de la biodiversité en danger,</c>
+
+00:10:58.960 --> 00:11:02.560 line:83% align:center
+<c.white.bg_black>avec quelques histoires</c>
+<c.white.bg_black>de politiques volontaristes</c>
+
+00:11:02.880 --> 00:11:06.040 line:83% align:center
+<c.white.bg_black>qui changent la donne,</c>
+<c.white.bg_black>comme ce projet Tiger.</c>
+
+00:11:06.360 --> 00:11:10.960 line:83% align:center
+<c.white.bg_black>Mais le constat est alarmant,</c>
+<c.white.bg_black>un taux d'extinction sans précédent</c>
+
+00:11:11.280 --> 00:11:15.120 line:83% align:center
+<c.white.bg_black>et qui s'accélère</c>
+<c.white.bg_black>avec un seul responsable : l'Homme.</c>
+
+00:11:15.440 --> 00:11:19.160 line:83% align:center
+<c.white.bg_black>Imaginez un monde</c>
+<c.white.bg_black>où plus aucun oiseau ne chanterait.</c>
+
+00:11:19.480 --> 00:11:23.960 line:83% align:center
+<c.white.bg_black>Or, en 30 ans, l'Europe a perdu</c>
+<c.white.bg_black>plus de 421 millions d'oiseaux.</c>
+
+00:11:24.280 --> 00:11:28.600 line:83% align:center
+<c.white.bg_black>Si on possède un jardin,</c>
+<c.white.bg_black>on peut tenter de les faire revenir</c>
+
+00:11:28.920 --> 00:11:31.240 line:91% align:center
+<c.white.bg_black>en plantant des arbres fruitiers</c>
+
+00:11:31.560 --> 00:11:35.880 line:83% align:center
+<c.white.bg_black>pour leur servir d'abris</c>
+<c.white.bg_black>et leur fournir de la nourriture.</c>
+
+00:11:36.200 --> 00:11:41.240 line:83% align:center
+<c.white.bg_black>Enfin, éviter de couper les haies</c>
+<c.white.bg_black>et, bien sûr, zéro herbicide !</c>
+
+00:11:41.560 --> 00:11:44.800 line:83% align:center
+<c.yellow.bg_black>Pour aller plus loin,</c>
+<c.yellow.bg_black>"Géographie des animaux,</c>
+
+00:11:45.120 --> 00:11:49.200 line:83% align:center
+<c.yellow.bg_black>"de la zoogéographie</c>
+<c.yellow.bg_black>à la géopolitique".</c>
+
+00:11:51.560 --> 00:11:53.880 line:91% align:center
+<c.white.bg_black>Rendez-vous la semaine prochaine,</c>
+
+00:11:54.200 --> 00:11:58.360 line:83% align:center
+<c.white.bg_black>même endroit, même heure.</c>
+<c.white.bg_black>À bientôt !</c>
+
+00:11:59.080 --> 00:12:04.080 line:91% align:center
+<c.green.bg_black>france.tv access</c>
+
