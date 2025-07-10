@@ -38,7 +38,7 @@ Pourquoi ?
 ### Nécessités 
 
 - scalabilité
-- multilingue (7 langues européennes)
+- multilingue (Français, Anglais, Allemand, Espagnol, Polonais, Italien, Roumain)
 - frugalité (1 traitement par jour pour ingérer les données)
 - respect de l'AI Act, du RGPD, de l'EAA
 - utiliser principalement des technologies open-source
@@ -49,16 +49,18 @@ Pourquoi ?
 - logical agents/règles (Pour intégrer un raisonnement pédagogique structuré ex : "Si l’utilisateur ne connaît pas ce terme, alors expliquer avec un exemple simple")
 
 ### Plateformes Arte.tv
-- mobile
-- app télé ?
-- ordinateur ?
+- application mobile (tablette et portable)
+- site web 
+- télé (certaines box, Smart TV/boitiers HDMI)
 - combien de viewers de l'émission par jour ? (2 millions d'utilisateurs sur Arte.tv par jour potentiellement)
 - présence sur les RS ? répondre aux questions des users ? aider les CM ?
 
-### Emission le dessous des cartes 
+### Emission [le dessous des cartes](https://fr.wikipedia.org/wiki/Le_Dessous_des_cartes)
 
-But : éducation populaire sur la géopolitique en un temps limité à destination de XX public
-Une émission publiée tous les XX jours
+But supposé : éducation populaire sur la géopolitique en un temps limité à destination de XX public qui est disponible dans un format hebdomadaire
+
+But de l'émission : donner de la place à la géographie, donner du sens par l’histoire, croiser les disciplines, tout est lié, fuir l’ethnocentrisme, tenter la prospective, prendre position.
+Objectif principal : **Faire comprendre plutôt que faire savoir**
 
 ### Etude du fichier JSON et des datas
 
@@ -98,6 +100,23 @@ quantique avancées ?
 
 llms qui citent les sources ? 
 
+#### fact checking API ou recherches
+
+https://jina.ai/news/fact-checking-with-new-grounding-api-in-jina-reader/
+https://github.com/yuxiaw/OpenFactCheck?tab=readme-ov-file
+
+https://info.arxiv.org/help/api/index.html
+https://www.afp.com/fr/notre-offre/afp-api#mktoForm_3489
+https://www.ncbi.nlm.nih.gov/home/develop/api/
+https://doaj.org/api/v4/docs
+https://encyclopaediaapi.com/
+https://publicapis.io/contextual-web-news-api
+
+
+#### tutoriels
+
+- https://www.bitdoze.com/langflow-docker-install/
+- 
 
 ### Pour aller plus loin
 
