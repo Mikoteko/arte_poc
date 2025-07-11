@@ -1,0 +1,799 @@
+WEBVTT
+
+STYLE
+::cue(.black) {
+ color: black;
+}
+
+STYLE
+::cue(.red) {
+ color: red;
+}
+
+STYLE
+::cue(.green) {
+ color: green;
+}
+
+STYLE
+::cue(.yellow) {
+ color: yellow;
+}
+
+STYLE
+::cue(.blue) {
+ color: blue;
+}
+
+STYLE
+::cue(.magenta) {
+ color: magenta;
+}
+
+STYLE
+::cue(.cyan) {
+ color: cyan;
+}
+
+STYLE
+::cue(.white) {
+ color: white;
+}
+
+STYLE
+::cue(.bg_black) {
+ background-color: black;
+}
+
+STYLE
+::cue(.bg_red) {
+ background-color: red;
+}
+
+STYLE
+::cue(.bg_green) {
+ background-color: green;
+}
+
+STYLE
+::cue(.bg_yellow) {
+ background-color: yellow;
+}
+
+STYLE
+::cue(.bg_blue) {
+ background-color: blue;
+}
+
+STYLE
+::cue(.bg_magenta) {
+ background-color: magenta;
+}
+
+STYLE
+::cue(.bg_cyan) {
+ background-color: cyan;
+}
+
+STYLE
+::cue(.bg_white) {
+ background-color: white;
+}
+
+00:00:03.400 --> 00:00:19.320 line:91% align:left
+<c.magenta.bg_black>...</c>
+
+00:00:21.040 --> 00:00:24.400 line:83% align:center
+<c.white.bg_black>-Ravie de vous retrouver</c>
+<c.white.bg_black>pour "Le dessous des cartes".</c>
+
+00:00:24.720 --> 00:00:29.360 line:83% align:center
+<c.white.bg_black>Wang Yi, le ministre des Affaires</c>
+<c.white.bg_black>étrangères de la Chine,</c>
+
+00:00:29.680 --> 00:00:34.080 line:83% align:center
+<c.white.bg_black>déclarait le 7 mars 2024 : "La</c>
+<c.white.bg_black>Chine est une force pour la paix,</c>
+
+00:00:34.400 --> 00:00:37.320 line:83% align:center
+<c.white.bg_black>"la stabilité</c>
+<c.white.bg_black>et le progrès dans le monde."</c>
+
+00:00:37.640 --> 00:00:41.480 line:83% align:center
+<c.white.bg_black>Et il y a cette image de Xi Jinping</c>
+<c.white.bg_black>affichant la puissance militaire</c>
+
+00:00:41.800 --> 00:00:44.280 line:83% align:center
+<c.white.bg_black>de son pays,</c>
+<c.white.bg_black>avec un budget défense</c>
+
+00:00:44.600 --> 00:00:48.080 line:83% align:center
+<c.white.bg_black>qui place la Chine certes</c>
+<c.white.bg_black>loin derrière les États-Unis,</c>
+
+00:00:48.400 --> 00:00:51.360 line:83% align:center
+<c.white.bg_black>mais devant la Russie,</c>
+<c.white.bg_black>le Japon ou la France.</c>
+
+00:00:51.680 --> 00:00:55.560 line:83% align:center
+<c.white.bg_black>La Chine annexe illégalement des</c>
+<c.white.bg_black>territoires en mer de Chine du Sud,</c>
+
+00:00:55.880 --> 00:00:58.680 line:83% align:center
+<c.white.bg_black>menace Taïwan,</c>
+<c.white.bg_black>mène des guerres hybrides</c>
+
+00:00:59.000 --> 00:01:03.280 line:83% align:center
+<c.white.bg_black>et aide discrètement Poutine dans</c>
+<c.white.bg_black>sa guerre d'invasion de l'Ukraine.</c>
+
+00:01:03.600 --> 00:01:07.840 line:83% align:center
+<c.white.bg_black>On a voulu revisiter l'histoire de</c>
+<c.white.bg_black>l'empire du Milieu pour comprendre</c>
+
+00:01:08.160 --> 00:01:11.760 line:83% align:center
+<c.white.bg_black>les guerres que la Chine a subies,</c>
+<c.white.bg_black>celles qu'elle a menées,</c>
+
+00:01:12.080 --> 00:01:15.840 line:83% align:center
+<c.white.bg_black>qu'elle mène ou qu'elle mènera.</c>
+<c.white.bg_black>Sortons nos cartes.</c>
+
+00:01:16.760 --> 00:01:19.760 line:83% align:center
+<c.cyan.bg_black>Comparons les frontières</c>
+<c.cyan.bg_black>de la Chine en 2025</c>
+
+00:01:20.080 --> 00:01:23.200 line:83% align:center
+<c.cyan.bg_black>à celles de l'époque</c>
+<c.cyan.bg_black>de la dynastie des Han,</c>
+
+00:01:23.520 --> 00:01:26.720 line:20% align:center
+<c.cyan.bg_black>un âge d'or qui s'ouvre</c>
+<c.cyan.bg_black>2 siècles avant notre ère</c>
+
+00:01:27.040 --> 00:01:29.440 line:25% align:center
+<c.cyan.bg_black>et se termine en l'an 220.</c>
+
+00:01:29.760 --> 00:01:33.720 line:16% align:center
+<c.cyan.bg_black>Pendant 2 millénaires, les</c>
+<c.cyan.bg_black>frontières de la Chine ont bougé</c>
+
+00:01:34.040 --> 00:01:37.400 line:83% align:center
+<c.cyan.bg_black>au gré des conquêtes</c>
+<c.cyan.bg_black>et des invasions étrangères.</c>
+
+00:01:37.720 --> 00:01:41.640 line:62% align:center
+<c.cyan.bg_black>Au début du 13e siècle, les troupes</c>
+<c.cyan.bg_black>de l'empereur Gengis Khan</c>
+
+00:01:41.960 --> 00:01:45.720 line:62% align:center
+<c.cyan.bg_black>et de ses successeurs envahissent</c>
+<c.cyan.bg_black>le territoire de l'empire Jin</c>
+
+00:01:46.040 --> 00:01:48.240 line:79% align:center
+<c.cyan.bg_black>jusqu'à la mer du Japon.</c>
+
+00:01:48.560 --> 00:01:53.600 line:16% align:center
+<c.cyan.bg_black>Les Mongols descendent ensuite vers</c>
+<c.cyan.bg_black>le sud, conquièrent l'empire Song</c>
+
+00:01:53.920 --> 00:01:57.840 line:16% align:center
+<c.cyan.bg_black>de la mer de Chine orientale</c>
+<c.cyan.bg_black>aux rives de l'actuel Vietnam.</c>
+
+00:01:58.400 --> 00:02:01.800 line:16% align:center
+<c.cyan.bg_black>En 1368,</c>
+<c.cyan.bg_black>les Mongols sont chassés de Chine</c>
+
+00:02:02.120 --> 00:02:06.360 line:16% align:center
+<c.cyan.bg_black>par les combattants de l'armée</c>
+<c.cyan.bg_black>des Ming venus du sud.</c>
+
+00:02:06.680 --> 00:02:09.160 line:91% align:center
+<c.cyan.bg_black>Ces soldats s'emparent du Yunnan,</c>
+
+00:02:09.480 --> 00:02:12.640 line:16% align:center
+<c.cyan.bg_black>puis poursuivent vers l'Annam</c>
+<c.cyan.bg_black>et la Mandchourie.</c>
+
+00:02:12.960 --> 00:02:15.960 line:16% align:center
+<c.cyan.bg_black>Au 15e siècle,</c>
+<c.cyan.bg_black>la dynastie Han des Ming,</c>
+
+00:02:16.280 --> 00:02:19.600 line:83% align:center
+<c.cyan.bg_black>avec sa capitale à Pékin,</c>
+<c.cyan.bg_black>connaît son apogée.</c>
+
+00:02:19.920 --> 00:02:22.760 line:83% align:center
+<c.cyan.bg_black>La Chine est</c>
+<c.cyan.bg_black>une grande puissance mondiale</c>
+
+00:02:23.080 --> 00:02:25.800 line:83% align:center
+<c.cyan.bg_black>qui commerce</c>
+<c.cyan.bg_black>avec les royaumes indiens,</c>
+
+00:02:26.120 --> 00:02:29.760 line:83% align:center
+<c.cyan.bg_black>avec l'Empire ottoman</c>
+<c.cyan.bg_black>et le sultanat mamelouk du Caire.</c>
+
+00:02:30.440 --> 00:02:34.120 line:83% align:center
+<c.cyan.bg_black>Au milieu du 17e,</c>
+<c.cyan.bg_black>les Ming sont renversés à leur tour</c>
+
+00:02:34.440 --> 00:02:39.120 line:62% align:center
+<c.cyan.bg_black>par une autre dynastie venue</c>
+<c.cyan.bg_black>du nord, les Qing, des Mandchous.</c>
+
+00:02:39.440 --> 00:02:43.840 line:83% align:center
+<c.cyan.bg_black>Au 18e, la dynastie Qing</c>
+<c.cyan.bg_black>va porter l'Empire chinois</c>
+
+00:02:44.160 --> 00:02:47.000 line:70% align:center
+<c.cyan.bg_black>à sa plus grande expansion</c>
+<c.cyan.bg_black>territoriale.</c>
+
+00:02:47.320 --> 00:02:50.720 line:16% align:center
+<c.cyan.bg_black>Entre 1735 et 1796,</c>
+<c.cyan.bg_black>l'empereur et général Qianlong</c>
+
+00:02:51.040 --> 00:02:54.960 line:16% align:center
+<c.cyan.bg_black>mène 10 campagnes militaires</c>
+<c.cyan.bg_black>pour soumettre brutalement</c>
+
+00:02:55.280 --> 00:02:57.720 line:91% align:center
+<c.cyan.bg_black>les peuples de la périphérie,</c>
+
+00:02:58.040 --> 00:03:00.680 line:16% align:center
+<c.cyan.bg_black>au nord,</c>
+<c.cyan.bg_black>en Dzoungarie et en Mongolie,</c>
+
+00:03:01.000 --> 00:03:05.440 line:16% align:center
+<c.cyan.bg_black>à l'ouest, au Tibet et au Xinjiang,</c>
+<c.cyan.bg_black>et au sud, au Yunnan.</c>
+
+00:03:05.760 --> 00:03:08.400 line:16% align:center
+<c.cyan.bg_black>Avec 12 millions</c>
+<c.cyan.bg_black>de kilomètres carrés,</c>
+
+00:03:08.720 --> 00:03:11.280 line:16% align:center
+<c.cyan.bg_black>la Chine n'a jamais été</c>
+<c.cyan.bg_black>aussi vaste,</c>
+
+00:03:11.600 --> 00:03:14.880 line:16% align:center
+<c.cyan.bg_black>elle est alors plus étendue</c>
+<c.cyan.bg_black>qu'aujourd'hui.</c>
+
+00:03:15.200 --> 00:03:16.600 line:91% align:center
+<c.cyan.bg_black>Au 19e, pourtant,</c>
+
+00:03:16.920 --> 00:03:20.640 line:62% align:center
+<c.cyan.bg_black>la Chine impériale va rentrer</c>
+<c.cyan.bg_black>dans une période de repli.</c>
+
+00:03:20.960 --> 00:03:23.560 line:91% align:center
+<c.cyan.bg_black>Entre 1839 et 1860,</c>
+
+00:03:23.880 --> 00:03:28.400 line:83% align:center
+<c.cyan.bg_black>2 guerres de l'opium l'opposent à</c>
+<c.cyan.bg_black>la Grande-Bretagne et à la France.</c>
+
+00:03:29.040 --> 00:03:31.840 line:83% align:center
+<c.cyan.bg_black>Battue par des armées</c>
+<c.cyan.bg_black>plus modernes,</c>
+
+00:03:32.160 --> 00:03:35.560 line:29% align:center
+<c.cyan.bg_black>la Chine perd Hong Kong,</c>
+<c.cyan.bg_black>cède de nombreux territoires</c>
+
+00:03:35.880 --> 00:03:40.520 line:20% align:center
+<c.cyan.bg_black>et signe des traités commerciaux</c>
+<c.cyan.bg_black>désavantageux avec les Européens.</c>
+
+00:03:41.280 --> 00:03:45.480 line:16% align:center
+<c.cyan.bg_black>Dans la 1re moitié du 20e siècle,</c>
+<c.cyan.bg_black>le territoire chinois se fracture</c>
+
+00:03:45.800 --> 00:03:49.320 line:16% align:center
+<c.cyan.bg_black>avec 2 guerres civiles</c>
+<c.cyan.bg_black>entre nationalistes et communistes,</c>
+
+00:03:49.640 --> 00:03:52.240 line:16% align:center
+<c.cyan.bg_black>une invasion japonaise</c>
+<c.cyan.bg_black>en Mandchourie</c>
+
+00:03:52.560 --> 00:03:55.600 line:83% align:center
+<c.cyan.bg_black>et une guerre</c>
+<c.cyan.bg_black>qui fera des millions de morts.</c>
+
+00:03:55.920 --> 00:04:00.440 line:83% align:center
+<c.cyan.bg_black>1949 marque un tournant : l'Armée</c>
+<c.cyan.bg_black>rouge, dirigée par Mao Zedong,</c>
+
+00:04:00.760 --> 00:04:04.240 line:83% align:center
+<c.cyan.bg_black>défait les troupes du chef</c>
+<c.cyan.bg_black>nationaliste Tchang Kaï-chek,</c>
+
+00:04:04.560 --> 00:04:06.600 line:91% align:center
+<c.cyan.bg_black>qui se replie à Taïwan.</c>
+
+00:04:06.920 --> 00:04:09.840 line:83% align:center
+<c.cyan.bg_black>Les soldats victorieux de Mao</c>
+<c.cyan.bg_black>partent alors</c>
+
+00:04:10.160 --> 00:04:13.440 line:83% align:center
+<c.cyan.bg_black>à la reconquête des territoires</c>
+<c.cyan.bg_black>perdus de l'Empire.</c>
+
+00:04:13.760 --> 00:04:17.240 line:16% align:center
+<c.cyan.bg_black>Aux marges occidentales,</c>
+<c.cyan.bg_black>l'Armée populaire de libération,</c>
+
+00:04:17.560 --> 00:04:21.760 line:16% align:center
+<c.cyan.bg_black>soutenue par l'Union soviétique</c>
+<c.cyan.bg_black>de Staline, s'empare du Xinjiang,</c>
+
+00:04:22.080 --> 00:04:25.400 line:83% align:center
+<c.cyan.bg_black>peuplé de Ouïghours</c>
+<c.cyan.bg_black>et de Kazakhs musulmans.</c>
+
+00:04:25.720 --> 00:04:30.040 line:62% align:center
+<c.cyan.bg_black>Le régime communiste installe une</c>
+<c.cyan.bg_black>occupation par des paysans soldats</c>
+
+00:04:30.360 --> 00:04:34.360 line:62% align:center
+<c.cyan.bg_black>venus des régions peuplées de Han,</c>
+<c.cyan.bg_black>majoritaires à l'est du pays.</c>
+
+00:04:34.680 --> 00:04:38.240 line:16% align:center
+<c.cyan.bg_black>La reprise en main du Tibet</c>
+<c.cyan.bg_black>bouddhiste sera plus difficile.</c>
+
+00:04:38.560 --> 00:04:43.360 line:16% align:center
+<c.cyan.bg_black>Le 2 novembre 1949, les autorités</c>
+<c.cyan.bg_black>de Lhassa déclarent l'indépendance,</c>
+
+00:04:43.680 --> 00:04:45.280 line:91% align:center
+<c.cyan.bg_black>que Mao refuse.</c>
+
+00:04:45.600 --> 00:04:50.760 line:16% align:center
+<c.cyan.bg_black>En 1951, le Tibet est intégré</c>
+<c.cyan.bg_black>par la force armée à la Chine.</c>
+
+00:04:51.360 --> 00:04:56.280 line:83% align:center
+<c.cyan.bg_black>La résistance populaire des</c>
+<c.cyan.bg_black>Tibétains continue jusqu'en 1959,</c>
+
+00:04:56.600 --> 00:05:01.160 line:16% align:center
+<c.cyan.bg_black>lorsque les chars chinois</c>
+<c.cyan.bg_black>répriment le soulèvement de Lhassa.</c>
+
+00:05:01.480 --> 00:05:05.440 line:16% align:center
+<c.cyan.bg_black>Le dalaï-lama, chef spirituel</c>
+<c.cyan.bg_black>et temporel des Tibétains,</c>
+
+00:05:05.760 --> 00:05:09.360 line:16% align:center
+<c.cyan.bg_black>s'enfuit vers l'Inde, où il vit</c>
+<c.cyan.bg_black>toujours aujourd'hui en exil.</c>
+
+00:05:09.680 --> 00:05:13.000 line:83% align:center
+<c.cyan.bg_black>Pour s'imposer dans le jeu</c>
+<c.cyan.bg_black>des puissances mondiales,</c>
+
+00:05:13.320 --> 00:05:16.840 line:83% align:center
+<c.cyan.bg_black>la République populaire de Chine</c>
+<c.cyan.bg_black>va s'engager militairement</c>
+
+00:05:17.160 --> 00:05:20.440 line:83% align:center
+<c.cyan.bg_black>hors de son territoire.</c>
+<c.cyan.bg_black>À partir de 1950, en Corée,</c>
+
+00:05:20.760 --> 00:05:24.880 line:83% align:center
+<c.cyan.bg_black>Mao envoie, à la demande</c>
+<c.cyan.bg_black>de Staline, des soldats au front</c>
+
+00:05:25.200 --> 00:05:28.640 line:83% align:center
+<c.cyan.bg_black>pour aider Kim Il-sung</c>
+<c.cyan.bg_black>à attaquer les forces américaines</c>
+
+00:05:28.960 --> 00:05:30.680 line:91% align:center
+<c.cyan.bg_black>et sud-coréennes.</c>
+
+00:05:31.000 --> 00:05:36.040 line:83% align:center
+<c.cyan.bg_black>Les pertes chinoises sont massives.</c>
+<c.cyan.bg_black>Le fils de Mao est tué au combat.</c>
+
+00:05:36.600 --> 00:05:40.120 line:16% align:center
+<c.cyan.bg_black>À partir de 1954, au Vietnam,</c>
+<c.cyan.bg_black>la Chine s'opposera</c>
+
+00:05:40.440 --> 00:05:44.280 line:16% align:center
+<c.cyan.bg_black>aux puissances occidentales,</c>
+<c.cyan.bg_black>la France coloniale et les USA,</c>
+
+00:05:44.600 --> 00:05:48.760 line:16% align:center
+<c.cyan.bg_black>et soutiendra au nord la lutte</c>
+<c.cyan.bg_black>pour l'indépendance des communistes</c>
+
+00:05:49.080 --> 00:05:52.280 line:16% align:center
+<c.cyan.bg_black>par l'envoi d'armes</c>
+<c.cyan.bg_black>et de conseillers militaires.</c>
+
+00:05:52.600 --> 00:05:53.400 line:91% align:center
+<c.cyan.bg_black>1962,</c>
+
+00:05:53.720 --> 00:05:58.120 line:16% align:center
+<c.cyan.bg_black>la guerre menée par la Chine en</c>
+<c.cyan.bg_black>Inde est d'une tout autre nature.</c>
+
+00:05:58.440 --> 00:06:01.320 line:83% align:center
+<c.cyan.bg_black>Le régime de Pékin</c>
+<c.cyan.bg_black>entend défier l'Inde,</c>
+
+00:06:01.640 --> 00:06:05.800 line:62% align:center
+<c.cyan.bg_black>sa grande rivale en Asie, dans</c>
+<c.cyan.bg_black>2 régions frontalières disputées :</c>
+
+00:06:06.120 --> 00:06:08.200 line:91% align:center
+<c.cyan.bg_black>l'Aksai Chin au Cachemire</c>
+
+00:06:08.520 --> 00:06:11.600 line:83% align:center
+<c.cyan.bg_black>et l'Arunachal Pradesh,</c>
+<c.cyan.bg_black>1 000km plus à l'est.</c>
+
+00:06:11.920 --> 00:06:15.320 line:83% align:center
+<c.cyan.bg_black>La victoire de la Chine</c>
+<c.cyan.bg_black>et l'occupation de l'Aksai Chin</c>
+
+00:06:15.640 --> 00:06:19.080 line:58% align:center
+<c.cyan.bg_black>sont une humiliation pour Nehru,</c>
+<c.cyan.bg_black>le 1er ministre indien,</c>
+
+00:06:19.400 --> 00:06:22.000 line:75% align:center
+<c.cyan.bg_black>et le début d'un conflit</c>
+<c.cyan.bg_black>qui perdure.</c>
+
+00:06:22.320 --> 00:06:27.640 line:83% align:center
+<c.cyan.bg_black>Dernier affrontement géopolitique :</c>
+<c.cyan.bg_black>la Chine contre l'Union soviétique,</c>
+
+00:06:27.960 --> 00:06:32.040 line:83% align:center
+<c.cyan.bg_black>car Mao condamne la ligne politique</c>
+<c.cyan.bg_black>des successeurs de Staline.</c>
+
+00:06:32.360 --> 00:06:33.560 line:91% align:center
+<c.cyan.bg_black>En 1969,</c>
+
+00:06:33.880 --> 00:06:37.560 line:16% align:center
+<c.cyan.bg_black>cet affrontement se matérialise</c>
+<c.cyan.bg_black>sur l'île fluviale Zhenbao,</c>
+
+00:06:37.880 --> 00:06:40.360 line:91% align:center
+<c.cyan.bg_black>à la frontière entre les 2 pays :</c>
+
+00:06:40.680 --> 00:06:44.240 line:16% align:center
+<c.cyan.bg_black>les troupes chinoises attaquent</c>
+<c.cyan.bg_black>les garde-frontières russes</c>
+
+00:06:44.560 --> 00:06:48.680 line:16% align:center
+<c.cyan.bg_black>pour récupérer le territoire.</c>
+<c.cyan.bg_black>En 1979, le conflit prend la forme</c>
+
+00:06:49.000 --> 00:06:52.160 line:16% align:center
+<c.cyan.bg_black>d'une expédition punitive chinoise</c>
+<c.cyan.bg_black>au Vietnam,</c>
+
+00:06:52.480 --> 00:06:55.680 line:16% align:center
+<c.cyan.bg_black>coupable, pour la Chine,</c>
+<c.cyan.bg_black>d'être l'allié de l'URSS</c>
+
+00:06:56.000 --> 00:06:59.280 line:16% align:center
+<c.cyan.bg_black>et d'avoir renversé</c>
+<c.cyan.bg_black>les Khmers rouges au Cambodge.</c>
+
+00:06:59.600 --> 00:07:03.120 line:16% align:center
+<c.cyan.bg_black>Ce sera un échec militaire</c>
+<c.cyan.bg_black>et politique pour Deng Xiaoping,</c>
+
+00:07:03.440 --> 00:07:05.400 line:91% align:center
+<c.cyan.bg_black>le nouveau numéro 1 chinois.</c>
+
+00:07:05.720 --> 00:07:08.280 line:91% align:center
+<c.cyan.bg_black>Dix ans plus tard, en juin 1989,</c>
+
+00:07:08.600 --> 00:07:12.240 line:83% align:center
+<c.cyan.bg_black>le régime utilise les chars</c>
+<c.cyan.bg_black>de l'Armée populaire de libération</c>
+
+00:07:12.560 --> 00:07:16.960 line:83% align:center
+<c.cyan.bg_black>à Pékin pour écraser les étudiants</c>
+<c.cyan.bg_black>contestataires, place Tiananmen.</c>
+
+00:07:18.520 --> 00:07:23.000 line:83% align:center
+<c.white.bg_black>L'histoire de la Chine est semée</c>
+<c.white.bg_black>de campagnes militaires.</c>
+
+00:07:23.320 --> 00:07:27.840 line:83% align:center
+<c.white.bg_black>Aujourd'hui, en dépit d'un discours</c>
+<c.white.bg_black>officiel vantant la paix,</c>
+
+00:07:28.160 --> 00:07:32.160 line:83% align:center
+<c.white.bg_black>Xi Jinping mène une politique</c>
+<c.white.bg_black>de puissance militaire régionale</c>
+
+00:07:32.480 --> 00:07:33.360 line:91% align:center
+<c.white.bg_black>et mondiale.</c>
+
+00:07:33.680 --> 00:07:38.240 line:83% align:center
+<c.white.bg_black>Le numéro 1 chinois ambitionne de</c>
+<c.white.bg_black>mettre fin à l'hégémonie américaine</c>
+
+00:07:38.560 --> 00:07:41.640 line:83% align:center
+<c.white.bg_black>et conduit une politique</c>
+<c.white.bg_black>territoriale agressive</c>
+
+00:07:41.960 --> 00:07:44.960 line:83% align:center
+<c.white.bg_black>dans son voisinage immédiat.</c>
+<c.white.bg_black>Voyons comment.</c>
+
+00:07:45.480 --> 00:07:48.400 line:83% align:center
+<c.cyan.bg_black>Pékin considère</c>
+<c.cyan.bg_black>la mer de Chine méridionale</c>
+
+00:07:48.720 --> 00:07:51.520 line:83% align:center
+<c.cyan.bg_black>comme sa zone d'influence</c>
+<c.cyan.bg_black>non négociable</c>
+
+00:07:51.840 --> 00:07:55.760 line:83% align:center
+<c.cyan.bg_black>et y mène contre ses voisins une</c>
+<c.cyan.bg_black>forme de guerre de basse intensité.</c>
+
+00:07:56.080 --> 00:07:59.320 line:83% align:center
+<c.cyan.bg_black>La République populaire</c>
+<c.cyan.bg_black>revendique des territoires</c>
+
+00:07:59.640 --> 00:08:02.120 line:91% align:center
+<c.cyan.bg_black>compris dans une ligne à 10 traits</c>
+
+00:08:02.440 --> 00:08:06.040 line:83% align:center
+<c.cyan.bg_black>qui déborde sur les zones</c>
+<c.cyan.bg_black>économiques exclusives de Taïwan,</c>
+
+00:08:06.360 --> 00:08:10.200 line:16% align:center
+<c.cyan.bg_black>du Vietnam, des Philippines,</c>
+<c.cyan.bg_black>de Brunei et de la Malaisie.</c>
+
+00:08:10.520 --> 00:08:13.800 line:58% align:center
+<c.cyan.bg_black>Après avoir annexé</c>
+<c.cyan.bg_black>l'archipel des Paracels,</c>
+
+00:08:14.120 --> 00:08:16.720 line:58% align:center
+<c.cyan.bg_black>territoire revendiqué</c>
+<c.cyan.bg_black>par le Vietnam,</c>
+
+00:08:17.040 --> 00:08:20.000 line:12% align:center
+<c.cyan.bg_black>la Chine utilise</c>
+<c.cyan.bg_black>sa flotte de garde-côtes</c>
+
+00:08:20.320 --> 00:08:23.640 line:12% align:center
+<c.cyan.bg_black>pour s'emparer d'îlots</c>
+<c.cyan.bg_black>dans l'archipel des Spratleys,</c>
+
+00:08:23.960 --> 00:08:26.200 line:91% align:center
+<c.cyan.bg_black>au détriment des Philippines.</c>
+
+00:08:26.520 --> 00:08:30.360 line:16% align:center
+<c.cyan.bg_black>Malgré une décision de la justice</c>
+<c.cyan.bg_black>internationale favorable à Manille</c>
+
+00:08:30.680 --> 00:08:34.120 line:83% align:center
+<c.cyan.bg_black>en 2016, la Chine construit</c>
+<c.cyan.bg_black>des installations militaires</c>
+
+00:08:34.440 --> 00:08:38.040 line:83% align:center
+<c.cyan.bg_black>et arraisonne régulièrement</c>
+<c.cyan.bg_black>des navires philippins.</c>
+
+00:08:38.560 --> 00:08:43.000 line:83% align:center
+<c.cyan.bg_black>Plus au nord, en mer de Chine</c>
+<c.cyan.bg_black>orientale, voici les îles Senkaku,</c>
+
+00:08:43.320 --> 00:08:47.120 line:83% align:center
+<c.cyan.bg_black>objet d'un contentieux territorial</c>
+<c.cyan.bg_black>ancien avec le Japon.</c>
+
+00:08:47.440 --> 00:08:51.640 line:83% align:center
+<c.cyan.bg_black>Des îles aujourd'hui surveillées</c>
+<c.cyan.bg_black>par les garde-côtes chinois,</c>
+
+00:08:51.960 --> 00:08:55.240 line:83% align:center
+<c.cyan.bg_black>véritable force militaire</c>
+<c.cyan.bg_black>qui ne dit pas son nom.</c>
+
+00:08:55.560 --> 00:08:59.040 line:83% align:center
+<c.cyan.bg_black>Une manière pour le régime chinois</c>
+<c.cyan.bg_black>de montrer ses muscles</c>
+
+00:08:59.360 --> 00:09:03.000 line:83% align:center
+<c.cyan.bg_black>face au plus fidèle allié des USA</c>
+<c.cyan.bg_black>dans le Pacifique.</c>
+
+00:09:03.640 --> 00:09:07.480 line:16% align:center
+<c.cyan.bg_black>L'autre sujet de discorde</c>
+<c.cyan.bg_black>avec Washington, c'est Taïwan.</c>
+
+00:09:07.800 --> 00:09:10.520 line:16% align:center
+<c.cyan.bg_black>Xi Jinping considère</c>
+<c.cyan.bg_black>l'île démocratique</c>
+
+00:09:10.840 --> 00:09:14.040 line:83% align:center
+<c.cyan.bg_black>comme une province séparatiste</c>
+<c.cyan.bg_black>qui doit retourner</c>
+
+00:09:14.360 --> 00:09:17.920 line:83% align:center
+<c.cyan.bg_black>dans le giron de la Chine,</c>
+<c.cyan.bg_black>et tant pis pour le principe</c>
+
+00:09:18.240 --> 00:09:21.520 line:83% align:center
+<c.cyan.bg_black>du statu quo :</c>
+<c.cyan.bg_black>ni annexion, ni indépendance.</c>
+
+00:09:23.000 --> 00:09:24.840 line:91% align:center
+<c.cyan.bg_black>Entre 2022 et 2024,</c>
+
+00:09:25.160 --> 00:09:28.800 line:12% align:center
+<c.cyan.bg_black>l'aviation chinoise pratique</c>
+<c.cyan.bg_black>des incursions quasi quotidiennes</c>
+
+00:09:29.120 --> 00:09:32.720 line:12% align:center
+<c.cyan.bg_black>dans l'espace aérien taïwanais,</c>
+<c.cyan.bg_black>tandis que la marine chinoise</c>
+
+00:09:33.040 --> 00:09:36.760 line:16% align:center
+<c.cyan.bg_black>s'exerce à la limite des eaux</c>
+<c.cyan.bg_black>territoriales, et parfois au-delà,</c>
+
+00:09:37.080 --> 00:09:40.080 line:83% align:center
+<c.cyan.bg_black>pour montrer sa capacité</c>
+<c.cyan.bg_black>à encercler l'île.</c>
+
+00:09:40.400 --> 00:09:43.840 line:16% align:center
+<c.cyan.bg_black>Cette guerre psychologique,</c>
+<c.cyan.bg_black>pour intimider l'adversaire,</c>
+
+00:09:44.160 --> 00:09:47.840 line:16% align:center
+<c.cyan.bg_black>ne semble pas porter ses fruits.</c>
+<c.cyan.bg_black>En 2024, les Taïwanais ont élu</c>
+
+00:09:48.160 --> 00:09:51.760 line:62% align:center
+<c.cyan.bg_black>un président hostile</c>
+<c.cyan.bg_black>à tout rapprochement avec Pékin,</c>
+
+00:09:52.080 --> 00:09:53.280 line:91% align:center
+<c.cyan.bg_black>Lai Ching-te.</c>
+
+00:09:54.240 --> 00:09:57.920 line:83% align:center
+<c.cyan.bg_black>Hors de sa zone d'influence,</c>
+<c.cyan.bg_black>la Chine se donne les moyens</c>
+
+00:09:58.240 --> 00:10:01.960 line:83% align:center
+<c.cyan.bg_black>de devenir une puissance militaire</c>
+<c.cyan.bg_black>mondiale de premier plan.</c>
+
+00:10:02.280 --> 00:10:06.240 line:83% align:center
+<c.cyan.bg_black>Avec plus de 2 millions de soldats,</c>
+<c.cyan.bg_black>l'armée chinoise est la plus grande</c>
+
+00:10:06.560 --> 00:10:09.880 line:83% align:center
+<c.cyan.bg_black>du monde en effectifs,</c>
+<c.cyan.bg_black>devant l'Inde et les USA.</c>
+
+00:10:10.200 --> 00:10:13.040 line:83% align:center
+<c.cyan.bg_black>Son budget militaire,</c>
+<c.cyan.bg_black>en hausse constante,</c>
+
+00:10:13.360 --> 00:10:16.360 line:83% align:center
+<c.cyan.bg_black>reste toutefois</c>
+<c.cyan.bg_black>loin derrière celui des USA,</c>
+
+00:10:16.680 --> 00:10:20.200 line:83% align:center
+<c.cyan.bg_black>près de 40% des dépenses</c>
+<c.cyan.bg_black>militaires mondiales à eux seuls.</c>
+
+00:10:20.520 --> 00:10:24.360 line:83% align:center
+<c.cyan.bg_black>Les bases militaires américaines</c>
+<c.cyan.bg_black>et les nombreux accords de défense</c>
+
+00:10:24.680 --> 00:10:28.160 line:83% align:center
+<c.cyan.bg_black>dans le Pacifique sont perçus</c>
+<c.cyan.bg_black>par Pékin comme une menace.</c>
+
+00:10:28.480 --> 00:10:32.360 line:83% align:center
+<c.cyan.bg_black>Enfin, la Chine a recours à des</c>
+<c.cyan.bg_black>formes de guerre sans batailles :</c>
+
+00:10:32.680 --> 00:10:35.960 line:83% align:center
+<c.cyan.bg_black>envois de ballons-espions</c>
+<c.cyan.bg_black>au-dessus des États-Unis,</c>
+
+00:10:36.280 --> 00:10:39.600 line:83% align:center
+<c.cyan.bg_black>opérations de désinformation</c>
+<c.cyan.bg_black>sur les réseaux sociaux,</c>
+
+00:10:39.920 --> 00:10:43.400 line:83% align:center
+<c.cyan.bg_black>cyberattaques, possibles</c>
+<c.cyan.bg_black>sabotages de câbles sous-marins</c>
+
+00:10:43.720 --> 00:10:46.440 line:83% align:center
+<c.cyan.bg_black>en mer Baltique</c>
+<c.cyan.bg_black>au profit de la Russie,</c>
+
+00:10:46.760 --> 00:10:49.840 line:83% align:center
+<c.cyan.bg_black>toute la panoplie</c>
+<c.cyan.bg_black>d'une guerre hybride.</c>
+
+00:10:50.800 --> 00:10:53.360 line:91% align:center
+<c.white.bg_black>Voilà pour les guerres de la Chine.</c>
+
+00:10:53.680 --> 00:10:58.600 line:83% align:center
+<c.white.bg_black>Les liens d'amitié entre Xi Jinping</c>
+<c.white.bg_black>et Poutine interrogent sur l'aide</c>
+
+00:10:58.920 --> 00:11:02.960 line:83% align:center
+<c.white.bg_black>que Pékin apporte à Moscou</c>
+<c.white.bg_black>sur le champ de bataille ukrainien.</c>
+
+00:11:03.280 --> 00:11:06.200 line:83% align:center
+<c.white.bg_black>La Chine nie fournir des armes</c>
+<c.white.bg_black>à la Russie</c>
+
+00:11:06.520 --> 00:11:08.840 line:91% align:center
+<c.white.bg_black>pour combattre en Ukraine,</c>
+
+00:11:09.160 --> 00:11:12.880 line:83% align:center
+<c.white.bg_black>mais selon l'ancien secrétaire</c>
+<c.white.bg_black>d'État américain Antony Blinken,</c>
+
+00:11:13.200 --> 00:11:15.680 line:91% align:center
+<c.white.bg_black>interrogé en juin 2024 par la BBC,</c>
+
+00:11:16.000 --> 00:11:19.080 line:83% align:center
+<c.white.bg_black>la Chine fournirait</c>
+<c.white.bg_black>des composants essentiels :</c>
+
+00:11:19.400 --> 00:11:23.920 line:83% align:center
+<c.white.bg_black>70% des machines-outils et 90%</c>
+<c.white.bg_black>des produits microélectroniques</c>
+
+00:11:24.240 --> 00:11:27.560 line:83% align:center
+<c.white.bg_black>importés par la Russie</c>
+<c.white.bg_black>proviendraient de la Chine.</c>
+
+00:11:28.560 --> 00:11:31.920 line:83% align:center
+<c.cyan.bg_black>C'est avec elle que</c>
+<c.cyan.bg_black>nous avons préparé cette émission :</c>
+
+00:11:32.240 --> 00:11:35.040 line:83% align:center
+<c.cyan.bg_black>la spécialiste de l'Asie</c>
+<c.cyan.bg_black>Valérie Niquet</c>
+
+00:11:35.360 --> 00:11:37.920 line:91% align:center
+<c.cyan.bg_black>publie "La Chine en 100 questions".</c>
+
+00:11:38.680 --> 00:11:41.400 line:83% align:center
+<c.white.bg_black>C'est la fin</c>
+<c.white.bg_black>du "Dessous des cartes".</c>
+
+00:11:41.720 --> 00:11:44.360 line:91% align:center
+<c.white.bg_black>Rendez-vous la semaine prochaine.</c>
+
+00:11:44.680 --> 00:11:48.040 line:83% align:center
+<c.white.bg_black>D'ici là, n'oubliez pas arte.tv</c>
+<c.white.bg_black>et nos réseaux sociaux</c>
+
+00:11:48.400 --> 00:11:51.040 line:83% align:center
+<c.white.bg_black>pour retrouver nos vidéos.</c>
+<c.white.bg_black>À bientôt.</c>
+
+00:11:51.360 --> 00:11:56.360 line:91% align:center
+<c.green.bg_black>france.tv access</c>
+

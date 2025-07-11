@@ -1,0 +1,2145 @@
+WEBVTT
+
+STYLE
+::cue(.black) {
+ color: black;
+}
+
+STYLE
+::cue(.red) {
+ color: red;
+}
+
+STYLE
+::cue(.green) {
+ color: green;
+}
+
+STYLE
+::cue(.yellow) {
+ color: yellow;
+}
+
+STYLE
+::cue(.blue) {
+ color: blue;
+}
+
+STYLE
+::cue(.magenta) {
+ color: magenta;
+}
+
+STYLE
+::cue(.cyan) {
+ color: cyan;
+}
+
+STYLE
+::cue(.white) {
+ color: white;
+}
+
+STYLE
+::cue(.bg_black) {
+ background-color: black;
+}
+
+STYLE
+::cue(.bg_red) {
+ background-color: red;
+}
+
+STYLE
+::cue(.bg_green) {
+ background-color: green;
+}
+
+STYLE
+::cue(.bg_yellow) {
+ background-color: yellow;
+}
+
+STYLE
+::cue(.bg_blue) {
+ background-color: blue;
+}
+
+STYLE
+::cue(.bg_magenta) {
+ background-color: magenta;
+}
+
+STYLE
+::cue(.bg_cyan) {
+ background-color: cyan;
+}
+
+STYLE
+::cue(.bg_white) {
+ background-color: white;
+}
+
+00:00:03.400 --> 00:00:19.520 line:91% align:left
+<c.magenta.bg_black>...</c>
+
+00:00:24.920 --> 00:00:27.560 line:91% align:center
+<c.red.bg_black>Cris des mouettes.</c>
+
+00:00:27.880 --> 00:00:30.440 line:91% align:right
+<c.white.bg_black>-Ravie de vous retrouver sur Arte.</c>
+
+00:00:30.760 --> 00:00:34.840 line:83% align:center
+<c.white.bg_black>On vient d'atterrir à Abou Dhabi,</c>
+<c.white.bg_black>aux Émirats arabes unis,</c>
+
+00:00:35.160 --> 00:00:39.800 line:83% align:center
+<c.white.bg_black>au bord du golfe Arabo-Persique.</c>
+<c.white.bg_black>De l'autre côté, il y a l'Iran</c>
+
+00:00:40.120 --> 00:00:43.200 line:83% align:center
+<c.white.bg_black>et nous sommes aux portes</c>
+<c.white.bg_black>de l'Arabie saoudite.</c>
+
+00:00:43.520 --> 00:00:47.360 line:83% align:center
+<c.white.bg_black>Nous avons voulu mieux comprendre</c>
+<c.white.bg_black>ce territoire singulier,</c>
+
+00:00:47.680 --> 00:00:50.840 line:83% align:center
+<c.white.bg_black>l'un des principaux pays</c>
+<c.white.bg_black>producteurs de pétrole.</c>
+
+00:00:51.160 --> 00:00:55.000 line:83% align:center
+<c.white.bg_black>On le présente comme un îlot</c>
+<c.white.bg_black>de stabilité et de prospérité</c>
+
+00:00:55.320 --> 00:00:59.400 line:83% align:center
+<c.white.bg_black>dans une région chaotique,</c>
+<c.white.bg_black>surtout depuis le 7 octobre 2023</c>
+
+00:00:59.720 --> 00:01:03.000 line:83% align:center
+<c.white.bg_black>avec l'attaque terroriste du Hamas</c>
+<c.white.bg_black>contre Israël,</c>
+
+00:01:03.320 --> 00:01:07.680 line:83% align:right
+<c.white.bg_black>puis les guerres de représailles</c>
+<c.white.bg_black>qui ont suivi à Gaza et au Liban,</c>
+
+00:01:08.000 --> 00:01:12.200 line:83% align:right
+<c.white.bg_black>jusqu'à l'effondrement en Syrie</c>
+<c.white.bg_black>de la dictature de Bachar el-Assad.</c>
+
+00:01:12.520 --> 00:01:16.280 line:83% align:center
+<c.white.bg_black>On va rencontrer</c>
+<c.white.bg_black>des militaires et des diplomates</c>
+
+00:01:16.600 --> 00:01:20.280 line:83% align:center
+<c.white.bg_black>pour comprendre ce Moyen-Orient</c>
+<c.white.bg_black>en plein bouleversement.</c>
+
+00:01:20.600 --> 00:01:23.880 line:83% align:center
+<c.white.bg_black>Commençons par découvrir</c>
+<c.white.bg_black>les Émirats arabes unis,</c>
+
+00:01:24.200 --> 00:01:27.280 line:83% align:center
+<c.white.bg_black>au centre du jeu géopolitique</c>
+<c.white.bg_black>de la période,</c>
+
+00:01:27.600 --> 00:01:30.360 line:83% align:center
+<c.white.bg_black>à l'épicentre</c>
+<c.white.bg_black>entre Occident et Orient.</c>
+
+00:01:33.520 --> 00:01:36.360 line:83% align:center
+<c.cyan.bg_black>Situés au sud-est</c>
+<c.cyan.bg_black>de la péninsule Arabique,</c>
+
+00:01:36.680 --> 00:01:40.720 line:83% align:center
+<c.cyan.bg_black>les Émirats arabes unis s'étendent</c>
+<c.cyan.bg_black>sur près de 78 000 km2,</c>
+
+00:01:41.040 --> 00:01:43.520 line:91% align:center
+<c.cyan.bg_black>environ la superficie du Benelux,</c>
+
+00:01:43.840 --> 00:01:47.840 line:83% align:center
+<c.cyan.bg_black>entre le sultanat d'Oman</c>
+<c.cyan.bg_black>et le royaume d'Arabie saoudite.</c>
+
+00:01:48.160 --> 00:01:51.000 line:83% align:center
+<c.cyan.bg_black>Ils disposent</c>
+<c.cyan.bg_black>d'une double façade maritime,</c>
+
+00:01:51.320 --> 00:01:53.800 line:83% align:center
+<c.cyan.bg_black>sur le golfe Arabo-Persique</c>
+<c.cyan.bg_black>d'un côté</c>
+
+00:01:54.120 --> 00:01:56.360 line:91% align:center
+<c.cyan.bg_black>et sur le golfe d'Oman de l'autre</c>
+
+00:01:56.680 --> 00:02:01.000 line:62% align:center
+<c.cyan.bg_black>qui débouche sur la mer d'Arabie</c>
+<c.cyan.bg_black>et sur l'océan Indien.</c>
+
+00:02:01.320 --> 00:02:05.960 line:83% align:center
+<c.cyan.bg_black>Voici les 7 émirats qui composent</c>
+<c.cyan.bg_black>les Émirats arabes unis :</c>
+
+00:02:06.280 --> 00:02:09.840 line:83% align:center
+<c.cyan.bg_black>Abou Dhabi, Dubaï,</c>
+<c.cyan.bg_black>Charjah, Fujaïrah, Ajman,</c>
+
+00:02:10.160 --> 00:02:13.040 line:91% align:center
+<c.cyan.bg_black>Oumm al-Qaïwaïn et Ras el-Khaïmah.</c>
+
+00:02:13.360 --> 00:02:15.720 line:91% align:center
+<c.cyan.bg_black>Ils ont une large part d'autonomie,</c>
+
+00:02:16.040 --> 00:02:18.880 line:83% align:center
+<c.cyan.bg_black>mais sont chapeautés</c>
+<c.cyan.bg_black>par un système fédéral</c>
+
+00:02:19.200 --> 00:02:21.680 line:83% align:center
+<c.cyan.bg_black>dirigé depuis la capitale,</c>
+<c.cyan.bg_black>Abou Dhabi.</c>
+
+00:02:22.000 --> 00:02:25.120 line:83% align:center
+<c.cyan.bg_black>Près de 90%</c>
+<c.cyan.bg_black>des 10,5 millions d'habitants</c>
+
+00:02:25.440 --> 00:02:28.480 line:83% align:center
+<c.cyan.bg_black>se concentrent</c>
+<c.cyan.bg_black>sur seulement 5% du territoire,</c>
+
+00:02:28.800 --> 00:02:32.200 line:83% align:center
+<c.cyan.bg_black>notamment dans les opulentes</c>
+<c.cyan.bg_black>métropoles d'Abou Dhabi</c>
+
+00:02:32.520 --> 00:02:34.400 line:91% align:center
+<c.cyan.bg_black>ou de l'exubérante Dubaï,</c>
+
+00:02:34.720 --> 00:02:38.320 line:83% align:center
+<c.cyan.bg_black>la ville la plus peuplée,</c>
+<c.cyan.bg_black>avec 3,6 millions d'habitants.</c>
+
+00:02:38.640 --> 00:02:42.920 line:83% align:center
+<c.cyan.bg_black>Et pourtant, il y a 60 ans,</c>
+<c.cyan.bg_black>le territoire des Émirats actuels</c>
+
+00:02:43.240 --> 00:02:46.280 line:83% align:center
+<c.cyan.bg_black>n'était qu'un modeste</c>
+<c.cyan.bg_black>protectorat britannique,</c>
+
+00:02:46.600 --> 00:02:50.280 line:83% align:center
+<c.cyan.bg_black>habité par des tribus bédouines</c>
+<c.cyan.bg_black>pour la plupart nomades.</c>
+
+00:02:50.600 --> 00:02:52.720 line:91% align:center
+<c.cyan.bg_black>Au début des années 1960,</c>
+
+00:02:53.040 --> 00:02:57.120 line:83% align:center
+<c.cyan.bg_black>la découverte des hydrocarbures</c>
+<c.cyan.bg_black>bouleverse l'histoire du pays.</c>
+
+00:02:57.440 --> 00:03:00.160 line:83% align:center
+<c.cyan.bg_black>Les gisements de gaz</c>
+<c.cyan.bg_black>et surtout de pétrole</c>
+
+00:03:00.480 --> 00:03:04.120 line:83% align:center
+<c.cyan.bg_black>assurent la promotion soudaine</c>
+<c.cyan.bg_black>de l'Émirat d'Abou Dhabi,</c>
+
+00:03:04.440 --> 00:03:07.920 line:83% align:center
+<c.cyan.bg_black>qui détient 94%</c>
+<c.cyan.bg_black>des immenses réserves du pays.</c>
+
+00:03:08.240 --> 00:03:11.080 line:83% align:center
+<c.cyan.bg_black>C'est l'émir d'Abou Dhabi,</c>
+<c.cyan.bg_black>le Cheikh Zayed,</c>
+
+00:03:11.400 --> 00:03:13.880 line:62% align:center
+<c.cyan.bg_black>qui négocie le départ</c>
+<c.cyan.bg_black>des Britanniques</c>
+
+00:03:14.200 --> 00:03:17.920 line:62% align:center
+<c.cyan.bg_black>et qui proclame</c>
+<c.cyan.bg_black>l'indépendance du pays en 1971.</c>
+
+00:03:18.240 --> 00:03:20.600 line:91% align:center
+<c.cyan.bg_black>On a l'image d'un pôle de richesses</c>
+
+00:03:20.920 --> 00:03:23.960 line:83% align:center
+<c.cyan.bg_black>jailli des sables</c>
+<c.cyan.bg_black>grâce aux hydrocarbures,</c>
+
+00:03:24.280 --> 00:03:28.880 line:83% align:center
+<c.cyan.bg_black>mais même si le PIB émirien demeure</c>
+<c.cyan.bg_black>bien sûr dopé par le pétrole,</c>
+
+00:03:29.200 --> 00:03:31.920 line:83% align:center
+<c.cyan.bg_black>il repose aussi</c>
+<c.cyan.bg_black>sur l'industrie lourde</c>
+
+00:03:32.240 --> 00:03:34.720 line:83% align:center
+<c.cyan.bg_black>et surtout</c>
+<c.cyan.bg_black>sur les hautes technologies</c>
+
+00:03:35.040 --> 00:03:37.200 line:91% align:center
+<c.cyan.bg_black>et le secteur tertiaire.</c>
+
+00:03:37.520 --> 00:03:40.000 line:91% align:center
+<c.cyan.bg_black>Les Émirats, un pôle de stabilité</c>
+
+00:03:40.320 --> 00:03:44.800 line:83% align:center
+<c.cyan.bg_black>dans un environnement régional</c>
+<c.cyan.bg_black>troublé, le golfe Arabo-Persique.</c>
+
+00:03:45.120 --> 00:03:48.040 line:83% align:center
+<c.cyan.bg_black>Cette mer quasi fermée</c>
+<c.cyan.bg_black>de 1 200km de long</c>
+
+00:03:48.360 --> 00:03:52.400 line:83% align:center
+<c.cyan.bg_black>est bordée par 8 États :</c>
+<c.cyan.bg_black>l'Irak, le Koweït, Bahreïn,</c>
+
+00:03:52.720 --> 00:03:54.960 line:91% align:center
+<c.cyan.bg_black>le Qatar, les Émirats, Oman,</c>
+
+00:03:55.280 --> 00:03:59.160 line:83% align:center
+<c.cyan.bg_black>mais aussi les 2 géants régionaux,</c>
+<c.cyan.bg_black>Iran et Arabie saoudite,</c>
+
+00:03:59.480 --> 00:04:02.560 line:83% align:center
+<c.cyan.bg_black>dont la rivalité culmine</c>
+<c.cyan.bg_black>dans ces eaux.</c>
+
+00:04:02.880 --> 00:04:06.920 line:83% align:center
+<c.cyan.bg_black>Au-delà, le Moyen-Orient connaît</c>
+<c.cyan.bg_black>de nombreux bouleversements :</c>
+
+00:04:07.240 --> 00:04:09.360 line:91% align:center
+<c.cyan.bg_black>bande de Gaza, Liban, Syrie,</c>
+
+00:04:09.680 --> 00:04:12.680 line:83% align:center
+<c.cyan.bg_black>ou encore les attaques</c>
+<c.cyan.bg_black>des Houthis du Yémen.</c>
+
+00:04:17.640 --> 00:04:20.040 line:91% align:center
+<c.cyan.bg_black>Les Émirats sont au centre</c>
+
+00:04:20.360 --> 00:04:23.840 line:83% align:center
+<c.cyan.bg_black>géographique et stratégique</c>
+<c.cyan.bg_black>du Moyen-Orient.</c>
+
+00:04:24.160 --> 00:04:29.160 line:83% align:center
+<c.cyan.bg_black>Des puissances étrangères y ont</c>
+<c.cyan.bg_black>installé des bases militaires,</c>
+
+00:04:29.480 --> 00:04:34.320 line:83% align:center
+<c.cyan.bg_black>comme les États-Unis, mais aussi,</c>
+<c.cyan.bg_black>et c'est moins connu, la France.</c>
+
+00:04:34.640 --> 00:04:36.720 line:91% align:center
+<c.cyan.bg_black>Elle y dispose de 3 bases :</c>
+
+00:04:37.040 --> 00:04:41.480 line:54% align:center
+<c.cyan.bg_black>une navale, une aérienne</c>
+<c.cyan.bg_black>et une terrestre depuis 2009</c>
+
+00:04:41.800 --> 00:04:45.960 line:54% align:center
+<c.cyan.bg_black>et des accords de défense mutuelle</c>
+<c.cyan.bg_black>signés dès 1995.</c>
+
+00:04:47.200 --> 00:04:50.800 line:83% align:center
+<c.cyan.bg_black>La France veille bien à dire</c>
+<c.cyan.bg_black>qu'elle n'est qu'hébergée</c>
+
+00:04:51.120 --> 00:04:53.400 line:91% align:center
+<c.cyan.bg_black>par l'Émirat d'Abou Dhabi,</c>
+
+00:04:53.720 --> 00:04:56.880 line:83% align:center
+<c.cyan.bg_black>elle n'est pas chez elle.</c>
+<c.cyan.bg_black>Le rapport de force</c>
+
+00:04:57.200 --> 00:05:01.000 line:83% align:center
+<c.cyan.bg_black>est inversé. La France a besoin</c>
+<c.cyan.bg_black>de la puissance financière</c>
+
+00:05:01.320 --> 00:05:04.120 line:83% align:center
+<c.cyan.bg_black>et géostratégique</c>
+<c.cyan.bg_black>des monarchies du Golfe.</c>
+
+00:05:04.440 --> 00:05:09.080 line:83% align:center
+<c.cyan.bg_black>On a rendez-vous sur ces 3 bases</c>
+<c.cyan.bg_black>françaises des Émirats</c>
+
+00:05:09.400 --> 00:05:12.800 line:83% align:center
+<c.cyan.bg_black>qui sont commandées</c>
+<c.cyan.bg_black>par cet homme, l'amiral Lainé.</c>
+
+00:05:13.120 --> 00:05:14.560 line:91% align:center
+<c.cyan.bg_black>Il est en charge</c>
+
+00:05:14.880 --> 00:05:19.240 line:83% align:center
+<c.cyan.bg_black>d'une zone gigantesque, du canal</c>
+<c.cyan.bg_black>de Suez au détroit de Malacca.</c>
+
+00:05:19.560 --> 00:05:21.600 line:91% align:center
+<c.cyan.bg_black>Nous arrivons pour le briefing.</c>
+
+00:05:21.920 --> 00:05:25.040 line:91% align:center
+<c.yellow.bg_black>-En 2024, il y a eu 2 ruptures.</c>
+
+00:05:25.360 --> 00:05:28.400 line:83% align:left
+<c.white.bg_black>Les attaques mutuelles</c>
+<c.white.bg_black>entre l'Iran et Israël.</c>
+
+00:05:28.720 --> 00:05:33.080 line:83% align:left
+<c.white.bg_black>Et il y a un effondrement</c>
+<c.white.bg_black>de "l'axe de la résistance",</c>
+
+00:05:33.400 --> 00:05:36.760 line:83% align:center
+<c.yellow.bg_black>du Hezbollah et de l'Iran.</c>
+<c.yellow.bg_black>Et la 2e rupture,</c>
+
+00:05:37.080 --> 00:05:39.840 line:83% align:center
+<c.yellow.bg_black>c'est l'effondrement</c>
+<c.yellow.bg_black>du régime d'Assad.</c>
+
+00:05:40.160 --> 00:05:42.720 line:91% align:right
+<c.yellow.bg_black>Et on a 2 signes positifs :</c>
+
+00:05:43.040 --> 00:05:45.960 line:83% align:center
+<c.white.bg_black>le cessez-le-feu au Liban</c>
+<c.white.bg_black>et également</c>
+
+00:05:46.280 --> 00:05:47.680 line:91% align:center
+<c.white.bg_black>celui à Gaza.</c>
+
+00:05:52.240 --> 00:05:53.960 line:91% align:center
+<c.cyan.bg_black>-Ici, à Abou Dhabi,</c>
+
+00:05:54.280 --> 00:05:58.960 line:83% align:center
+<c.cyan.bg_black>on vit les crises du Moyen-Orient.</c>
+<c.cyan.bg_black>Et depuis le 7 octobre 2023,</c>
+
+00:05:59.280 --> 00:06:02.080 line:91% align:center
+<c.cyan.bg_black>on a suivi la folie des évènements</c>
+
+00:06:02.400 --> 00:06:06.760 line:83% align:center
+<c.cyan.bg_black>et le retour tragique au 1er plan</c>
+<c.cyan.bg_black>du dossier israélo-palestinien.</c>
+
+00:06:07.080 --> 00:06:10.280 line:83% align:center
+<c.cyan.bg_black>Le 7 octobre,</c>
+<c.cyan.bg_black>une date qui a bouleversé</c>
+
+00:06:10.600 --> 00:06:15.200 line:83% align:center
+<c.cyan.bg_black>l'ensemble du Moyen-Orient.</c>
+<c.cyan.bg_black>Voyons comment.</c>
+
+00:06:15.520 --> 00:06:18.960 line:83% align:center
+<c.cyan.bg_black>Le 7 octobre, au petit matin,</c>
+<c.cyan.bg_black>le festival Supernova,</c>
+
+00:06:19.280 --> 00:06:23.440 line:83% align:center
+<c.cyan.bg_black>où 3 000 personnes font la fête,</c>
+<c.cyan.bg_black>est attaqué par des membres</c>
+
+00:06:23.760 --> 00:06:25.920 line:91% align:center
+<c.cyan.bg_black>du Hamas et du Djihad islamique.</c>
+
+00:06:26.240 --> 00:06:28.240 line:91% align:center
+<c.cyan.bg_black>Bilan total du massacre :</c>
+
+00:06:28.560 --> 00:06:30.920 line:54% align:center
+<c.cyan.bg_black>1 163 morts et 255 otages.</c>
+
+00:06:31.240 --> 00:06:33.280 line:91% align:center
+<c.cyan.bg_black>À présent, voici Gaza ville,</c>
+
+00:06:33.600 --> 00:06:37.440 line:83% align:center
+<c.cyan.bg_black>au nord du territoire palestinien</c>
+<c.cyan.bg_black>administré par le Hamas.</c>
+
+00:06:37.760 --> 00:06:40.120 line:91% align:center
+<c.cyan.bg_black>Après avoir ordonné son évacuation,</c>
+
+00:06:40.440 --> 00:06:43.720 line:83% align:center
+<c.cyan.bg_black>l'armée israélienne</c>
+<c.cyan.bg_black>lance son offensive terrestre,</c>
+
+00:06:44.040 --> 00:06:46.600 line:83% align:center
+<c.cyan.bg_black>puis ce sera Khan Younès,</c>
+<c.cyan.bg_black>jusqu'à Rafah.</c>
+
+00:06:46.920 --> 00:06:50.680 line:83% align:center
+<c.cyan.bg_black>En un peu plus d'un an,</c>
+<c.cyan.bg_black>48 000 victimes d'après le Hamas,</c>
+
+00:06:51.000 --> 00:06:54.280 line:83% align:center
+<c.cyan.bg_black>chiffre peu remis en cause</c>
+<c.cyan.bg_black>par les autres acteurs,</c>
+
+00:06:54.600 --> 00:06:57.840 line:83% align:center
+<c.cyan.bg_black>tandis que 2/3 des bâtiments</c>
+<c.cyan.bg_black>seraient détruits.</c>
+
+00:06:58.160 --> 00:07:02.600 line:83% align:center
+<c.cyan.bg_black>Et voici la Cisjordanie, morcelée</c>
+<c.cyan.bg_black>entre les communes palestiniennes</c>
+
+00:07:02.920 --> 00:07:05.520 line:83% align:center
+<c.cyan.bg_black>et les colonies israéliennes</c>
+<c.cyan.bg_black>illégales.</c>
+
+00:07:05.840 --> 00:07:10.160 line:83% align:center
+<c.cyan.bg_black>Les violences entre les 2</c>
+<c.cyan.bg_black>vont crescendo, comme à Jénine.</c>
+
+00:07:10.480 --> 00:07:14.520 line:83% align:center
+<c.cyan.bg_black>Partons maintenant pour Metoula,</c>
+<c.cyan.bg_black>ville la plus au nord d'Israël.</c>
+
+00:07:14.840 --> 00:07:19.520 line:83% align:center
+<c.cyan.bg_black>La Galilée a été visée dès</c>
+<c.cyan.bg_black>le 8 octobre 2023 par le Hezbollah.</c>
+
+00:07:19.840 --> 00:07:23.160 line:83% align:center
+<c.cyan.bg_black>Bilan :</c>
+<c.cyan.bg_black>60 000 Israéliens déplacés.</c>
+
+00:07:23.480 --> 00:07:26.040 line:83% align:center
+<c.cyan.bg_black>À 65km de là,</c>
+<c.cyan.bg_black>voici Beyrouth, au Liban,</c>
+
+00:07:26.360 --> 00:07:30.240 line:83% align:center
+<c.cyan.bg_black>et sa banlieue sud de Dahieh.</c>
+<c.cyan.bg_black>Le 27 septembre 2024,</c>
+
+00:07:30.560 --> 00:07:34.240 line:12% align:center
+<c.cyan.bg_black>l'armée israélienne tue</c>
+<c.cyan.bg_black>le chef historique du Hezbollah,</c>
+
+00:07:34.560 --> 00:07:37.840 line:83% align:center
+<c.cyan.bg_black>Hassan Nasrallah.</c>
+<c.cyan.bg_black>Dans la foulée, Israël déclenche</c>
+
+00:07:38.160 --> 00:07:40.800 line:83% align:center
+<c.cyan.bg_black>son opération terrestre limitée</c>
+<c.cyan.bg_black>au Liban,</c>
+
+00:07:41.120 --> 00:07:44.800 line:83% align:center
+<c.cyan.bg_black>faisant en quelques jours</c>
+<c.cyan.bg_black>plus d'un million de déplacés.</c>
+
+00:07:45.120 --> 00:07:48.360 line:83% align:center
+<c.cyan.bg_black>À des milliers de kilomètres de là,</c>
+<c.cyan.bg_black>en mer Rouge,</c>
+
+00:07:48.680 --> 00:07:52.320 line:83% align:center
+<c.cyan.bg_black>un autre acteur de cette guerre :</c>
+<c.cyan.bg_black>les Houthis du Yémen,</c>
+
+00:07:52.640 --> 00:07:55.000 line:62% align:center
+<c.cyan.bg_black>aidés par l'Iran, soutien du Hamas,</c>
+
+00:07:55.320 --> 00:07:58.800 line:12% align:center
+<c.cyan.bg_black>attaquent dès novembre 2023</c>
+<c.cyan.bg_black>des navires qui circulent</c>
+
+00:07:59.120 --> 00:08:02.400 line:12% align:center
+<c.cyan.bg_black>sur cet axe stratégique</c>
+<c.cyan.bg_black>du commerce international.</c>
+
+00:08:02.720 --> 00:08:06.960 line:83% align:center
+<c.cyan.bg_black>Hamas, Hezbollah, Houthis,</c>
+<c.cyan.bg_black>3 milices qui mènent vers Téhéran.</c>
+
+00:08:07.280 --> 00:08:10.520 line:83% align:center
+<c.cyan.bg_black>Elles ont longtemps fait la guerre</c>
+<c.cyan.bg_black>contre Israël</c>
+
+00:08:10.840 --> 00:08:14.080 line:83% align:center
+<c.cyan.bg_black>à la place du régime iranien.</c>
+<c.cyan.bg_black>Mais le 14 avril,</c>
+
+00:08:14.400 --> 00:08:19.320 line:50% align:center
+<c.cyan.bg_black>puis le 1er octobre 2024, l'Iran</c>
+<c.cyan.bg_black>envoie directement contre Israël</c>
+
+00:08:19.640 --> 00:08:22.360 line:58% align:center
+<c.cyan.bg_black>drones, roquettes et missiles.</c>
+
+00:08:22.680 --> 00:08:25.520 line:83% align:center
+<c.cyan.bg_black>L'Iran,</c>
+<c.cyan.bg_black>au seuil de la puissance nucléaire,</c>
+
+00:08:25.840 --> 00:08:30.240 line:83% align:center
+<c.cyan.bg_black>est pourtant considéré début 2025</c>
+<c.cyan.bg_black>comme une puissance affaiblie</c>
+
+00:08:30.560 --> 00:08:33.800 line:83% align:center
+<c.cyan.bg_black>après les coups portés</c>
+<c.cyan.bg_black>à ses alliés régionaux,</c>
+
+00:08:34.120 --> 00:08:36.320 line:91% align:center
+<c.cyan.bg_black>le Hamas et le Hezbollah.</c>
+
+00:08:36.640 --> 00:08:40.680 line:83% align:center
+<c.cyan.bg_black>2025 marque le retour</c>
+<c.cyan.bg_black>de Donald Trump à la Maison-Blanche</c>
+
+00:08:41.000 --> 00:08:43.600 line:12% align:center
+<c.cyan.bg_black>qui est l'ami</c>
+<c.cyan.bg_black>de Benyamin Netanyahou,</c>
+
+00:08:43.920 --> 00:08:46.120 line:75% align:center
+<c.cyan.bg_black>le 1er ministre israélien.</c>
+
+00:08:47.400 --> 00:08:50.480 line:83% align:center
+<c.cyan.bg_black>Tous ces bouleversements régionaux</c>
+<c.cyan.bg_black>récents</c>
+
+00:08:50.800 --> 00:08:53.720 line:83% align:center
+<c.cyan.bg_black>ont été enregistrés</c>
+<c.cyan.bg_black>comme autant d'électrochocs</c>
+
+00:08:54.040 --> 00:08:57.280 line:83% align:center
+<c.cyan.bg_black>sur les bases militaires françaises</c>
+<c.cyan.bg_black>d'Abou Dhabi.</c>
+
+00:08:57.600 --> 00:09:01.560 line:83% align:center
+<c.cyan.bg_black>L'amiral Lainé a été confronté</c>
+<c.cyan.bg_black>à ces évènements historiques.</c>
+
+00:09:01.880 --> 00:09:03.640 line:91% align:right
+<c.yellow.bg_black>-Commander une zone</c>
+
+00:09:03.960 --> 00:09:08.440 line:83% align:right
+<c.white.bg_black>qui comporte la mer Rouge</c>
+<c.white.bg_black>et le golfe Arabo-Persique</c>
+
+00:09:08.760 --> 00:09:12.960 line:83% align:right
+<c.white.bg_black>depuis le 7 octobre 2023,</c>
+<c.white.bg_black>c'est un vrai poste stratégique ?</c>
+
+00:09:13.280 --> 00:09:17.320 line:83% align:left
+<c.white.bg_black>-Ça a été un "game changer",</c>
+<c.white.bg_black>une rupture stratégique</c>
+
+00:09:17.640 --> 00:09:20.720 line:75% align:left
+<c.white.bg_black>qui a eu des impacts majeurs</c>
+
+00:09:21.040 --> 00:09:22.720 line:91% align:left
+<c.white.bg_black>dans toute la région.</c>
+
+00:09:23.040 --> 00:09:25.400 line:91% align:left
+<c.white.bg_black>Les Houthis sont un proxy de l'Iran</c>
+
+00:09:25.720 --> 00:09:28.760 line:12% align:left
+<c.white.bg_black>et depuis le 7 octobre,</c>
+<c.white.bg_black>ils mènent des attaques</c>
+
+00:09:29.080 --> 00:09:32.800 line:12% align:left
+<c.white.bg_black>contre le trafic commercial</c>
+<c.white.bg_black>en mer Rouge.</c>
+
+00:09:33.120 --> 00:09:35.560 line:91% align:left
+<c.white.bg_black>Ça a modifié nos opérations.</c>
+
+00:09:35.880 --> 00:09:38.280 line:91% align:left
+<c.yellow.bg_black>Dès le mois de novembre,</c>
+
+00:09:38.600 --> 00:09:42.960 line:83% align:center
+<c.white.bg_black>la France a engagé des bâtiments</c>
+<c.white.bg_black>pour protéger le trafic maritime.</c>
+
+00:09:43.280 --> 00:09:46.200 line:83% align:center
+<c.white.bg_black>Et ensuite,</c>
+<c.white.bg_black>la France a été promotrice</c>
+
+00:09:46.520 --> 00:09:49.480 line:58% align:left
+<c.white.bg_black>de l'opération Aspides</c>
+<c.white.bg_black>de l'Union européenne</c>
+
+00:09:49.800 --> 00:09:52.160 line:66% align:left
+<c.white.bg_black>mise en oeuvre en février 2024.</c>
+
+00:09:52.480 --> 00:09:55.640 line:66% align:left
+<c.white.bg_black>Ça a vraiment changé la donne ici.</c>
+
+00:09:55.960 --> 00:09:59.360 line:83% align:center
+<c.white.bg_black>-Quelques jours</c>
+<c.white.bg_black>après votre prise de fonction,</c>
+
+00:09:59.680 --> 00:10:03.480 line:83% align:right
+<c.white.bg_black>il s'est passé un évènement</c>
+<c.white.bg_black>qui vous a vivement marqué.</c>
+
+00:10:03.800 --> 00:10:06.200 line:91% align:center
+<c.white.bg_black>-Dès que je suis arrivé ici,</c>
+
+00:10:06.520 --> 00:10:11.200 line:83% align:center
+<c.white.bg_black>l'un de nos bâtiments a dû</c>
+<c.white.bg_black>intervenir pour protéger un bateau</c>
+
+00:10:11.520 --> 00:10:14.080 line:91% align:left
+<c.white.bg_black>en mer Rouge.</c>
+
+00:10:14.400 --> 00:10:18.360 line:83% align:center
+<c.white.bg_black>Il a employé la force</c>
+<c.white.bg_black>pour détruire un drone de surface,</c>
+
+00:10:18.680 --> 00:10:22.120 line:83% align:left
+<c.white.bg_black>un petit bateau</c>
+<c.white.bg_black>chargé d'explosifs des Houthis</c>
+
+00:10:22.440 --> 00:10:24.720 line:91% align:left
+<c.white.bg_black>qui menaçait un porte-conteneurs.</c>
+
+00:10:25.040 --> 00:10:27.200 line:91% align:center
+<c.cyan.bg_black>-L'amiral nous donne accès</c>
+
+00:10:27.520 --> 00:10:31.280 line:83% align:center
+<c.cyan.bg_black>aux archives militaires</c>
+<c.cyan.bg_black>des interventions françaises</c>
+
+00:10:31.600 --> 00:10:32.840 line:91% align:center
+<c.cyan.bg_black>contre les Houthis,</c>
+
+00:10:33.160 --> 00:10:38.400 line:83% align:center
+<c.cyan.bg_black>rebelles yéménites alliés de l'Iran</c>
+<c.cyan.bg_black>qui ont multiplié depuis 2023</c>
+
+00:10:38.720 --> 00:10:42.720 line:83% align:center
+<c.cyan.bg_black>les attaques et les rançons</c>
+<c.cyan.bg_black>contre des cargos occidentaux,</c>
+
+00:10:43.040 --> 00:10:45.920 line:83% align:center
+<c.cyan.bg_black>faisant chuter le trafic</c>
+<c.cyan.bg_black>en mer Rouge.</c>
+
+00:10:48.920 --> 00:10:51.160 line:91% align:center
+<c.cyan.bg_black>Sans être inféodés à Téhéran,</c>
+
+00:10:51.480 --> 00:10:55.280 line:45% align:center
+<c.cyan.bg_black>les Houthis sont un rouage</c>
+<c.cyan.bg_black>important du dispositif iranien</c>
+
+00:10:55.600 --> 00:10:58.920 line:12% align:center
+<c.cyan.bg_black>pour contrer la présence américaine</c>
+<c.cyan.bg_black>au Moyen-Orient</c>
+
+00:10:59.240 --> 00:11:02.400 line:12% align:center
+<c.cyan.bg_black>en tirant drones et missiles</c>
+<c.cyan.bg_black>fournis par l'Iran,</c>
+
+00:11:02.720 --> 00:11:05.680 line:12% align:center
+<c.cyan.bg_black>notamment contre l'Arabie saoudite</c>
+<c.cyan.bg_black>et Israël.</c>
+
+00:11:06.000 --> 00:11:10.520 line:83% align:center
+<c.cyan.bg_black>Ces attaques, qui ont provoqué</c>
+<c.cyan.bg_black>un mort à Tel-Aviv en juillet 2024,</c>
+
+00:11:10.840 --> 00:11:14.040 line:83% align:center
+<c.cyan.bg_black>accaparent une partie</c>
+<c.cyan.bg_black>des ressources israéliennes</c>
+
+00:11:14.360 --> 00:11:17.600 line:83% align:center
+<c.cyan.bg_black>et permettent aux Houthis</c>
+<c.cyan.bg_black>de renforcer leur poids</c>
+
+00:11:17.920 --> 00:11:21.360 line:83% align:center
+<c.cyan.bg_black>dans ce que l'Iran nomme</c>
+<c.cyan.bg_black>son "axe de la résistance",</c>
+
+00:11:21.680 --> 00:11:23.240 line:91% align:center
+<c.cyan.bg_black>aujourd'hui affaibli.</c>
+
+00:11:23.560 --> 00:11:27.120 line:83% align:center
+<c.cyan.bg_black>Un poids accru par la position</c>
+<c.cyan.bg_black>stratégique des Houthis</c>
+
+00:11:27.440 --> 00:11:31.680 line:12% align:center
+<c.cyan.bg_black>sur la route du commerce mondial</c>
+<c.cyan.bg_black>via le détroit de Bab el-Mandeb</c>
+
+00:11:32.000 --> 00:11:34.240 line:58% align:center
+<c.cyan.bg_black>qui donne accès au canal de Suez.</c>
+
+00:11:34.560 --> 00:11:37.000 line:50% align:center
+<c.cyan.bg_black>Après l'attaque</c>
+<c.cyan.bg_black>de plusieurs navires,</c>
+
+00:11:37.320 --> 00:11:40.360 line:83% align:center
+<c.cyan.bg_black>de nombreux armateurs</c>
+<c.cyan.bg_black>renoncent à cette route.</c>
+
+00:11:40.680 --> 00:11:44.160 line:83% align:center
+<c.cyan.bg_black>Les Émirats connaissent de près</c>
+<c.cyan.bg_black>L'Iran et ses proxys.</c>
+
+00:11:44.480 --> 00:11:47.120 line:83% align:center
+<c.cyan.bg_black>En s'impliquant</c>
+<c.cyan.bg_black>dans la guerre au Yémen,</c>
+
+00:11:47.440 --> 00:11:50.960 line:83% align:center
+<c.cyan.bg_black>ils ont été attaqués</c>
+<c.cyan.bg_black>par les Houthis en janvier 2022</c>
+
+00:11:51.280 --> 00:11:53.720 line:66% align:center
+<c.cyan.bg_black>avec des tirs</c>
+<c.cyan.bg_black>de missiles balistiques</c>
+
+00:11:54.040 --> 00:11:56.800 line:75% align:center
+<c.cyan.bg_black>en direction d'Abou Dhabi</c>
+<c.cyan.bg_black>et de Dubaï.</c>
+
+00:11:57.120 --> 00:12:02.400 line:83% align:center
+<c.cyan.bg_black>Les forces françaises ont contribué</c>
+<c.cyan.bg_black>à la défense du territoire émirien</c>
+
+00:12:02.720 --> 00:12:05.920 line:83% align:center
+<c.cyan.bg_black>avec leurs Rafale</c>
+<c.cyan.bg_black>et leur défense antiaérienne.</c>
+
+00:12:06.240 --> 00:12:09.240 line:83% align:center
+<c.cyan.bg_black>Ici, à Abou Dhabi,</c>
+<c.cyan.bg_black>on ne l'a pas oublié.</c>
+
+00:12:10.480 --> 00:12:12.720 line:91% align:center
+<c.cyan.bg_black>Au-delà des attaques des Houthis,</c>
+
+00:12:13.040 --> 00:12:15.960 line:83% align:center
+<c.cyan.bg_black>le Moyen-Orient</c>
+<c.cyan.bg_black>vit des bouleversements.</c>
+
+00:12:16.280 --> 00:12:18.720 line:83% align:center
+<c.cyan.bg_black>Sur cette base française</c>
+<c.cyan.bg_black>des Émirats</c>
+
+00:12:19.040 --> 00:12:22.720 line:83% align:center
+<c.cyan.bg_black>du 5e régiment de Cuirassiers,</c>
+<c.cyan.bg_black>située en plein désert,</c>
+
+00:12:23.040 --> 00:12:26.440 line:91% align:center
+<c.cyan.bg_black>on se prépare à tous les scénarios.</c>
+
+00:12:26.760 --> 00:12:28.320 line:91% align:center
+<c.cyan.bg_black>On s'y entraîne</c>
+
+00:12:28.640 --> 00:12:31.680 line:83% align:center
+<c.cyan.bg_black>dans une situation</c>
+<c.cyan.bg_black>dite d'alerte permanente.</c>
+
+00:12:32.000 --> 00:12:35.560 line:83% align:center
+<c.yellow.bg_black>-Ici, nous avons</c>
+<c.yellow.bg_black>un espace d'entraînement</c>
+
+00:12:35.880 --> 00:12:39.280 line:83% align:right
+<c.white.bg_black>en milieu désertique.</c>
+<c.white.bg_black>Les unités blindées apprennent</c>
+
+00:12:39.600 --> 00:12:44.280 line:62% align:center
+<c.white.bg_black>à combattre dans cet environnement</c>
+<c.white.bg_black>où il est difficile de se déplacer</c>
+
+00:12:44.600 --> 00:12:48.720 line:62% align:center
+<c.white.bg_black>et de se protéger</c>
+<c.white.bg_black>des différentes menaces.</c>
+
+00:12:49.040 --> 00:12:51.560 line:83% align:center
+<c.white.bg_black>C'est un milieu</c>
+<c.white.bg_black>qui est très exigeant.</c>
+
+00:12:51.880 --> 00:12:54.600 line:91% align:center
+<c.yellow.bg_black>Pour les combats en zone urbaine,</c>
+
+00:12:54.920 --> 00:12:59.200 line:83% align:center
+<c.yellow.bg_black>vous avez ce petit hameau blanc</c>
+<c.yellow.bg_black>qui est surélevé.</c>
+
+00:12:59.520 --> 00:13:01.560 line:91% align:center
+<c.yellow.bg_black>Il y a un réseau d'égouts</c>
+
+00:13:01.880 --> 00:13:05.320 line:83% align:center
+<c.yellow.bg_black>pour apprendre</c>
+<c.yellow.bg_black>le combat souterrain.</c>
+
+00:13:05.640 --> 00:13:08.040 line:91% align:right
+<c.white.bg_black>Et le quartier en lui-même,</c>
+
+00:13:08.360 --> 00:13:12.520 line:83% align:center
+<c.yellow.bg_black>c'est un village de 200 habitants</c>
+<c.yellow.bg_black>où on apprend à manoeuvrer.</c>
+
+00:13:12.840 --> 00:13:17.480 line:83% align:center
+<c.yellow.bg_black>Imaginez des chars de combat</c>
+<c.yellow.bg_black>qui ouvrent la voie, et ensuite,</c>
+
+00:13:17.800 --> 00:13:21.640 line:83% align:center
+<c.yellow.bg_black>il y a les véhicules d'infanterie</c>
+<c.yellow.bg_black>qui montent à l'assaut</c>
+
+00:13:21.960 --> 00:13:24.880 line:91% align:center
+<c.yellow.bg_black>pour s'emparer des habitations.</c>
+
+00:13:25.200 --> 00:13:26.880 line:91% align:center
+<c.red.bg_black>Coups de feu.</c>
+
+00:13:30.000 --> 00:13:32.440 line:91% align:left
+<c.white.bg_black>-Un immense convoi arrive.</c>
+
+00:13:32.760 --> 00:13:37.080 line:83% align:center
+<c.yellow.bg_black>Qu'y a-t-il sous ces bâches ?</c>
+<c.yellow.bg_black>-Ce sont nos blindés</c>
+
+00:13:37.400 --> 00:13:39.040 line:91% align:right
+<c.white.bg_black>qui reviennent</c>
+
+00:13:39.360 --> 00:13:43.600 line:83% align:center
+<c.yellow.bg_black>d'une semaine d'entraînement au tir</c>
+<c.yellow.bg_black>en chars Leclerc.</c>
+
+00:13:48.840 --> 00:13:52.440 line:83% align:center
+<c.yellow.bg_black>-Un entraînement français</c>
+<c.yellow.bg_black>ou bien avec les forces</c>
+
+00:13:52.760 --> 00:13:54.360 line:91% align:left
+<c.white.bg_black>de la région ?</c>
+
+00:13:54.680 --> 00:13:59.080 line:83% align:right
+<c.white.bg_black>-On travaille avec les Émiriens.</c>
+<c.white.bg_black>Pour les autres, on va chez eux.</c>
+
+00:13:59.400 --> 00:14:04.040 line:83% align:left
+<c.white.bg_black>-Vous pouvez nous citer</c>
+<c.white.bg_black>quelques pays où vous êtes allés ?</c>
+
+00:14:04.360 --> 00:14:06.800 line:91% align:right
+<c.white.bg_black>-Arabie saoudite, Jordanie, Oman,</c>
+
+00:14:07.120 --> 00:14:10.520 line:83% align:center
+<c.yellow.bg_black>Irak, et nous étions</c>
+<c.yellow.bg_black>en novembre dernier au Qatar</c>
+
+00:14:10.840 --> 00:14:14.440 line:83% align:center
+<c.yellow.bg_black>pour l'exercice interarmées Alkoot</c>
+<c.yellow.bg_black>avec des chars Leclerc</c>
+
+00:14:14.760 --> 00:14:18.960 line:83% align:right
+<c.white.bg_black>et aussi des Caesar,</c>
+<c.white.bg_black>des canons d'artillerie.</c>
+
+00:14:19.280 --> 00:14:24.240 line:83% align:center
+<c.cyan.bg_black>-On voit le lien entre l'Occident</c>
+<c.cyan.bg_black>et certains pays du Moyen-Orient,</c>
+
+00:14:24.560 --> 00:14:28.560 line:83% align:center
+<c.cyan.bg_black>surtout avec les États-Unis,</c>
+<c.cyan.bg_black>garant de la sécurité régionale.</c>
+
+00:14:28.880 --> 00:14:30.640 line:91% align:center
+<c.cyan.bg_black>On attend de voir</c>
+
+00:14:30.960 --> 00:14:35.000 line:83% align:center
+<c.cyan.bg_black>jusqu'où ira le désengagement</c>
+<c.cyan.bg_black>annoncé par Donald Trump,</c>
+
+00:14:35.320 --> 00:14:38.800 line:83% align:center
+<c.cyan.bg_black>avec quelle remise en cause</c>
+<c.cyan.bg_black>d'une présence américaine</c>
+
+00:14:39.120 --> 00:14:41.200 line:91% align:center
+<c.cyan.bg_black>vieille de plusieurs décennies.</c>
+
+00:14:43.040 --> 00:14:45.000 line:91% align:center
+<c.cyan.bg_black>Après la 2de Guerre mondiale,</c>
+
+00:14:45.320 --> 00:14:48.480 line:83% align:center
+<c.cyan.bg_black>les Américains,</c>
+<c.cyan.bg_black>alliés aux Saoudiens, installent</c>
+
+00:14:48.800 --> 00:14:53.280 line:83% align:center
+<c.cyan.bg_black>le commandement pour les forces du</c>
+<c.cyan.bg_black>Moyen-Orient à Manama, à Bahreïn,</c>
+
+00:14:53.600 --> 00:14:57.880 line:83% align:center
+<c.cyan.bg_black>pour garantir un accès au pétrole</c>
+<c.cyan.bg_black>du Golfe et contrôler son prix.</c>
+
+00:14:58.200 --> 00:15:01.680 line:83% align:center
+<c.cyan.bg_black>Leur alliance avec le Shah d'Iran</c>
+<c.cyan.bg_black>est l'autre maillon</c>
+
+00:15:02.000 --> 00:15:06.160 line:83% align:center
+<c.cyan.bg_black>de ce dispositif essentiel pour</c>
+<c.cyan.bg_black>l'économie du monde occidental.</c>
+
+00:15:06.480 --> 00:15:11.320 line:83% align:center
+<c.cyan.bg_black>En 1979, la révolution iranienne</c>
+<c.cyan.bg_black>puis la République islamique</c>
+
+00:15:11.640 --> 00:15:15.680 line:83% align:center
+<c.cyan.bg_black>bouleversent la donne.</c>
+<c.cyan.bg_black>L'alliance militaire des États-Unis</c>
+
+00:15:16.000 --> 00:15:20.520 line:83% align:center
+<c.cyan.bg_black>avec les pays arabes du Golfe</c>
+<c.cyan.bg_black>se resserre contre l'Iran.</c>
+
+00:15:21.880 --> 00:15:26.440 line:83% align:center
+<c.cyan.bg_black>Après la 1re guerre du Golfe contre</c>
+<c.cyan.bg_black>l'Irak de Saddam Hussein en 1990,</c>
+
+00:15:26.760 --> 00:15:30.840 line:83% align:center
+<c.cyan.bg_black>la 5e flotte américaine devient</c>
+<c.cyan.bg_black>le pilier naval des États-Unis</c>
+
+00:15:31.160 --> 00:15:33.280 line:91% align:center
+<c.cyan.bg_black>dans le golfe Arabo-Persique.</c>
+
+00:15:33.600 --> 00:15:37.240 line:83% align:center
+<c.cyan.bg_black>Son rayon d'action s'étend</c>
+<c.cyan.bg_black>jusqu'à l'océan Indien.</c>
+
+00:15:38.600 --> 00:15:42.280 line:83% align:center
+<c.cyan.bg_black>Depuis fin 2023, les États-Unis</c>
+<c.cyan.bg_black>dirigent depuis le Golfe</c>
+
+00:15:42.600 --> 00:15:44.600 line:91% align:center
+<c.cyan.bg_black>une coalition de 10 États.</c>
+
+00:15:44.920 --> 00:15:48.760 line:83% align:center
+<c.cyan.bg_black>C'est l'opération Gardiens</c>
+<c.cyan.bg_black>de la prospérité, en mer Rouge,</c>
+
+00:15:49.080 --> 00:15:51.760 line:83% align:center
+<c.cyan.bg_black>chargée de protéger</c>
+<c.cyan.bg_black>les navires marchands</c>
+
+00:15:52.080 --> 00:15:55.360 line:83% align:center
+<c.cyan.bg_black>contre les attaques</c>
+<c.cyan.bg_black>des rebelles houthis du Yémen.</c>
+
+00:15:55.680 --> 00:15:58.840 line:83% align:center
+<c.cyan.bg_black>Enfin, aux côtés des Américains,</c>
+<c.cyan.bg_black>le Royaume-Uni,</c>
+
+00:15:59.160 --> 00:16:03.200 line:83% align:center
+<c.cyan.bg_black>ex-puissance coloniale, demeure</c>
+<c.cyan.bg_black>un acteur militaire important</c>
+
+00:16:03.520 --> 00:16:06.960 line:83% align:center
+<c.cyan.bg_black>avec 2 grandes bases navales</c>
+<c.cyan.bg_black>dans la région du Golfe.</c>
+
+00:16:07.280 --> 00:16:11.480 line:83% align:center
+<c.cyan.bg_black>Et la France, on l'a vu, dispose</c>
+<c.cyan.bg_black>de ses 3 bases aux Émirats.</c>
+
+00:16:14.400 --> 00:16:19.360 line:83% align:center
+<c.cyan.bg_black>Nous voulons en savoir plus</c>
+<c.cyan.bg_black>sur cette diplomatie du Golfe</c>
+
+00:16:19.680 --> 00:16:22.040 line:91% align:center
+<c.cyan.bg_black>qui s'affirme ces derniers mois,</c>
+
+00:16:22.360 --> 00:16:25.680 line:83% align:center
+<c.cyan.bg_black>celle de l'Arabie saoudite</c>
+<c.cyan.bg_black>et des Émirats,</c>
+
+00:16:26.000 --> 00:16:29.600 line:83% align:center
+<c.cyan.bg_black>des pays à un moment clé</c>
+<c.cyan.bg_black>de leur histoire.</c>
+
+00:16:29.920 --> 00:16:33.520 line:83% align:center
+<c.cyan.bg_black>Leur puissance financière,</c>
+<c.cyan.bg_black>militaire et géographique</c>
+
+00:16:33.840 --> 00:16:37.640 line:83% align:center
+<c.cyan.bg_black>les amène à vouloir jouer</c>
+<c.cyan.bg_black>un rôle déterminant</c>
+
+00:16:37.960 --> 00:16:41.800 line:83% align:center
+<c.cyan.bg_black>dans la résolution des crises</c>
+<c.cyan.bg_black>en imposant leur modèle.</c>
+
+00:16:42.120 --> 00:16:44.600 line:91% align:left
+<c.green.bg_black>Bonjour, Dr Ali.</c>
+
+00:16:44.920 --> 00:16:49.480 line:83% align:center
+<c.cyan.bg_black>Le Dr Ali Al Nuaimi</c>
+<c.cyan.bg_black>est un proche de MBZ,</c>
+
+00:16:49.800 --> 00:16:54.800 line:83% align:center
+<c.cyan.bg_black>Mohammed ben Zayed, puissant leader</c>
+<c.cyan.bg_black>des Émirats. Dans ces locaux,</c>
+
+00:16:55.120 --> 00:16:58.480 line:83% align:center
+<c.cyan.bg_black>chaque mur raconte</c>
+<c.cyan.bg_black>la "success story" des Émirats.</c>
+
+00:16:58.800 --> 00:17:00.560 line:91% align:center
+<c.cyan.bg_black>La parole</c>
+
+00:17:00.880 --> 00:17:04.280 line:83%
+  <c.cyan.bg_black>de ce haut dirigeant est rare. </c>
+<c.yellow.bg_black>Merci de nous recevoir</c>
+
+00:17:04.600 --> 00:17:07.680 line:83% align:left
+<c.white.bg_black>dans votre résidence,</c>
+<c.white.bg_black>ce territoire singulier</c>
+
+00:17:08.000 --> 00:17:10.800 line:91% align:left
+<c.yellow.bg_black>qui est le vôtre.</c>
+
+00:17:11.120 --> 00:17:16.600 line:83% align:center
+<c.white.bg_black>Comment avez-vous vécu</c>
+<c.white.bg_black>tous ces bouleversements récents ?</c>
+
+00:17:16.920 --> 00:17:21.880 line:83% align:right
+<c.green.bg_black>-L'attaque terroriste du 7 octobre</c>
+<c.green.bg_black>a changé la donne.</c>
+
+00:17:22.200 --> 00:17:27.720 line:12% align:center
+<c.green.bg_black>Le Hamas a sapé tous les efforts</c>
+<c.green.bg_black>de paix dans la région.</c>
+
+00:17:28.040 --> 00:17:30.600 line:91% align:right
+<c.green.bg_black>Nous avons été les 1ers</c>
+
+00:17:30.920 --> 00:17:33.360 line:83% align:center
+<c.green.bg_black>à condamner</c>
+<c.green.bg_black>cette attaque terroriste</c>
+
+00:17:33.680 --> 00:17:37.320 line:83% align:right
+<c.green.bg_black>et nous avons conseillé</c>
+<c.green.bg_black>à nos partenaires dans le monde</c>
+
+00:17:37.640 --> 00:17:39.920 line:91% align:right
+<c.green.bg_black>de continuer à s'engager</c>
+
+00:17:40.240 --> 00:17:44.600 line:91% align:right
+<c.green.bg_black>pour que cela ne se reproduise pas.</c>
+
+00:17:44.920 --> 00:17:47.160 line:91% align:right
+<c.green.bg_black>C'est ainsi qu'il faut comprendre</c>
+
+00:17:47.480 --> 00:17:50.280 line:83% align:center
+<c.green.bg_black>l'engagement</c>
+<c.green.bg_black>des Émirats arabes unis à Gaza.</c>
+
+00:17:50.600 --> 00:17:54.080 line:83% align:center
+<c.green.bg_black>On veut envoyer un message</c>
+<c.green.bg_black>au peuple palestinien,</c>
+
+00:17:54.400 --> 00:17:57.680 line:83% align:right
+<c.green.bg_black>on se soucie d'eux,</c>
+<c.green.bg_black>on ne doit pas les abandonner.</c>
+
+00:17:58.000 --> 00:18:00.160 line:91% align:right
+<c.green.bg_black>Ils ne doivent pas être récupérés</c>
+
+00:18:00.480 --> 00:18:04.560 line:83% align:right
+<c.green.bg_black>par les discours du Hamas</c>
+<c.green.bg_black>et des organisations terroristes.</c>
+
+00:18:04.880 --> 00:18:07.440 line:91% align:right
+<c.green.bg_black>Quand on parle de cette région,</c>
+
+00:18:07.760 --> 00:18:11.240 line:83% align:right
+<c.green.bg_black>il faut prendre en compte</c>
+<c.green.bg_black>Palestiniens et Israéliens.</c>
+
+00:18:11.560 --> 00:18:13.520 line:91% align:right
+<c.green.bg_black>Quand on parle de la Syrie,</c>
+
+00:18:13.840 --> 00:18:17.400 line:83% align:right
+<c.green.bg_black>il faut inclure les Druzes,</c>
+<c.green.bg_black>les Alaouites, les Kurdes,</c>
+
+00:18:17.720 --> 00:18:21.640 line:83% align:center
+<c.green.bg_black>les chrétiens, tout le monde !</c>
+<c.green.bg_black>Notre approche est inclusive</c>
+
+00:18:21.960 --> 00:18:26.400 line:83% align:right
+<c.green.bg_black>et nous considérons la diversité</c>
+<c.green.bg_black>qui existe aux Émirats arabes unis</c>
+
+00:18:26.720 --> 00:18:28.840 line:91% align:right
+<c.green.bg_black>comme une source de force.</c>
+
+00:18:29.160 --> 00:18:33.000 line:83% align:left
+<c.white.bg_black>-Êtes-vous confiant sur le fait</c>
+<c.white.bg_black>que, dans les mois à venir,</c>
+
+00:18:33.320 --> 00:18:37.000 line:83% align:left
+<c.white.bg_black>un État palestinien</c>
+<c.white.bg_black>va réellement voir le jour ?</c>
+
+00:18:37.320 --> 00:18:40.760 line:83% align:right
+<c.green.bg_black>-Seule la paix apportera</c>
+<c.green.bg_black>la sécurité aux Israéliens,</c>
+
+00:18:41.080 --> 00:18:43.200 line:91% align:center
+<c.green.bg_black>pas la guerre.</c>
+
+00:18:43.520 --> 00:18:47.280 line:83% align:right
+<c.green.bg_black>Pour cela, il faut réaliser</c>
+<c.green.bg_black>le rêve du peuple palestinien</c>
+
+00:18:47.600 --> 00:18:49.680 line:91% align:right
+<c.green.bg_black>d'avoir son propre État,</c>
+
+00:18:50.000 --> 00:18:53.760 line:83% align:center
+<c.green.bg_black>sur la base</c>
+<c.green.bg_black>des résolutions de l'ONU.</c>
+
+00:18:54.080 --> 00:18:59.200 line:83% align:right
+<c.green.bg_black>Les Palestiniens sont des humains,</c>
+<c.green.bg_black>ils méritent d'avoir leur nation,</c>
+
+00:18:59.560 --> 00:19:01.360 line:91% align:center
+<c.green.bg_black>la Palestine.</c>
+
+00:19:01.680 --> 00:19:05.120 line:83% align:right
+<c.green.bg_black>C'est le seul espoir</c>
+<c.green.bg_black>pour Israéliens et Palestiniens</c>
+
+00:19:05.440 --> 00:19:07.240 line:91% align:right
+<c.green.bg_black>et toute la région.</c>
+
+00:19:07.560 --> 00:19:11.520 line:83% align:center
+<c.green.bg_black>Mais je ne vois pas de dirigeants</c>
+<c.green.bg_black>israéliens ou palestiniens</c>
+
+00:19:11.840 --> 00:19:15.880 line:83% align:center
+<c.green.bg_black>prêts pour la paix. Nous devons</c>
+<c.green.bg_black>nous engager des 2 côtés</c>
+
+00:19:16.200 --> 00:19:21.440 line:83% align:center
+<c.green.bg_black>pour faire émerger des dirigeants</c>
+<c.green.bg_black>qui croient en la paix.</c>
+
+00:19:21.760 --> 00:19:25.440 line:83% align:center
+<c.white.bg_black>-Les accords d'Abraham</c>
+<c.white.bg_black>instaurent des relations</c>
+
+00:19:25.760 --> 00:19:29.440 line:83% align:center
+<c.yellow.bg_black>avec Israël.</c>
+<c.yellow.bg_black>Les Émirats ont signé ces accords,</c>
+
+00:19:29.760 --> 00:19:32.600 line:83% align:center
+<c.yellow.bg_black>comme le Maroc,</c>
+<c.yellow.bg_black>Bahreïn et le Soudan,</c>
+
+00:19:32.920 --> 00:19:37.560 line:83% align:center
+<c.yellow.bg_black>mais pas l'Arabie saoudite, l'Iran,</c>
+<c.yellow.bg_black>le Qatar. Le chemin va être long.</c>
+
+00:19:37.880 --> 00:19:40.440 line:91% align:center
+<c.white.bg_black>Comment allez-vous faire ?</c>
+
+00:19:40.760 --> 00:19:45.920 line:83% align:center
+<c.green.bg_black>-Depuis la signature des accords,</c>
+<c.green.bg_black>1 400 000 Israéliens ont visité</c>
+
+00:19:46.240 --> 00:19:48.080 line:91% align:right
+<c.green.bg_black>les Émirats arabes unis.</c>
+
+00:19:48.400 --> 00:19:52.880 line:83% align:right
+<c.green.bg_black>Ils ont pu constater que les Arabes</c>
+<c.green.bg_black>ne sont pas des terroristes,</c>
+
+00:19:53.200 --> 00:19:55.000 line:91% align:right
+<c.green.bg_black>mais des gens civilisés.</c>
+
+00:19:55.320 --> 00:19:59.200 line:83% align:right
+<c.green.bg_black>Ils peuvent vivre en paix</c>
+<c.green.bg_black>et en harmonie avec nous.</c>
+
+00:19:59.520 --> 00:20:03.840 line:83% align:right
+<c.green.bg_black>Chaque jour, il y a 10 vols</c>
+<c.green.bg_black>entre Tel-Aviv et les Émirats.</c>
+
+00:20:04.160 --> 00:20:07.320 line:83% align:right
+<c.green.bg_black>Nous ne sommes pas</c>
+<c.green.bg_black>des otages du passé</c>
+
+00:20:07.640 --> 00:20:09.760 line:91% align:right
+<c.green.bg_black>et de l'histoire.</c>
+
+00:20:10.080 --> 00:20:14.440 line:83% align:center
+<c.green.bg_black>On défend l'interaction avec tous,</c>
+<c.green.bg_black>dans tous les domaines.</c>
+
+00:20:14.760 --> 00:20:18.720 line:83% align:right
+<c.green.bg_black>Il n'est pas bon de vouloir exclure</c>
+<c.green.bg_black>une nation ou un groupe,</c>
+
+00:20:19.040 --> 00:20:22.960 line:83% align:right
+<c.green.bg_black>même quand il s'agit de l'Iran.</c>
+<c.green.bg_black>L'Iran est notre voisin.</c>
+
+00:20:23.280 --> 00:20:25.800 line:83% align:right
+<c.green.bg_black>Nous avons</c>
+<c.green.bg_black>une longue histoire ensemble,</c>
+
+00:20:26.120 --> 00:20:28.840 line:91% align:right
+<c.green.bg_black>on croit à l'engagement avec eux</c>
+
+00:20:29.160 --> 00:20:32.200 line:83% align:center
+<c.green.bg_black>et que, à travers cet engagement</c>
+<c.green.bg_black>et le dialogue,</c>
+
+00:20:32.520 --> 00:20:35.080 line:83% align:center
+<c.green.bg_black>nous serons capables</c>
+<c.green.bg_black>de bâtir les ponts</c>
+
+00:20:35.400 --> 00:20:38.840 line:83% align:center
+<c.green.bg_black>de la confiance</c>
+<c.green.bg_black>et des intérêts communs.</c>
+
+00:20:39.200 --> 00:20:41.040 line:91% align:center
+<c.green.bg_black>En fin de compte,</c>
+
+00:20:41.360 --> 00:20:44.400 line:83% align:center
+<c.green.bg_black>cela nous permettra</c>
+<c.green.bg_black>de travailler ensemble</c>
+
+00:20:44.720 --> 00:20:48.560 line:83% align:center
+<c.green.bg_black>à la stabilité et à la sécurité</c>
+<c.green.bg_black>de la région et du monde.</c>
+
+00:20:50.520 --> 00:20:53.800 line:83% align:center
+<c.cyan.bg_black>-Les Émirats rêvent</c>
+<c.cyan.bg_black>d'une réconciliation régionale</c>
+
+00:20:54.120 --> 00:20:56.400 line:91% align:center
+<c.cyan.bg_black>à l'image de la Maison abrahamique</c>
+
+00:20:56.720 --> 00:21:01.320 line:83% align:center
+<c.cyan.bg_black>d'Abou Dhabi. Elle fait cohabiter</c>
+<c.cyan.bg_black>musulmans, juifs et chrétiens.</c>
+
+00:21:01.640 --> 00:21:06.320 line:83% align:center
+<c.cyan.bg_black>Un site spectaculaire,</c>
+<c.cyan.bg_black>inauguré en 2023, avec une mosquée,</c>
+
+00:21:06.640 --> 00:21:09.560 line:83% align:center
+<c.cyan.bg_black>une synagogue</c>
+<c.cyan.bg_black>et une église côte à côte,</c>
+
+00:21:09.880 --> 00:21:12.800 line:91% align:center
+<c.cyan.bg_black>tout de marbre immaculé.</c>
+
+00:21:13.120 --> 00:21:16.800 line:83% align:center
+<c.cyan.bg_black>Toutes les religions</c>
+<c.cyan.bg_black>et toutes les nationalités</c>
+
+00:21:17.120 --> 00:21:19.440 line:91% align:center
+<c.cyan.bg_black>ont leur place aux Émirats</c>
+
+00:21:19.760 --> 00:21:22.400 line:91% align:center
+<c.cyan.bg_black>et bientôt dans toute la région.</c>
+
+00:21:22.720 --> 00:21:25.360 line:91% align:center
+<c.cyan.bg_black>Cette logique inclusive</c>
+
+00:21:25.680 --> 00:21:29.760 line:83% align:center
+<c.cyan.bg_black>semble même intéresser le voisin</c>
+<c.cyan.bg_black>saoudien. L'Arabie saoudite</c>
+
+00:21:30.080 --> 00:21:34.320 line:83% align:center
+<c.cyan.bg_black>est le symbole du pays fermé,</c>
+<c.cyan.bg_black>ultraconservateur</c>
+
+00:21:34.640 --> 00:21:38.760 line:83% align:center
+<c.cyan.bg_black>et centré</c>
+<c.cyan.bg_black>sur les lieux saints de l'islam.</c>
+
+00:21:39.080 --> 00:21:41.640 line:91% align:center
+<c.cyan.bg_black>Mais avec le prince saoudien MBS,</c>
+
+00:21:41.960 --> 00:21:45.240 line:83% align:center
+<c.cyan.bg_black>les temps changent</c>
+<c.cyan.bg_black>dans un pays clé de la région.</c>
+
+00:21:47.280 --> 00:21:50.960 line:83% align:center
+<c.cyan.bg_black>L'Arabie saoudite est</c>
+<c.cyan.bg_black>le plus vaste État du Moyen-Orient,</c>
+
+00:21:51.280 --> 00:21:54.520 line:83% align:center
+<c.cyan.bg_black>avec une superficie</c>
+<c.cyan.bg_black>de plus de 2 millions de km2.</c>
+
+00:21:54.840 --> 00:21:58.520 line:83% align:center
+<c.cyan.bg_black>Riyad est la capitale</c>
+<c.cyan.bg_black>de la monarchie absolue saoudienne,</c>
+
+00:21:58.840 --> 00:22:01.360 line:91% align:center
+<c.cyan.bg_black>la plus grande métropole du pays.</c>
+
+00:22:01.680 --> 00:22:06.040 line:83% align:center
+<c.cyan.bg_black>Les gisements de pétrole ont fait</c>
+<c.cyan.bg_black>la fortune de l'Arabie saoudite,</c>
+
+00:22:06.360 --> 00:22:09.200 line:83% align:center
+<c.cyan.bg_black>un des 1ers producteurs mondiaux</c>
+<c.cyan.bg_black>d'or noir.</c>
+
+00:22:09.520 --> 00:22:13.000 line:83% align:center
+<c.cyan.bg_black>Ici, le port de Djeddah,</c>
+<c.cyan.bg_black>2e ville du pays.</c>
+
+00:22:13.320 --> 00:22:16.880 line:83% align:center
+<c.cyan.bg_black>Et voici les villes saintes</c>
+<c.cyan.bg_black>de Médine et de La Mecque</c>
+
+00:22:17.200 --> 00:22:20.360 line:83% align:center
+<c.cyan.bg_black>qui attirent des pèlerins</c>
+<c.cyan.bg_black>venus du monde entier.</c>
+
+00:22:20.680 --> 00:22:24.240 line:83% align:center
+<c.cyan.bg_black>La puissance du royaume saoudien</c>
+<c.cyan.bg_black>repose sur l'alliance</c>
+
+00:22:24.560 --> 00:22:26.440 line:91% align:center
+<c.cyan.bg_black>de ces 2 piliers essentiels,</c>
+
+00:22:26.760 --> 00:22:29.800 line:83% align:center
+<c.cyan.bg_black>le pétrole d'une part</c>
+<c.cyan.bg_black>et l'islam d'autre part.</c>
+
+00:22:30.120 --> 00:22:33.600 line:83% align:center
+<c.cyan.bg_black>S'inspirant des Émirats,</c>
+<c.cyan.bg_black>Mohammed ben Salmane a lancé</c>
+
+00:22:33.920 --> 00:22:38.280 line:83% align:center
+<c.cyan.bg_black>un vaste programme de réformes</c>
+<c.cyan.bg_black>en 2016 pour préparer les Saoudiens</c>
+
+00:22:38.600 --> 00:22:42.840 line:83% align:center
+<c.cyan.bg_black>à la fin du pétrole, avec notamment</c>
+<c.cyan.bg_black>la création d'une mégalopole</c>
+
+00:22:43.160 --> 00:22:46.200 line:12% align:center
+<c.cyan.bg_black>de 26 000 km2, NEOM,</c>
+<c.cyan.bg_black>le long du golfe d'Aqaba,</c>
+
+00:22:46.520 --> 00:22:49.280 line:75% align:center
+<c.cyan.bg_black>juste en face du Sinaï égyptien</c>
+
+00:22:49.600 --> 00:22:52.800 line:75% align:center
+<c.cyan.bg_black>et à 350km seulement de Gaza.</c>
+
+00:22:53.120 --> 00:22:57.800 line:83% align:center
+<c.cyan.bg_black>MBS met en avant la libéralisation</c>
+<c.cyan.bg_black>de la société saoudienne,</c>
+
+00:22:58.120 --> 00:23:00.560 line:83% align:center
+<c.cyan.bg_black>notamment</c>
+<c.cyan.bg_black>sur la question des femmes.</c>
+
+00:23:00.880 --> 00:23:05.080 line:83% align:center
+<c.cyan.bg_black>MBS, l'incontournable interlocuteur</c>
+<c.cyan.bg_black>des grandes puissances.</c>
+
+00:23:05.400 --> 00:23:09.920 line:83% align:center
+<c.cyan.bg_black>Riyad a accueilli en février 2025</c>
+<c.cyan.bg_black>les retrouvailles inattendues</c>
+
+00:23:10.240 --> 00:23:13.560 line:83% align:center
+<c.cyan.bg_black>entre les diplomates</c>
+<c.cyan.bg_black>russes et américains.</c>
+
+00:23:13.880 --> 00:23:18.120 line:83% align:center
+<c.cyan.bg_black>Finie, comme oubliée, la période</c>
+<c.cyan.bg_black>où MBS était persona non grata</c>
+
+00:23:18.440 --> 00:23:22.560 line:12% align:center
+<c.cyan.bg_black>après l'assassinat en 2018</c>
+<c.cyan.bg_black>au consulat saoudien d'Istanbul</c>
+
+00:23:22.880 --> 00:23:25.320 line:75% align:center
+<c.cyan.bg_black>du journaliste Jamal Khashoggi.</c>
+
+00:23:25.640 --> 00:23:28.400 line:83% align:center
+<c.cyan.bg_black>L'Arabie saoudite de MBS</c>
+<c.cyan.bg_black>est reçue partout</c>
+
+00:23:28.720 --> 00:23:30.520 line:91% align:center
+<c.cyan.bg_black>et se pose en médiatrice.</c>
+
+00:23:30.840 --> 00:23:34.720 line:83% align:center
+<c.cyan.bg_black>MBS cultive depuis 2016</c>
+<c.cyan.bg_black>sa bonne relation avec Donald Trump</c>
+
+00:23:35.040 --> 00:23:38.800 line:83% align:center
+<c.cyan.bg_black>et conditionne l'établissement</c>
+<c.cyan.bg_black>de relations avec Israël</c>
+
+00:23:39.120 --> 00:23:42.360 line:83% align:center
+<c.cyan.bg_black>à la création</c>
+<c.cyan.bg_black>d'un État palestinien.</c>
+
+00:23:46.520 --> 00:23:49.520 line:83% align:center
+<c.cyan.bg_black>L'Arabie saoudite</c>
+<c.cyan.bg_black>jouera un rôle clé</c>
+
+00:23:49.840 --> 00:23:54.200 line:83% align:center
+<c.cyan.bg_black>dans le Moyen-Orient de demain.</c>
+<c.cyan.bg_black>La grande monarchie du Golfe</c>
+
+00:23:54.520 --> 00:23:59.840 line:83% align:center
+<c.cyan.bg_black>s'inspire pourtant de ce que</c>
+<c.cyan.bg_black>les Émirats ont fait avant Riyad :</c>
+
+00:24:00.160 --> 00:24:03.960 line:83% align:center
+<c.cyan.bg_black>cultiver de bonnes relations</c>
+<c.cyan.bg_black>avec le monde entier</c>
+
+00:24:04.280 --> 00:24:06.880 line:91% align:center
+<c.cyan.bg_black>en fonction des opportunités.</c>
+
+00:24:07.200 --> 00:24:11.040 line:83% align:center
+<c.cyan.bg_black>Nous avons rendez-vous</c>
+<c.cyan.bg_black>à la Anwar Gargash Academy,</c>
+
+00:24:11.360 --> 00:24:13.880 line:83% align:center
+<c.cyan.bg_black>où l'on forme</c>
+<c.cyan.bg_black>les diplomates émiriens.</c>
+
+00:24:14.200 --> 00:24:17.640 line:83% align:center
+<c.cyan.bg_black>Un bâtiment grandiose</c>
+<c.cyan.bg_black>dirigé par un diplomate bulgare,</c>
+
+00:24:17.960 --> 00:24:22.160 line:83% align:center
+<c.cyan.bg_black>ex-envoyé spécial du secrétaire</c>
+<c.cyan.bg_black>de l'ONU pour le Proche-Orient,</c>
+
+00:24:22.480 --> 00:24:26.680 line:83% align:center
+<c.cyan.bg_black>passé au service</c>
+<c.cyan.bg_black>de la diplomatie émirienne.</c>
+
+00:24:27.000 --> 00:24:31.840 line:83% align:center
+<c.white.bg_black>La diplomatie émirienne assume</c>
+<c.white.bg_black>de parler à tout le monde.</c>
+
+00:24:32.160 --> 00:24:36.600 line:83% align:left
+<c.yellow.bg_black>Elle a cherché</c>
+<c.yellow.bg_black>à réhabiliter Bachar el-Assad</c>
+
+00:24:36.920 --> 00:24:41.000 line:83% align:center
+<c.white.bg_black>et elle a discuté avec</c>
+<c.white.bg_black>les nouvelles autorités syriennes.</c>
+
+00:24:41.320 --> 00:24:43.520 line:91% align:center
+<c.yellow.bg_black>Comment justifiez-vous cela ?</c>
+
+00:24:43.840 --> 00:24:45.480 line:91% align:right
+<c.green.bg_black>-Eh bien...</c>
+
+00:24:46.640 --> 00:24:48.840 line:66% align:right
+<c.green.bg_black>C'est l'enjeu de la diplomatie</c>
+
+00:24:49.160 --> 00:24:52.080 line:66% align:right
+<c.green.bg_black>de pouvoir parler à tout le monde.</c>
+
+00:24:52.400 --> 00:24:55.800 line:83% align:right
+<c.green.bg_black>Je n'ai jamais pensé</c>
+<c.green.bg_black>que la diplomatie se résumait</c>
+
+00:24:56.120 --> 00:24:59.640 line:83% align:right
+<c.green.bg_black>à des slogans,</c>
+<c.green.bg_black>des déclarations ou des tweets.</c>
+
+00:24:59.960 --> 00:25:04.800 line:83% align:right
+<c.green.bg_black>Il s'agit de dialoguer avec ceux</c>
+<c.green.bg_black>avec qui on n'est pas d'accord.</c>
+
+00:25:05.120 --> 00:25:06.520 line:91% align:center
+<c.white.bg_black>-L'Iran</c>
+
+00:25:06.840 --> 00:25:08.160 line:91% align:left
+<c.yellow.bg_black>est décrit</c>
+
+00:25:08.480 --> 00:25:10.280 line:91% align:center
+<c.white.bg_black>comme affaibli.</c>
+
+00:25:10.600 --> 00:25:11.840 line:91% align:left
+<c.yellow.bg_black>Du coup,</c>
+
+00:25:12.160 --> 00:25:16.320 line:83% align:center
+<c.white.bg_black>l'Iran devient-il pour vous</c>
+<c.white.bg_black>un interlocuteur plus facile ?</c>
+
+00:25:16.640 --> 00:25:22.200 line:83% align:right
+<c.green.bg_black>-Pour de nombreux pays du Golfe,</c>
+<c.green.bg_black>ce n'est pas un partenaire facile.</c>
+
+00:25:22.520 --> 00:25:27.080 line:83% align:right
+<c.green.bg_black>L'inquiétude des gens de la région</c>
+<c.green.bg_black>face à ses ingérences extérieures</c>
+
+00:25:27.400 --> 00:25:31.960 line:83% align:right
+<c.green.bg_black>s'est considérablement accrue.</c>
+<c.green.bg_black>On peut tenter de s'opposer</c>
+
+00:25:32.280 --> 00:25:37.280 line:83% align:right
+<c.green.bg_black>à cette situation</c>
+<c.green.bg_black>de manière agressive et militaire.</c>
+
+00:25:37.600 --> 00:25:40.760 line:83% align:right
+<c.green.bg_black>On peut aussi y faire face</c>
+<c.green.bg_black>grâce à la diplomatie</c>
+
+00:25:41.080 --> 00:25:44.440 line:83% align:right
+<c.green.bg_black>en gardant ouverts</c>
+<c.green.bg_black>des canaux de communication.</c>
+
+00:25:44.760 --> 00:25:47.320 line:83% align:center
+<c.green.bg_black>Mais surtout,</c>
+<c.green.bg_black>je pense qu'on y parvient</c>
+
+00:25:47.640 --> 00:25:50.880 line:83% align:center
+<c.green.bg_black>en montrant au peuple</c>
+<c.green.bg_black>et aux dirigeants iraniens</c>
+
+00:25:51.200 --> 00:25:55.720 line:83% align:center
+<c.green.bg_black>que la région n'est pas agressive</c>
+<c.green.bg_black>à l'égard de l'Iran.</c>
+
+00:25:56.040 --> 00:25:59.960 line:83% align:right
+<c.green.bg_black>Au contraire,</c>
+<c.green.bg_black>il s'agit de lui montrer</c>
+
+00:26:00.280 --> 00:26:05.240 line:83% align:center
+<c.green.bg_black>qu'il existe une autre manière</c>
+<c.green.bg_black>de gérer les choses.</c>
+
+00:26:05.560 --> 00:26:08.240 line:83% align:center
+<c.white.bg_black>-Merci beaucoup.</c>
+<c.green.bg_black>-Merci.</c>
+
+00:26:08.560 --> 00:26:12.920 line:83% align:center
+<c.cyan.bg_black>-C'est une diplomatie multicarte</c>
+<c.cyan.bg_black>et sans conflits avec les voisins</c>
+
+00:26:13.240 --> 00:26:17.560 line:83% align:center
+<c.cyan.bg_black>que met en avant Abou Dhabi,</c>
+<c.cyan.bg_black>c'est-à-dire des accords militaires</c>
+
+00:26:17.880 --> 00:26:22.120 line:83% align:center
+<c.cyan.bg_black>avec l'Occident et des liens</c>
+<c.cyan.bg_black>qui se nouent avec la grande rivale</c>
+
+00:26:22.440 --> 00:26:25.440 line:83% align:center
+<c.cyan.bg_black>des États-Unis,</c>
+<c.cyan.bg_black>la Chine de Xi Jinping.</c>
+
+00:26:25.760 --> 00:26:27.920 line:91% align:center
+<c.cyan.bg_black>Depuis une dizaine d'années,</c>
+
+00:26:28.240 --> 00:26:31.560 line:83% align:center
+<c.cyan.bg_black>la Chine a renforcé sa présence</c>
+<c.cyan.bg_black>dans la région.</c>
+
+00:26:31.880 --> 00:26:34.240 line:83% align:center
+<c.cyan.bg_black>Le pétrole du Golfe</c>
+<c.cyan.bg_black>est le carburant</c>
+
+00:26:34.560 --> 00:26:36.720 line:91% align:center
+<c.cyan.bg_black>de son développement économique.</c>
+
+00:26:37.040 --> 00:26:41.120 line:83% align:center
+<c.cyan.bg_black>3 de ses 4 fournisseurs</c>
+<c.cyan.bg_black>de pétrole sont des pays du Golfe :</c>
+
+00:26:41.440 --> 00:26:44.640 line:83% align:center
+<c.cyan.bg_black>l'Arabie saoudite,</c>
+<c.cyan.bg_black>les Émirats et l'Iran.</c>
+
+00:26:44.960 --> 00:26:47.720 line:83% align:center
+<c.cyan.bg_black>Environ 60%</c>
+<c.cyan.bg_black>des exportations chinoises</c>
+
+00:26:48.040 --> 00:26:52.320 line:83% align:center
+<c.cyan.bg_black>vers l'Europe et l'Afrique</c>
+<c.cyan.bg_black>transitent par le port de Dubaï.</c>
+
+00:26:52.640 --> 00:26:55.600 line:83% align:center
+<c.cyan.bg_black>Pour sécuriser ses positions</c>
+<c.cyan.bg_black>dans la zone,</c>
+
+00:26:55.920 --> 00:26:58.600 line:83% align:center
+<c.cyan.bg_black>la Chine a multiplié</c>
+<c.cyan.bg_black>ses investissements.</c>
+
+00:26:58.920 --> 00:27:00.840 line:91% align:center
+<c.cyan.bg_black>Au Qatar, par exemple,</c>
+
+00:27:01.160 --> 00:27:04.920 line:83% align:center
+<c.cyan.bg_black>une entreprise chinoise crée</c>
+<c.cyan.bg_black>de nouvelles infrastructures</c>
+
+00:27:05.240 --> 00:27:08.800 line:83% align:center
+<c.cyan.bg_black>dans le port Hamad, à Doha,</c>
+<c.cyan.bg_black>le plus important du pays.</c>
+
+00:27:09.120 --> 00:27:13.080 line:83% align:center
+<c.cyan.bg_black>Aux Émirats, l'armateur Cosco,</c>
+<c.cyan.bg_black>géant chinois du secteur,</c>
+
+00:27:13.400 --> 00:27:16.680 line:83% align:center
+<c.cyan.bg_black>a racheté 90% du capital</c>
+<c.cyan.bg_black>du terminal de conteneurs</c>
+
+00:27:17.000 --> 00:27:19.360 line:91% align:center
+<c.cyan.bg_black>du port d'Abou Dhabi.</c>
+
+00:27:19.680 --> 00:27:21.960 line:91% align:center
+<c.cyan.bg_black>Sur le plan militaire,</c>
+
+00:27:22.280 --> 00:27:27.400 line:83% align:center
+<c.cyan.bg_black>les Chinois ont signé un accord</c>
+<c.cyan.bg_black>stratégique avec l'Iran en 2021.</c>
+
+00:27:27.720 --> 00:27:31.800 line:83% align:center
+<c.cyan.bg_black>Enfin, la diplomatie chinoise</c>
+<c.cyan.bg_black>s'active dans le Golfe.</c>
+
+00:27:32.120 --> 00:27:34.960 line:58% align:center
+<c.cyan.bg_black>En mars 2023,</c>
+<c.cyan.bg_black>Pékin a remporté une victoire</c>
+
+00:27:35.280 --> 00:27:38.520 line:58% align:center
+<c.cyan.bg_black>sur la scène internationale</c>
+<c.cyan.bg_black>et sur les États-Unis</c>
+
+00:27:38.840 --> 00:27:42.280 line:58% align:center
+<c.cyan.bg_black>en parrainant la reprise</c>
+<c.cyan.bg_black>des relations diplomatiques</c>
+
+00:27:42.600 --> 00:27:44.880 line:66% align:center
+<c.cyan.bg_black>entre l'Iran et l'Arabie saoudite.</c>
+
+00:27:45.200 --> 00:27:49.440 line:83% align:center
+<c.cyan.bg_black>La Chine a obtenu une victoire</c>
+<c.cyan.bg_black>avec cette image de rapprochement</c>
+
+00:27:49.760 --> 00:27:52.840 line:83% align:center
+<c.cyan.bg_black>entre les 2 rivaux régionaux,</c>
+<c.cyan.bg_black>Téhéran et Riyad,</c>
+
+00:27:53.160 --> 00:27:55.600 line:91% align:center
+<c.cyan.bg_black>mais l'Iran reste pour les Émirats</c>
+
+00:27:55.920 --> 00:27:59.760 line:83% align:center
+<c.cyan.bg_black>un voisin que l'on surveille</c>
+<c.cyan.bg_black>comme le lait sur le feu.</c>
+
+00:28:02.640 --> 00:28:07.120 line:83% align:center
+<c.cyan.bg_black>Sur la base aérienne française</c>
+<c.cyan.bg_black>des Émirats, la grande fierté,</c>
+
+00:28:07.440 --> 00:28:11.440 line:83% align:center
+<c.cyan.bg_black>c'est le Rafale.</c>
+<c.cyan.bg_black>Paris en a vendu 80 aux Émirats</c>
+
+00:28:11.760 --> 00:28:14.440 line:91% align:center
+<c.cyan.bg_black>en 2021, le contrat du siècle.</c>
+
+00:28:14.760 --> 00:28:17.560 line:91% align:center
+<c.cyan.bg_black>Les Émirats vont financer largement</c>
+
+00:28:17.880 --> 00:28:20.440 line:91% align:center
+<c.cyan.bg_black>le nouveau Rafale 5.</c>
+
+00:28:20.760 --> 00:28:24.040 line:83% align:left
+<c.white.bg_black>-Le cône radar, aucun impact,</c>
+<c.white.bg_black>dans les tolérances.</c>
+
+00:28:24.360 --> 00:28:27.160 line:91% align:center
+<c.white.bg_black>Le détecteur, dans les tolérances.</c>
+
+00:28:27.480 --> 00:28:30.920 line:83% align:center
+<c.white.bg_black>Pneumatiques en bon état</c>
+<c.white.bg_black>et le crochet est ouvert.</c>
+
+00:28:33.400 --> 00:28:36.040 line:83% align:right
+<c.white.bg_black>-Capitaine Gabriel,</c>
+<c.white.bg_black>c'est le Rafale 4 ?</c>
+
+00:28:36.360 --> 00:28:38.880 line:91% align:center
+<c.white.bg_black>-Le Rafale standard 4.</c>
+
+00:28:39.200 --> 00:28:41.560 line:91% align:right
+<c.white.bg_black>-Vous volez tous les jours ?</c>
+
+00:28:41.880 --> 00:28:45.240 line:62% align:center
+<c.white.bg_black>-Comme tout pilote</c>
+<c.white.bg_black>affecté en escadron en France.</c>
+
+00:28:45.560 --> 00:28:49.160 line:83% align:center
+<c.white.bg_black>La zone d'entraînement</c>
+<c.white.bg_black>couvre la totalité de l'espace</c>
+
+00:28:49.480 --> 00:28:50.880 line:91% align:center
+<c.white.bg_black>des Émirats.</c>
+
+00:28:51.200 --> 00:28:53.920 line:91% align:right
+<c.white.bg_black>-Vous voyez bien l'Iran.</c>
+
+00:28:54.240 --> 00:28:58.760 line:83% align:center
+<c.white.bg_black>-On ne le regarde pas, on est</c>
+<c.white.bg_black>focalisés sur notre entraînement,</c>
+
+00:28:59.080 --> 00:29:02.960 line:83% align:center
+<c.white.bg_black>mais les Émirats</c>
+<c.white.bg_black>sont assez proches de l'Iran.</c>
+
+00:29:03.280 --> 00:29:06.320 line:91% align:center
+<c.cyan.bg_black>-La base aérienne française</c>
+
+00:29:06.640 --> 00:29:12.040 line:83% align:center
+<c.cyan.bg_black>se trouve à côté d'une base</c>
+<c.cyan.bg_black>émirienne et d'une base américaine.</c>
+
+00:29:12.360 --> 00:29:15.040 line:91% align:center
+<c.cyan.bg_black>Le colonel Pappalardo</c>
+
+00:29:15.360 --> 00:29:18.520 line:83% align:center
+<c.cyan.bg_black>nous explique</c>
+<c.cyan.bg_black>comment il travaillait</c>
+
+00:29:18.840 --> 00:29:23.080 line:83% align:center
+<c.cyan.bg_black>avec le grand voisin états-unien</c>
+<c.cyan.bg_black>jusqu'au retour de Donald Trump,</c>
+
+00:29:23.400 --> 00:29:28.200 line:83% align:center
+<c.cyan.bg_black>notamment pour collecter</c>
+<c.cyan.bg_black>du renseignement.</c>
+
+00:29:28.520 --> 00:29:30.240 line:91% align:left
+<c.white.bg_black>-En tant que partenaires,</c>
+
+00:29:30.560 --> 00:29:33.360 line:83% align:left
+<c.white.bg_black>chaque semaine,</c>
+<c.white.bg_black>je vais voir les Américains</c>
+
+00:29:33.680 --> 00:29:36.440 line:70% align:center
+<c.white.bg_black>pour développer l'interopérabilité</c>
+
+00:29:36.760 --> 00:29:40.160 line:83% align:left
+<c.white.bg_black>et s'assurer qu'on a</c>
+<c.white.bg_black>la même analyse de la situation.</c>
+
+00:29:40.480 --> 00:29:44.160 line:83%
+     <c.yellow.bg_black>-Et il y a le renseignement. </c>
+    <c.white.bg_black>  -Un effort prioritaire</c>
+
+00:29:44.480 --> 00:29:46.000 line:91% align:left
+<c.white.bg_black>sur la zone.</c>
+
+00:29:46.320 --> 00:29:49.320 line:83% align:right
+<c.white.bg_black>-Vous le collectez</c>
+<c.white.bg_black>en tant que force française</c>
+
+00:29:49.640 --> 00:29:52.960 line:83% align:right
+<c.white.bg_black>ou, parfois, vous le faites</c>
+<c.white.bg_black>avec les Américains ?</c>
+
+00:29:53.280 --> 00:29:56.440 line:83% align:center
+<c.white.bg_black>-Le monde du renseignement</c>
+<c.white.bg_black>est celui du partage,</c>
+
+00:29:56.760 --> 00:29:58.920 line:91% align:center
+<c.white.bg_black>pas de l'échange.</c>
+
+00:29:59.240 --> 00:30:02.080 line:83% align:left
+<c.white.bg_black>Tactiquement,</c>
+<c.white.bg_black>je collecte ce renseignement,</c>
+
+00:30:02.400 --> 00:30:04.360 line:91% align:left
+<c.white.bg_black>puis à un niveau supérieur,</c>
+
+00:30:04.680 --> 00:30:06.840 line:91% align:center
+<c.white.bg_black>on décide avec qui le partager.</c>
+
+00:30:07.160 --> 00:30:11.320 line:83% align:center
+<c.white.bg_black>Ça peut être avec les Américains</c>
+<c.white.bg_black>ou avec notre pays hôte.</c>
+
+00:30:11.640 --> 00:30:14.480 line:83% align:center
+<c.white.bg_black>Ça dépasse le niveau</c>
+<c.white.bg_black>de la base aérienne.</c>
+
+00:30:14.800 --> 00:30:18.320 line:83% align:center
+<c.white.bg_black>-Géographiquement,</c>
+<c.white.bg_black>vous êtes au bon endroit.</c>
+
+00:30:18.640 --> 00:30:20.720 line:91% align:center
+<c.white.bg_black>-La base aérienne</c>
+
+00:30:21.040 --> 00:30:24.440 line:83% align:center
+<c.yellow.bg_black>est positionnée</c>
+<c.yellow.bg_black>à un carrefour géostratégique.</c>
+
+00:30:24.760 --> 00:30:26.520 line:83%
+                <c.green.bg_black>-The place to be. </c>
+<c.white.bg_black>-Exact.</c>
+
+00:30:26.840 --> 00:30:31.080 line:83% align:center
+<c.cyan.bg_black>-"The place to be" ou se situer</c>
+<c.cyan.bg_black>au bon endroit et au bon moment,</c>
+
+00:30:31.400 --> 00:30:34.680 line:83% align:center
+<c.cyan.bg_black>c'est ainsi que se voient</c>
+<c.cyan.bg_black>les monarchies du Golfe,</c>
+
+00:30:35.000 --> 00:30:38.680 line:83% align:center
+<c.cyan.bg_black>de l'Arabie saoudite aux Émirats,</c>
+<c.cyan.bg_black>sans oublier le Qatar,</c>
+
+00:30:39.000 --> 00:30:43.320 line:83% align:center
+<c.cyan.bg_black>longtemps mal vu de ses voisins</c>
+<c.cyan.bg_black>de par son influence diplomatique,</c>
+
+00:30:43.640 --> 00:30:46.920 line:83% align:center
+<c.cyan.bg_black>notamment sur le financement</c>
+<c.cyan.bg_black>du Hamas palestinien.</c>
+
+00:30:47.240 --> 00:30:49.240 line:91% align:center
+<c.cyan.bg_black>Les monarchies du Golfe</c>
+
+00:30:49.560 --> 00:30:51.720 line:91% align:center
+<c.cyan.bg_black>se savent au centre du jeu,</c>
+
+00:30:52.040 --> 00:30:56.360 line:83% align:center
+<c.cyan.bg_black>prospères, capables de mieux tenir</c>
+<c.cyan.bg_black>leur rang face à l'Occident,</c>
+
+00:30:56.680 --> 00:30:59.520 line:91% align:center
+<c.cyan.bg_black>aux États-Unis en particulier.</c>
+
+00:30:59.840 --> 00:31:02.280 line:91% align:center
+<c.cyan.bg_black>Avec l'ensemble du monde arabe,</c>
+
+00:31:02.600 --> 00:31:05.080 line:91% align:center
+<c.cyan.bg_black>le moment semble venu de tenter</c>
+
+00:31:05.400 --> 00:31:08.960 line:83% align:center
+<c.cyan.bg_black>de s'opposer au plan</c>
+<c.cyan.bg_black>Trump-Netanyahou concernant Gaza.</c>
+
+00:31:09.280 --> 00:31:12.120 line:83% align:center
+<c.cyan.bg_black>Pas question de déplacer</c>
+<c.cyan.bg_black>le peuple gazaoui,</c>
+
+00:31:12.440 --> 00:31:15.800 line:83% align:center
+<c.cyan.bg_black>urgence de reposer les bases</c>
+<c.cyan.bg_black>d'un État palestinien</c>
+
+00:31:16.120 --> 00:31:18.960 line:83% align:center
+<c.cyan.bg_black>et volonté du Golfe</c>
+<c.cyan.bg_black>de jouer un rôle majeur</c>
+
+00:31:19.280 --> 00:31:23.160 line:83% align:center
+<c.cyan.bg_black>dans la reconstruction de Gaza.</c>
+<c.cyan.bg_black>Voici leurs propositions.</c>
+
+00:31:23.480 --> 00:31:28.040 line:83% align:center
+<c.cyan.bg_black>L'Égypte, la Jordanie, l'Arabie</c>
+<c.cyan.bg_black>saoudite, le Qatar et les Émirats</c>
+
+00:31:28.360 --> 00:31:32.400 line:83% align:center
+<c.cyan.bg_black>proposent la mise en place</c>
+<c.cyan.bg_black>d'une administration palestinienne</c>
+
+00:31:32.720 --> 00:31:36.760 line:83% align:center
+<c.cyan.bg_black>non alignée sur le Hamas qui a pris</c>
+<c.cyan.bg_black>le pouvoir à Gaza en 2007</c>
+
+00:31:37.080 --> 00:31:40.160 line:83% align:center
+<c.cyan.bg_black>et non alignée</c>
+<c.cyan.bg_black>sur l'autorité palestinienne</c>
+
+00:31:40.480 --> 00:31:44.920 line:83% align:center
+<c.cyan.bg_black>qui administre l'autre territoire</c>
+<c.cyan.bg_black>palestinien, la Cisjordanie.</c>
+
+00:31:45.240 --> 00:31:48.080 line:83% align:center
+<c.cyan.bg_black>Le Hamas accepterait</c>
+<c.cyan.bg_black>de ne plus diriger Gaza</c>
+
+00:31:48.400 --> 00:31:52.360 line:83% align:center
+<c.cyan.bg_black>si un gouvernement d'unité</c>
+<c.cyan.bg_black>palestinienne était mis en place</c>
+
+00:31:52.680 --> 00:31:55.040 line:91% align:center
+<c.cyan.bg_black>ou un gouvernement de technocrates,</c>
+
+00:31:55.360 --> 00:31:57.760 line:91% align:center
+<c.cyan.bg_black>le Hamas voulant jouer un rôle</c>
+
+00:31:58.080 --> 00:32:02.040 line:83% align:center
+<c.cyan.bg_black>dans le choix des membres</c>
+<c.cyan.bg_black>de cette nouvelle administration.</c>
+
+00:32:02.360 --> 00:32:06.600 line:83% align:center
+<c.cyan.bg_black>Dans ce plan des pays arabes,</c>
+<c.cyan.bg_black>il est prévu que l'Union européenne</c>
+
+00:32:06.920 --> 00:32:09.960 line:83% align:center
+<c.cyan.bg_black>contribue à former</c>
+<c.cyan.bg_black>le personnel administratif.</c>
+
+00:32:10.280 --> 00:32:12.640 line:91% align:center
+<c.cyan.bg_black>Le plan prévoirait un processus</c>
+
+00:32:12.960 --> 00:32:16.680 line:83% align:center
+<c.cyan.bg_black>de reconstruction</c>
+<c.cyan.bg_black>de la bande de Gaza en 3 phases,</c>
+
+00:32:17.000 --> 00:32:20.440 line:83% align:center
+<c.cyan.bg_black>sur 5 ans,</c>
+<c.cyan.bg_black>sans expulsion des Gazaouis.</c>
+
+00:32:20.760 --> 00:32:25.120 line:83% align:center
+<c.cyan.bg_black>3 zones humanitaires sécurisées</c>
+<c.cyan.bg_black>seraient créées sur le territoire,</c>
+
+00:32:25.440 --> 00:32:27.720 line:91% align:center
+<c.cyan.bg_black>chacune comprenant 20 grands camps</c>
+
+00:32:28.040 --> 00:32:31.040 line:83% align:center
+<c.cyan.bg_black>équipés pour subvenir</c>
+<c.cyan.bg_black>aux besoins élémentaires</c>
+
+00:32:31.360 --> 00:32:35.200 line:83% align:center
+<c.cyan.bg_black>d'une population estimée</c>
+<c.cyan.bg_black>à environ 2 millions de personnes.</c>
+
+00:32:35.520 --> 00:32:38.680 line:83% align:center
+<c.cyan.bg_black>Objectif : permettre</c>
+<c.cyan.bg_black>l'enlèvement des décombres</c>
+
+00:32:39.000 --> 00:32:42.120 line:83% align:center
+<c.cyan.bg_black>causés par la guerre.</c>
+<c.cyan.bg_black>Quant à la reconstruction,</c>
+
+00:32:42.440 --> 00:32:46.640 line:83% align:center
+<c.cyan.bg_black>elle serait financée par des</c>
+<c.cyan.bg_black>donateurs arabes et internationaux,</c>
+
+00:32:46.960 --> 00:32:49.320 line:91% align:center
+<c.cyan.bg_black>dont les riches monarchies du Golfe</c>
+
+00:32:49.640 --> 00:32:52.760 line:58% align:center
+<c.cyan.bg_black>comme l'Arabie saoudite,</c>
+<c.cyan.bg_black>les Émirats et le Qatar.</c>
+
+00:32:53.080 --> 00:32:56.760 line:12% align:center
+<c.cyan.bg_black>Une zone tampon serait créée</c>
+<c.cyan.bg_black>pour sécuriser la frontière</c>
+
+00:32:57.080 --> 00:33:00.320 line:12% align:center
+<c.cyan.bg_black>entre Gaza et l'Égypte</c>
+<c.cyan.bg_black>et pour y rendre impossible</c>
+
+00:33:00.640 --> 00:33:04.320 line:83% align:center
+<c.cyan.bg_black>le creusement de tunnels</c>
+<c.cyan.bg_black>comme lors de la période Hamas.</c>
+
+00:33:04.640 --> 00:33:07.120 line:83% align:center
+<c.cyan.bg_black>Il s'agit de créer</c>
+<c.cyan.bg_black>un État palestinien</c>
+
+00:33:07.440 --> 00:33:11.720 line:83% align:center
+<c.cyan.bg_black>dans les frontières qui existaient</c>
+<c.cyan.bg_black>avant la guerre des Six Jours,</c>
+
+00:33:12.040 --> 00:33:14.480 line:91% align:center
+<c.cyan.bg_black>avec Jérusalem-Est pour capitale</c>
+
+00:33:14.800 --> 00:33:19.000 line:83% align:center
+<c.cyan.bg_black>et instauration d'une zone tampon</c>
+<c.cyan.bg_black>pour sécuriser Israël.</c>
+
+00:33:23.560 --> 00:33:26.160 line:83% align:center
+<c.cyan.bg_black>Il est temps</c>
+<c.cyan.bg_black>de quitter les Émirats,</c>
+
+00:33:26.480 --> 00:33:30.520 line:83% align:center
+<c.cyan.bg_black>ce pays d'où l'on regarde autrement</c>
+<c.cyan.bg_black>le nouveau Moyen-Orient,</c>
+
+00:33:30.840 --> 00:33:34.840 line:83% align:center
+<c.cyan.bg_black>qui pense à la sécurité d'Israël</c>
+<c.cyan.bg_black>et à la défense des Palestiniens,</c>
+
+00:33:35.160 --> 00:33:38.360 line:83% align:center
+<c.cyan.bg_black>qui mise sur les nouveaux</c>
+<c.cyan.bg_black>dirigeants de la Syrie</c>
+
+00:33:38.680 --> 00:33:43.160 line:83% align:center
+<c.cyan.bg_black>et sur le sauvetage du Liban après</c>
+<c.cyan.bg_black>l'affaiblissement du Hezbollah,</c>
+
+00:33:43.480 --> 00:33:46.200 line:91% align:center
+<c.cyan.bg_black>mais qui ignore ce que feront</c>
+
+00:33:46.520 --> 00:33:48.960 line:83% align:center
+<c.cyan.bg_black>3 acteurs imprévisibles</c>
+<c.cyan.bg_black>de la région,</c>
+
+00:33:49.280 --> 00:33:52.520 line:83% align:center
+<c.cyan.bg_black>la République islamique d'Iran,</c>
+<c.cyan.bg_black>Benyamin Netanyahou</c>
+
+00:33:52.840 --> 00:33:54.800 line:91% align:center
+<c.cyan.bg_black>en Israël et Donald Trump</c>
+
+00:33:55.120 --> 00:33:58.560 line:83% align:center
+<c.cyan.bg_black>avec ses annonces chaotiques</c>
+<c.cyan.bg_black>de politique étrangère.</c>
+
+00:33:59.880 --> 00:34:03.360 line:83% align:center
+<c.white.bg_black>Ainsi s'achève notre voyage</c>
+<c.white.bg_black>aux Émirats arabes unis,</c>
+
+00:34:03.680 --> 00:34:06.520 line:83% align:center
+<c.white.bg_black>un pays qui jouera forcément</c>
+<c.white.bg_black>un rôle majeur</c>
+
+00:34:06.840 --> 00:34:09.640 line:91% align:center
+<c.white.bg_black>dans les années à venir</c>
+
+00:34:09.960 --> 00:34:14.320 line:83% align:center
+<c.white.bg_black>de par sa centralité géographique,</c>
+<c.white.bg_black>de par sa prospérité économique</c>
+
+00:34:14.640 --> 00:34:18.880 line:83% align:center
+<c.white.bg_black>et de par ses choix diplomatiques,</c>
+<c.white.bg_black>discutant avec le monde entier,</c>
+
+00:34:19.200 --> 00:34:21.400 line:91% align:center
+<c.white.bg_black>des BRICS aux Occidentaux.</c>
+
+00:34:21.720 --> 00:34:25.480 line:83% align:center
+<c.white.bg_black>À l'heure où le Moyen-Orient</c>
+<c.white.bg_black>est en plein bouleversement,</c>
+
+00:34:25.800 --> 00:34:28.480 line:83% align:center
+<c.white.bg_black>une partie des solutions</c>
+<c.white.bg_black>se trouvent ici,</c>
+
+00:34:28.800 --> 00:34:31.920 line:83% align:center
+<c.white.bg_black>dans ce pays</c>
+<c.white.bg_black>qui ne ressemble à aucun autre.</c>
+
+00:34:35.120 --> 00:34:40.120 line:91% align:center
+<c.green.bg_black>france.tv access</c>
+

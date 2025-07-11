@@ -1,0 +1,736 @@
+WEBVTT
+
+STYLE
+::cue(.black) {
+ color: black;
+}
+
+STYLE
+::cue(.red) {
+ color: red;
+}
+
+STYLE
+::cue(.green) {
+ color: green;
+}
+
+STYLE
+::cue(.yellow) {
+ color: yellow;
+}
+
+STYLE
+::cue(.blue) {
+ color: blue;
+}
+
+STYLE
+::cue(.magenta) {
+ color: magenta;
+}
+
+STYLE
+::cue(.cyan) {
+ color: cyan;
+}
+
+STYLE
+::cue(.white) {
+ color: white;
+}
+
+STYLE
+::cue(.bg_black) {
+ background-color: black;
+}
+
+STYLE
+::cue(.bg_red) {
+ background-color: red;
+}
+
+STYLE
+::cue(.bg_green) {
+ background-color: green;
+}
+
+STYLE
+::cue(.bg_yellow) {
+ background-color: yellow;
+}
+
+STYLE
+::cue(.bg_blue) {
+ background-color: blue;
+}
+
+STYLE
+::cue(.bg_magenta) {
+ background-color: magenta;
+}
+
+STYLE
+::cue(.bg_cyan) {
+ background-color: cyan;
+}
+
+STYLE
+::cue(.bg_white) {
+ background-color: white;
+}
+
+00:00:03.400 --> 00:00:19.360 line:91% align:left
+<c.magenta.bg_black>...</c>
+
+00:00:22.000 --> 00:00:24.280 line:91% align:center
+<c.white.bg_black>-Ravie de vous retrouver.</c>
+
+00:00:24.600 --> 00:00:29.560 line:83% align:center
+<c.white.bg_black>Aujourd'hui, on débute à Varsovie</c>
+<c.white.bg_black>avec son musée d'art moderne</c>
+
+00:00:29.880 --> 00:00:34.400 line:83% align:center
+<c.white.bg_black>construit par un célèbre architecte</c>
+<c.white.bg_black>contemporain, Thomas Phifer,</c>
+
+00:00:34.720 --> 00:00:39.240 line:83% align:center
+<c.white.bg_black>à côté du palais de la Culture,</c>
+<c.white.bg_black>bâtiment de l'époque stalinienne.</c>
+
+00:00:39.560 --> 00:00:44.160 line:83% align:center
+<c.white.bg_black>Un choc des contrastes qui dit tout</c>
+<c.white.bg_black>de cette capitale européenne</c>
+
+00:00:44.480 --> 00:00:46.840 line:91% align:center
+<c.white.bg_black>et de la Pologne en plein essor.</c>
+
+00:00:47.200 --> 00:00:50.640 line:83% align:center
+<c.white.bg_black>Géographiquement,</c>
+<c.white.bg_black>économiquement et militairement,</c>
+
+00:00:50.960 --> 00:00:53.480 line:91% align:center
+<c.white.bg_black>elle joue les 1ers rôles en Europe,</c>
+
+00:00:53.800 --> 00:00:56.880 line:83% align:center
+<c.white.bg_black>surtout depuis l'invasion russe</c>
+<c.white.bg_black>de l'Ukraine</c>
+
+00:00:57.200 --> 00:01:00.920 line:83% align:center
+<c.white.bg_black>qui l'a mise au centre</c>
+<c.white.bg_black>de la défense du continent.</c>
+
+00:01:01.240 --> 00:01:03.240 line:91% align:center
+<c.white.bg_black>Sortons nos cartes.</c>
+
+00:01:03.560 --> 00:01:08.240 line:83% align:center
+<c.cyan.bg_black>La Pologne, État d'Europe centrale,</c>
+<c.cyan.bg_black>6e pays le plus grand de l'UE</c>
+
+00:01:08.560 --> 00:01:12.960 line:37% align:center
+<c.cyan.bg_black>après la France, l'Espagne,</c>
+<c.cyan.bg_black>la Suède, l'Allemagne, la Finlande,</c>
+
+00:01:13.280 --> 00:01:17.760 line:12% align:center
+<c.cyan.bg_black>5e pays le plus peuplé de l'Union</c>
+<c.cyan.bg_black>avec 36,6 millions d'habitants.</c>
+
+00:01:18.080 --> 00:01:21.600 line:83% align:center
+<c.cyan.bg_black>Elle a des frontières</c>
+<c.cyan.bg_black>avec l'Allemagne, la Tchéquie,</c>
+
+00:01:21.920 --> 00:01:25.360 line:83% align:center
+<c.cyan.bg_black>la Slovaquie, l'Ukraine,</c>
+<c.cyan.bg_black>la Biélorussie, la Lituanie</c>
+
+00:01:25.680 --> 00:01:27.920 line:91% align:center
+<c.cyan.bg_black>et l'enclave russe de Kaliningrad,</c>
+
+00:01:28.240 --> 00:01:31.600 line:83% align:center
+<c.cyan.bg_black>une position stratégique</c>
+<c.cyan.bg_black>entre l'Europe du Nord,</c>
+
+00:01:31.920 --> 00:01:36.880 line:83% align:center
+<c.cyan.bg_black>les pays baltes et l'Europe du Sud,</c>
+<c.cyan.bg_black>et surtout entre l'Ouest et l'Est.</c>
+
+00:01:37.200 --> 00:01:41.520 line:83% align:center
+<c.cyan.bg_black>À l'Est, l'histoire de la Pologne,</c>
+<c.cyan.bg_black>dont on voit ici les frontières,</c>
+
+00:01:41.840 --> 00:01:45.880 line:83% align:center
+<c.cyan.bg_black>est en lien avec la Russie.</c>
+<c.cyan.bg_black>Suite au traité de Versailles</c>
+
+00:01:46.200 --> 00:01:50.560 line:12% align:center
+<c.cyan.bg_black>qui conclut la 1re Guerre mondiale,</c>
+<c.cyan.bg_black>la Russie initie une guerre</c>
+
+00:01:50.880 --> 00:01:53.080 line:91% align:center
+<c.cyan.bg_black>qui durera de 1919 à 1921.</c>
+
+00:01:53.400 --> 00:01:55.120 line:91% align:center
+<c.cyan.bg_black>Puis le pays est partagé</c>
+
+00:01:55.440 --> 00:01:58.400 line:83% align:center
+<c.cyan.bg_black>entre l'Allemagne nazie</c>
+<c.cyan.bg_black>et l'URSS en 1939,</c>
+
+00:01:58.720 --> 00:02:02.520 line:12% align:center
+<c.cyan.bg_black>selon un protocole secret</c>
+<c.cyan.bg_black>du Pacte germano-soviétique.</c>
+
+00:02:02.840 --> 00:02:05.360 line:87% align:center
+<c.cyan.bg_black>La Pologne est réunifiée en 1945.</c>
+
+00:02:05.680 --> 00:02:10.520 line:83% align:center
+<c.cyan.bg_black>Puis le pays passe pendant 45 ans</c>
+<c.cyan.bg_black>dans la zone d'influence soviétique</c>
+
+00:02:10.840 --> 00:02:14.560 line:83% align:center
+<c.cyan.bg_black>et se retrouve lié à Moscou</c>
+<c.cyan.bg_black>par le Pacte de Varsovie.</c>
+
+00:02:14.880 --> 00:02:18.600 line:83% align:center
+<c.cyan.bg_black>La chute du Mur de Berlin</c>
+<c.cyan.bg_black>et l'effondrement de l'URSS</c>
+
+00:02:18.920 --> 00:02:22.280 line:83% align:center
+<c.cyan.bg_black>la ramènent vers l'Ouest</c>
+<c.cyan.bg_black>avec l'adhésion en 1999</c>
+
+00:02:22.600 --> 00:02:26.120 line:83% align:center
+<c.cyan.bg_black>à l'Organisation</c>
+<c.cyan.bg_black>du Traité de l'Atlantique Nord</c>
+
+00:02:26.440 --> 00:02:29.040 line:91% align:center
+<c.cyan.bg_black>et à l'Union européenne en 2004.</c>
+
+00:02:30.520 --> 00:02:34.560 line:83% align:center
+<c.cyan.bg_black>Cette adhésion a permis</c>
+<c.cyan.bg_black>à la Pologne de se métamorphoser</c>
+
+00:02:34.880 --> 00:02:38.280 line:83% align:center
+<c.cyan.bg_black>pour devenir une puissance</c>
+<c.cyan.bg_black>économique européenne.</c>
+
+00:02:38.600 --> 00:02:41.840 line:83% align:center
+<c.cyan.bg_black>En 2003, à la veille</c>
+<c.cyan.bg_black>de son entrée dans l'UE,</c>
+
+00:02:42.160 --> 00:02:46.680 line:83% align:center
+<c.cyan.bg_black>la Pologne avait un taux de chômage</c>
+<c.cyan.bg_black>très élevé, frôlant les 20%.</c>
+
+00:02:47.000 --> 00:02:49.480 line:91% align:center
+<c.cyan.bg_black>En 2024, il n'était plus que de 3%,</c>
+
+00:02:49.800 --> 00:02:53.600 line:83% align:center
+<c.cyan.bg_black>en 2e position des plus bas taux</c>
+<c.cyan.bg_black>de chômage dans l'UE,</c>
+
+00:02:53.920 --> 00:02:55.960 line:91% align:center
+<c.cyan.bg_black>après la République tchèque.</c>
+
+00:02:56.280 --> 00:03:01.080 line:83% align:center
+<c.cyan.bg_black>Depuis 2004, la Pologne a doublé</c>
+<c.cyan.bg_black>la Belgique, l'Autriche et la Suède</c>
+
+00:03:01.400 --> 00:03:05.560 line:83% align:center
+<c.cyan.bg_black>en termes de PIB. Sa croissance</c>
+<c.cyan.bg_black>moyenne annuelle est de 4%.</c>
+
+00:03:05.880 --> 00:03:09.840 line:83% align:center
+<c.cyan.bg_black>Cette réussite économique</c>
+<c.cyan.bg_black>est due aux aides européennes.</c>
+
+00:03:10.160 --> 00:03:13.840 line:83% align:center
+<c.cyan.bg_black>Depuis 2004 et l'intégration</c>
+<c.cyan.bg_black>de la Pologne dans l'UE,</c>
+
+00:03:14.160 --> 00:03:18.000 line:83% align:center
+<c.cyan.bg_black>le pays a bénéficié</c>
+<c.cyan.bg_black>de 300 milliards d'investissements,</c>
+
+00:03:18.320 --> 00:03:20.840 line:91% align:center
+<c.cyan.bg_black>finançant les routes et autoroutes</c>
+
+00:03:21.160 --> 00:03:24.920 line:83% align:center
+<c.cyan.bg_black>et la modernisation des transports</c>
+<c.cyan.bg_black>et des entreprises.</c>
+
+00:03:25.240 --> 00:03:28.760 line:83% align:center
+<c.cyan.bg_black>Les régions de Mazovie,</c>
+<c.cyan.bg_black>dynamisée par Varsovie,</c>
+
+00:03:29.080 --> 00:03:33.200 line:83% align:center
+<c.cyan.bg_black>et de Basse-Silésie sont sorties</c>
+<c.cyan.bg_black>des régions prioritaires.</c>
+
+00:03:33.520 --> 00:03:37.840 line:83% align:center
+<c.cyan.bg_black>La Pologne profite économiquement</c>
+<c.cyan.bg_black>de sa position stratégique,</c>
+
+00:03:38.160 --> 00:03:40.560 line:91% align:center
+<c.cyan.bg_black>surtout avec les pays de l'UE.</c>
+
+00:03:40.880 --> 00:03:42.600 line:91% align:center
+<c.cyan.bg_black>En 2023, cela représente</c>
+
+00:03:42.920 --> 00:03:46.920 line:83% align:center
+<c.cyan.bg_black>75% de ses exportations</c>
+<c.cyan.bg_black>et 54% de ses importations.</c>
+
+00:03:47.880 --> 00:03:51.240 line:83% align:center
+<c.white.bg_black>Par sa position géographique</c>
+<c.white.bg_black>et son histoire,</c>
+
+00:03:51.560 --> 00:03:55.480 line:83% align:center
+<c.white.bg_black>la Pologne est un pays</c>
+<c.white.bg_black>désormais tourné vers l'Ouest.</c>
+
+00:03:55.800 --> 00:04:00.480 line:83% align:center
+<c.white.bg_black>Grâce à son adhésion à l'UE, c'est</c>
+<c.white.bg_black>devenu une puissance économique.</c>
+
+00:04:00.800 --> 00:04:05.000 line:83% align:center
+<c.white.bg_black>Le pays assume la volonté</c>
+<c.white.bg_black>d'un leadership européen.</c>
+
+00:04:05.320 --> 00:04:07.760 line:91% align:center
+<c.white.bg_black>On va voir ça maintenant.</c>
+
+00:04:08.080 --> 00:04:10.400 line:91% align:center
+<c.cyan.bg_black>Un leadership d'abord militaire.</c>
+
+00:04:10.720 --> 00:04:13.960 line:12% align:center
+<c.cyan.bg_black>En février 2022,</c>
+<c.cyan.bg_black>la Russie envahit l'Ukraine.</c>
+
+00:04:14.280 --> 00:04:18.320 line:12% align:center
+<c.cyan.bg_black>La Pologne est le 1er pays</c>
+<c.cyan.bg_black>à envoyer du matériel militaire</c>
+
+00:04:18.640 --> 00:04:20.720 line:91% align:center
+<c.cyan.bg_black>et à accueillir les réfugiés.</c>
+
+00:04:21.040 --> 00:04:25.040 line:83% align:center
+<c.cyan.bg_black>Depuis, la Pologne a augmenté</c>
+<c.cyan.bg_black>ses dépenses militaires</c>
+
+00:04:25.360 --> 00:04:29.840 line:83% align:center
+<c.cyan.bg_black>pour y consacrer en 2025</c>
+<c.cyan.bg_black>15 à 20% du budget de l'État.</c>
+
+00:04:30.160 --> 00:04:33.960 line:83% align:center
+<c.cyan.bg_black>C'est de loin le taux le plus élevé</c>
+<c.cyan.bg_black>au sein de l'OTAN.</c>
+
+00:04:34.280 --> 00:04:38.800 line:83% align:center
+<c.cyan.bg_black>La menace russe a débuté avec</c>
+<c.cyan.bg_black>l'invasion de la Crimée en 2014</c>
+
+00:04:39.120 --> 00:04:44.320 line:83% align:center
+<c.cyan.bg_black>et l'installation à Kaliningrad</c>
+<c.cyan.bg_black>de missiles balistiques</c>
+
+00:04:44.640 --> 00:04:49.080 line:83% align:center
+<c.cyan.bg_black>capables d'emporter des charges</c>
+<c.cyan.bg_black>conventionnelles ou nucléaires,</c>
+
+00:04:49.400 --> 00:04:53.720 line:83% align:center
+<c.cyan.bg_black>ainsi que des exercices militaires</c>
+<c.cyan.bg_black>avec son allié biélorusse.</c>
+
+00:04:54.040 --> 00:04:58.200 line:83% align:center
+<c.cyan.bg_black>Certains simulaient des attaques</c>
+<c.cyan.bg_black>nucléaires contre Varsovie.</c>
+
+00:04:58.520 --> 00:05:00.400 line:70% align:center
+<c.cyan.bg_black>En 10 ans, de 2014 à 2024,</c>
+
+00:05:00.720 --> 00:05:04.960 line:12% align:center
+<c.cyan.bg_black>le budget militaire polonais</c>
+<c.cyan.bg_black>a été multiplié par 3,5</c>
+
+00:05:05.280 --> 00:05:08.760 line:83% align:center
+<c.cyan.bg_black>pour passer</c>
+<c.cyan.bg_black>de 10 à 35 milliards d'euros.</c>
+
+00:05:09.080 --> 00:05:12.840 line:83% align:center
+<c.cyan.bg_black>La volonté est la même</c>
+<c.cyan.bg_black>quel que soit le gouvernement,</c>
+
+00:05:13.160 --> 00:05:17.520 line:83% align:center
+<c.cyan.bg_black>qu'il soit dirigé par le PIS,</c>
+<c.cyan.bg_black>"Droit et justice", nationaliste,</c>
+
+00:05:17.840 --> 00:05:20.640 line:83% align:center
+<c.cyan.bg_black>ou, depuis 2023,</c>
+<c.cyan.bg_black>par celui de Donald Tusk,</c>
+
+00:05:20.960 --> 00:05:23.920 line:83% align:center
+<c.cyan.bg_black>1er ministre</c>
+<c.cyan.bg_black>issu de la Coalition civique.</c>
+
+00:05:24.240 --> 00:05:28.120 line:83% align:center
+<c.cyan.bg_black>La Pologne est à la pointe</c>
+<c.cyan.bg_black>de la protection de l'Europe</c>
+
+00:05:28.440 --> 00:05:32.960 line:12% align:center
+<c.cyan.bg_black>avec son bouclier oriental. 2,3</c>
+<c.cyan.bg_black>milliards d'euros ont été investis</c>
+
+00:05:33.280 --> 00:05:36.400 line:83% align:center
+<c.cyan.bg_black>dans le renforcement</c>
+<c.cyan.bg_black>des structures de défense</c>
+
+00:05:36.720 --> 00:05:39.880 line:83% align:center
+<c.cyan.bg_black>sur les 400km de frontière</c>
+<c.cyan.bg_black>avec la Biélorussie</c>
+
+00:05:40.200 --> 00:05:44.080 line:83% align:center
+<c.cyan.bg_black>et les 200km avec la Russie,</c>
+<c.cyan.bg_black>par l'enclave de Kaliningrad.</c>
+
+00:05:44.400 --> 00:05:48.480 line:83% align:center
+<c.cyan.bg_black>Ce bouclier est formé de tranchées,</c>
+<c.cyan.bg_black>bunkers, zones minées,</c>
+
+00:05:48.800 --> 00:05:52.720 line:83% align:center
+<c.cyan.bg_black>reconnaissance par satellite</c>
+<c.cyan.bg_black>et dispositifs anti-drones.</c>
+
+00:05:53.040 --> 00:05:56.760 line:83% align:center
+<c.cyan.bg_black>La Pologne compte l'armée</c>
+<c.cyan.bg_black>la plus importante de l'UE</c>
+
+00:05:57.080 --> 00:05:59.800 line:83% align:center
+<c.cyan.bg_black>avec 202 100 militaires actifs</c>
+<c.cyan.bg_black>en 2024.</c>
+
+00:06:00.120 --> 00:06:02.760 line:91% align:center
+<c.cyan.bg_black>Elle a dépassé la France en 2023,</c>
+
+00:06:03.080 --> 00:06:06.240 line:12% align:center
+<c.cyan.bg_black>ainsi que l'Allemagne,</c>
+<c.cyan.bg_black>l'Italie et l'Espagne,</c>
+
+00:06:06.560 --> 00:06:08.640 line:87% align:center
+<c.cyan.bg_black>pourtant plus peuplés.</c>
+
+00:06:08.960 --> 00:06:12.640 line:12% align:center
+<c.cyan.bg_black>D'après la loi sur la Défense</c>
+<c.cyan.bg_black>de la nation polonaise</c>
+
+00:06:12.960 --> 00:06:14.720 line:91% align:center
+<c.cyan.bg_black>adoptée le 11 mars 2022,</c>
+
+00:06:15.040 --> 00:06:19.560 line:83% align:center
+<c.cyan.bg_black>ces effectifs devraient atteindre</c>
+<c.cyan.bg_black>300 000 militaires d'ici 2035.</c>
+
+00:06:19.880 --> 00:06:24.040 line:83% align:center
+<c.cyan.bg_black>La Pologne est devenue importante</c>
+<c.cyan.bg_black>également au sein de l'UE</c>
+
+00:06:24.360 --> 00:06:28.160 line:83% align:center
+<c.cyan.bg_black>par sa gestion des crises</c>
+<c.cyan.bg_black>migratoires. À partir de 2021,</c>
+
+00:06:28.480 --> 00:06:31.440 line:83% align:center
+<c.cyan.bg_black>la Biélorussie</c>
+<c.cyan.bg_black>fait venir sur son territoire</c>
+
+00:06:31.760 --> 00:06:34.560 line:83% align:center
+<c.cyan.bg_black>des milliers de migrants</c>
+<c.cyan.bg_black>du Moyen-Orient</c>
+
+00:06:34.880 --> 00:06:38.360 line:83% align:center
+<c.cyan.bg_black>pour les pousser à rejoindre l'UE</c>
+<c.cyan.bg_black>via la Pologne,</c>
+
+00:06:38.680 --> 00:06:42.880 line:83% align:center
+<c.cyan.bg_black>en rétorsion au soutien polonais</c>
+<c.cyan.bg_black>à l'opposition biélorusse,</c>
+
+00:06:43.200 --> 00:06:48.280 line:83% align:center
+<c.cyan.bg_black>entraînant la construction d'un mur</c>
+<c.cyan.bg_black>long de 186km et haut de 5m.</c>
+
+00:06:48.600 --> 00:06:53.280 line:83% align:center
+<c.cyan.bg_black>Il a ralenti le passage,</c>
+<c.cyan.bg_black>mais c'est un désastre écologique</c>
+
+00:06:53.600 --> 00:06:58.320 line:83% align:center
+<c.cyan.bg_black>car il traverse des écosystèmes</c>
+<c.cyan.bg_black>fragiles comme celui de Bialowezia,</c>
+
+00:06:58.640 --> 00:07:02.160 line:83% align:center
+<c.cyan.bg_black>dernière forêt primaire de plaine</c>
+<c.cyan.bg_black>du continent.</c>
+
+00:07:02.480 --> 00:07:07.160 line:12% align:center
+<c.cyan.bg_black>Tusk veut suspendre partiellement</c>
+<c.cyan.bg_black>en octobre 2024 le droit d'asile</c>
+
+00:07:07.480 --> 00:07:11.120 line:12% align:center
+<c.cyan.bg_black>pour ceux qui entrent</c>
+<c.cyan.bg_black>irrégulièrement dans le pays,</c>
+
+00:07:11.440 --> 00:07:13.400 line:91% align:center
+<c.cyan.bg_black>accusant Moscou et Minsk</c>
+
+00:07:13.720 --> 00:07:16.160 line:91% align:center
+<c.cyan.bg_black>d'organiser cet afflux de migrants</c>
+
+00:07:16.480 --> 00:07:20.600 line:83% align:center
+<c.cyan.bg_black>pour déstabiliser toute la région</c>
+<c.cyan.bg_black>et l'Union européenne.</c>
+
+00:07:20.920 --> 00:07:22.680 line:91% align:center
+<c.cyan.bg_black>En décembre 2024,</c>
+
+00:07:23.000 --> 00:07:27.680 line:83% align:center
+<c.cyan.bg_black>la Commission européenne a accordé</c>
+<c.cyan.bg_black>cette suspension à la Pologne.</c>
+
+00:07:28.000 --> 00:07:31.320 line:83% align:center
+<c.cyan.bg_black>C'est aussi en se rapprochant</c>
+<c.cyan.bg_black>à nouveau de l'UE</c>
+
+00:07:31.640 --> 00:07:34.320 line:83% align:center
+<c.cyan.bg_black>que la Pologne</c>
+<c.cyan.bg_black>peut jouer les leaders.</c>
+
+00:07:34.640 --> 00:07:38.760 line:83% align:center
+<c.cyan.bg_black>Le gouvernement de Tusk</c>
+<c.cyan.bg_black>sort la Pologne d'une réputation</c>
+
+00:07:39.080 --> 00:07:42.640 line:83% align:center
+<c.cyan.bg_black>de pays eurosceptique</c>
+<c.cyan.bg_black>et frondeur envers l'UE.</c>
+
+00:07:42.960 --> 00:07:46.760 line:83% align:center
+<c.cyan.bg_black>Le parti ultraconservateur,</c>
+<c.cyan.bg_black>"Droit et justice" ou PIS,</c>
+
+00:07:47.080 --> 00:07:51.240 line:12% align:center
+<c.cyan.bg_black>a été au pouvoir avec les frères</c>
+<c.cyan.bg_black>Kaczynski de 2005 à 2007,</c>
+
+00:07:51.560 --> 00:07:54.080 line:87% align:center
+<c.cyan.bg_black>puis de nouveau entre 2015 et 2023.</c>
+
+00:07:54.400 --> 00:07:57.840 line:12% align:center
+<c.cyan.bg_black>Pendant ce 2d mandat,</c>
+<c.cyan.bg_black>Andrzej Duda, le président,</c>
+
+00:07:58.160 --> 00:08:02.240 line:12% align:center
+<c.cyan.bg_black>et son 1er ministre ont suivi</c>
+<c.cyan.bg_black>le modèle du Hongrois Orban,</c>
+
+00:08:02.560 --> 00:08:07.000 line:12% align:center
+<c.cyan.bg_black>avec une mainmise sur les médias,</c>
+<c.cyan.bg_black>un encadrement de la justice,</c>
+
+00:08:07.320 --> 00:08:10.320 line:83% align:center
+<c.cyan.bg_black>un durcissement</c>
+<c.cyan.bg_black>de la loi anti-avortement,</c>
+
+00:08:10.640 --> 00:08:15.480 line:83% align:center
+<c.cyan.bg_black>le refus du mariage homosexuel et</c>
+<c.cyan.bg_black>un référendum sur la peine de mort.</c>
+
+00:08:15.800 --> 00:08:19.480 line:83% align:center
+<c.cyan.bg_black>En 2017, l'article 7</c>
+<c.cyan.bg_black>du traité de l'Union européenne,</c>
+
+00:08:19.800 --> 00:08:24.400 line:83% align:center
+<c.cyan.bg_black>qui prévoit de sanctionner un État</c>
+<c.cyan.bg_black>qui ne respecte pas le traité,</c>
+
+00:08:24.720 --> 00:08:27.600 line:83% align:center
+<c.cyan.bg_black>est déclenché</c>
+<c.cyan.bg_black>à l'encontre de la Pologne.</c>
+
+00:08:27.920 --> 00:08:31.080 line:83% align:center
+<c.cyan.bg_black>Cette procédure a été abandonnée</c>
+<c.cyan.bg_black>en mai 2024,</c>
+
+00:08:31.400 --> 00:08:34.560 line:83% align:center
+<c.cyan.bg_black>une autre victoire</c>
+<c.cyan.bg_black>pour le gouvernement Tusk.</c>
+
+00:08:34.880 --> 00:08:39.480 line:83% align:center
+<c.cyan.bg_black>La bonne santé économique de la</c>
+<c.cyan.bg_black>Pologne lui permet d'être leader,</c>
+
+00:08:39.800 --> 00:08:44.160 line:83% align:center
+<c.cyan.bg_black>mais cette réussite risque</c>
+<c.cyan.bg_black>de se retourner contre les Polonais</c>
+
+00:08:44.480 --> 00:08:49.280 line:83% align:center
+<c.cyan.bg_black>car, depuis leur entrée dans l'UE,</c>
+<c.cyan.bg_black>leurs salaires ont augmenté de 40%</c>
+
+00:08:49.600 --> 00:08:53.840 line:83% align:center
+<c.cyan.bg_black>entre 2015 et 2023, contre 16%</c>
+<c.cyan.bg_black>en moyenne dans la zone euro.</c>
+
+00:08:54.160 --> 00:08:57.600 line:83% align:center
+<c.cyan.bg_black>Le pays s'est rapproché</c>
+<c.cyan.bg_black>des standards de l'Ouest.</c>
+
+00:08:57.920 --> 00:09:01.080 line:83% align:center
+<c.cyan.bg_black>Or, cela risque de limiter</c>
+<c.cyan.bg_black>sa compétitivité</c>
+
+00:09:01.400 --> 00:09:04.560 line:83% align:center
+<c.cyan.bg_black>et sa capacité à attirer</c>
+<c.cyan.bg_black>des investissements.</c>
+
+00:09:04.880 --> 00:09:09.440 line:83% align:center
+<c.cyan.bg_black>Enfin, autre frein qui l'empêche</c>
+<c.cyan.bg_black>de devenir un pays leader,</c>
+
+00:09:09.760 --> 00:09:11.520 line:91% align:center
+<c.cyan.bg_black>sa démographie.</c>
+
+00:09:11.840 --> 00:09:14.720 line:91% align:center
+<c.cyan.bg_black>En 30 ans, de 1989 à 2019,</c>
+
+00:09:15.040 --> 00:09:19.000 line:83% align:center
+<c.cyan.bg_black>ce sont 2,5 millions de Polonais</c>
+<c.cyan.bg_black>qui ont quitté le pays,</c>
+
+00:09:19.320 --> 00:09:23.840 line:83% align:center
+<c.cyan.bg_black>principalement pour le Royaume-Uni,</c>
+<c.cyan.bg_black>l'Allemagne ou les Pays-Bas.</c>
+
+00:09:24.160 --> 00:09:28.040 line:83% align:center
+<c.cyan.bg_black>Cette dynamique d'émigration,</c>
+<c.cyan.bg_black>bien que toujours réelle,</c>
+
+00:09:28.360 --> 00:09:29.920 line:91% align:center
+<c.cyan.bg_black>ralentit depuis 2010.</c>
+
+00:09:30.240 --> 00:09:33.600 line:83% align:center
+<c.cyan.bg_black>Et la Pologne est devenue</c>
+<c.cyan.bg_black>une terre d'immigration</c>
+
+00:09:33.920 --> 00:09:37.040 line:83% align:center
+<c.cyan.bg_black>en accueillant 1,1 million</c>
+<c.cyan.bg_black>d'étrangers en 2023,</c>
+
+00:09:37.360 --> 00:09:40.280 line:83% align:center
+<c.cyan.bg_black>surtout des Ukrainiens</c>
+<c.cyan.bg_black>et des Biélorusses.</c>
+
+00:09:40.600 --> 00:09:42.560 line:91% align:center
+<c.cyan.bg_black>Au sein des pays européens,</c>
+
+00:09:42.880 --> 00:09:47.360 line:83% align:center
+<c.cyan.bg_black>la Pologne est l'État le plus</c>
+<c.cyan.bg_black>touché par l'hiver démographique,</c>
+
+00:09:47.680 --> 00:09:49.720 line:91% align:center
+<c.cyan.bg_black>après l'Espagne et l'Italie.</c>
+
+00:09:50.040 --> 00:09:53.840 line:45% align:center
+<c.cyan.bg_black>En 2022, le taux de fécondité</c>
+<c.cyan.bg_black>est tombé à 1,26 enfant</c>
+
+00:09:54.160 --> 00:09:56.800 line:91% align:center
+<c.cyan.bg_black>par femme en âge de procréer.</c>
+
+00:09:57.120 --> 00:10:01.560 line:83% align:center
+<c.cyan.bg_black>La reprise des financements publics</c>
+<c.cyan.bg_black>de la fécondation in vitro,</c>
+
+00:10:01.880 --> 00:10:05.960 line:83% align:center
+<c.cyan.bg_black>votée en décembre 2023</c>
+<c.cyan.bg_black>et mise en oeuvre depuis juin 2024,</c>
+
+00:10:06.280 --> 00:10:09.320 line:83% align:center
+<c.cyan.bg_black>devrait permettre</c>
+<c.cyan.bg_black>20 000 naissances par an,</c>
+
+00:10:09.640 --> 00:10:11.680 line:91% align:center
+<c.cyan.bg_black>limitant la dénatalité.</c>
+
+00:10:12.000 --> 00:10:16.960 line:83% align:center
+<c.white.bg_black>La Pologne, nouveau leader européen</c>
+<c.white.bg_black>économiquement et militairement,</c>
+
+00:10:17.280 --> 00:10:19.680 line:91% align:center
+<c.white.bg_black>avec cette proximité de la Russie</c>
+
+00:10:20.000 --> 00:10:24.680 line:83% align:center
+<c.white.bg_black>qui rend la menace très présente</c>
+<c.white.bg_black>au sein de la population polonaise,</c>
+
+00:10:25.000 --> 00:10:28.520 line:83% align:center
+<c.white.bg_black>à tel point que la Pologne</c>
+<c.white.bg_black>est le 1er pays de l'UE</c>
+
+00:10:28.840 --> 00:10:33.440 line:83% align:center
+<c.white.bg_black>à avoir introduit des cours de tir</c>
+<c.white.bg_black>obligatoires dans le primaire.</c>
+
+00:10:33.760 --> 00:10:37.160 line:83% align:center
+<c.white.bg_black>Les collégiens, eux,</c>
+<c.white.bg_black>s'entraînent avec des armes</c>
+
+00:10:37.480 --> 00:10:41.360 line:83% align:center
+<c.white.bg_black>dans le cadre du programme</c>
+<c.white.bg_black>"Éducation pour la sécurité"</c>
+
+00:10:41.680 --> 00:10:43.680 line:91% align:center
+<c.white.bg_black>mis en place en 2025.</c>
+
+00:10:44.000 --> 00:10:47.600 line:83% align:center
+<c.yellow.bg_black>Pour approfondir vos connaissances</c>
+<c.yellow.bg_black>sur la Pologne,</c>
+
+00:10:47.920 --> 00:10:51.920 line:83% align:center
+<c.yellow.bg_black>cet ouvrage chez L'Harmattan :</c>
+<c.yellow.bg_black>"La Pologne en Europe,</c>
+
+00:10:52.240 --> 00:10:56.200 line:83% align:center
+<c.yellow.bg_black>"place, identité et histoire",</c>
+<c.yellow.bg_black>par Gilles Gallet.</c>
+
+00:10:56.520 --> 00:11:00.720 line:83% align:center
+<c.yellow.bg_black>Et l'ouvrage de cet ancien</c>
+<c.yellow.bg_black>ambassadeur de France en Pologne,</c>
+
+00:11:01.040 --> 00:11:03.920 line:83% align:center
+<c.yellow.bg_black>Pierre Buhler,</c>
+<c.yellow.bg_black>qui publie chez Tallandier</c>
+
+00:11:04.240 --> 00:11:08.920 line:83% align:center
+<c.yellow.bg_black>"Pologne, histoire d'une ambition,</c>
+<c.yellow.bg_black>comprendre le moment polonais",</c>
+
+00:11:09.240 --> 00:11:12.840 line:83% align:center
+<c.yellow.bg_black>un essai</c>
+<c.yellow.bg_black>à la fois historique et politique.</c>
+
+00:11:13.160 --> 00:11:15.800 line:91% align:center
+<c.white.bg_black>Rendez-vous la semaine prochaine,</c>
+
+00:11:16.120 --> 00:11:19.000 line:91% align:center
+<c.white.bg_black>même endroit, même heure.</c>
+
+00:11:19.320 --> 00:11:23.720 line:83% align:center
+<c.white.bg_black>Sur arte.tv et nos réseaux sociaux,</c>
+<c.white.bg_black>retrouvez toutes nos vidéos</c>
+
+00:11:24.040 --> 00:11:28.720 line:83% align:center
+<c.white.bg_black>et n'oubliez pas de vous abonner</c>
+<c.white.bg_black>à notre newsletter. À bientôt !</c>
+
+00:11:29.040 --> 00:11:34.040 line:91% align:center
+<c.green.bg_black>france.tv access</c>
+

@@ -1,0 +1,795 @@
+WEBVTT
+
+STYLE
+::cue(.black) {
+ color: black;
+}
+
+STYLE
+::cue(.red) {
+ color: red;
+}
+
+STYLE
+::cue(.green) {
+ color: green;
+}
+
+STYLE
+::cue(.yellow) {
+ color: yellow;
+}
+
+STYLE
+::cue(.blue) {
+ color: blue;
+}
+
+STYLE
+::cue(.magenta) {
+ color: magenta;
+}
+
+STYLE
+::cue(.cyan) {
+ color: cyan;
+}
+
+STYLE
+::cue(.white) {
+ color: white;
+}
+
+STYLE
+::cue(.bg_black) {
+ background-color: black;
+}
+
+STYLE
+::cue(.bg_red) {
+ background-color: red;
+}
+
+STYLE
+::cue(.bg_green) {
+ background-color: green;
+}
+
+STYLE
+::cue(.bg_yellow) {
+ background-color: yellow;
+}
+
+STYLE
+::cue(.bg_blue) {
+ background-color: blue;
+}
+
+STYLE
+::cue(.bg_magenta) {
+ background-color: magenta;
+}
+
+STYLE
+::cue(.bg_cyan) {
+ background-color: cyan;
+}
+
+STYLE
+::cue(.bg_white) {
+ background-color: white;
+}
+
+00:00:03.400 --> 00:00:20.280 line:91% align:left
+<c.magenta.bg_black>...</c>
+
+00:00:20.600 --> 00:00:23.760 line:83% align:center
+<c.white.bg_black>-Bienvenue</c>
+<c.white.bg_black>dans le "De dessous des cartes".</c>
+
+00:00:24.080 --> 00:00:28.760 line:83% align:center
+<c.white.bg_black>Cette photo aurait pu être prise</c>
+<c.white.bg_black>n'importe où : une rame de métro</c>
+
+00:00:29.080 --> 00:00:33.320 line:83% align:center
+<c.white.bg_black>et la quasi-totalité des voyageurs</c>
+<c.white.bg_black>les yeux rivés sur leur smartphone.</c>
+
+00:00:33.640 --> 00:00:37.440 line:83% align:center
+<c.white.bg_black>Selon une étude de DataReportal,</c>
+<c.white.bg_black>ce sont les Sud-Africains</c>
+
+00:00:37.760 --> 00:00:41.520 line:83% align:center
+<c.white.bg_black>qui passent le plus de temps</c>
+<c.white.bg_black>par jour sur leur téléphone, 5h13,</c>
+
+00:00:41.840 --> 00:00:45.400 line:83% align:center
+<c.white.bg_black>et ceux qui y passent le moins</c>
+<c.white.bg_black>de temps sont les Japonais,</c>
+
+00:00:45.720 --> 00:00:47.560 line:91% align:center
+<c.white.bg_black>1h54 en moyenne.</c>
+
+00:00:47.880 --> 00:00:51.400 line:83% align:center
+<c.white.bg_black>L'anthropologue Audrey Chapot</c>
+<c.white.bg_black>explique cela par le fait</c>
+
+00:00:51.720 --> 00:00:55.400 line:83% align:center
+<c.white.bg_black>qu'en Afrique, la majorité des</c>
+<c.white.bg_black>activités passent par le mobile,</c>
+
+00:00:55.720 --> 00:00:59.440 line:83% align:center
+<c.white.bg_black>là où dans des pays plus riches,</c>
+<c.white.bg_black>posséder un ordinateur diminue</c>
+
+00:00:59.760 --> 00:01:03.360 line:83% align:center
+<c.white.bg_black>le temps passé sur le smartphone.</c>
+<c.white.bg_black>Ces chiffres rappellent</c>
+
+00:01:03.680 --> 00:01:06.920 line:83% align:center
+<c.white.bg_black>l'importance</c>
+<c.white.bg_black>de cet objet dans nos vies,</c>
+
+00:01:07.240 --> 00:01:11.160 line:83% align:center
+<c.white.bg_black>lequel devient un marché colossal</c>
+<c.white.bg_black>et un enjeu de pouvoir.</c>
+
+00:01:11.480 --> 00:01:15.840 line:83% align:center
+<c.white.bg_black>La guerre Apple/Huawei est l'une</c>
+<c.white.bg_black>des déclinaisons de la compétition</c>
+
+00:01:16.160 --> 00:01:18.640 line:91% align:center
+<c.white.bg_black>entre les États-Unis et la Chine,</c>
+
+00:01:18.960 --> 00:01:23.360 line:83% align:center
+<c.white.bg_black>mais la guerre des smartphones</c>
+<c.white.bg_black>est bien plus complexe et subtile,</c>
+
+00:01:23.680 --> 00:01:27.280 line:83% align:center
+<c.white.bg_black>impliquant de nombreux acteurs.</c>
+<c.white.bg_black>Sortons nos cartes.</c>
+
+00:01:28.440 --> 00:01:32.240 line:83% align:center
+<c.cyan.bg_black>L'essor du marché du smartphone</c>
+<c.cyan.bg_black>est lié au développement</c>
+
+00:01:32.560 --> 00:01:36.960 line:83% align:center
+<c.cyan.bg_black>des réseaux de télécommunications</c>
+<c.cyan.bg_black>et à l'augmentation de leur débit,</c>
+
+00:01:37.280 --> 00:01:40.600 line:83% align:center
+<c.cyan.bg_black>permettant d'échanger</c>
+<c.cyan.bg_black>des données plus rapidement.</c>
+
+00:01:40.920 --> 00:01:45.120 line:83% align:center
+<c.cyan.bg_black>Deux leaders européens des réseaux</c>
+<c.cyan.bg_black>de télécommunications s'imposent</c>
+
+00:01:45.440 --> 00:01:49.600 line:83% align:center
+<c.cyan.bg_black>sur le marché du smartphone</c>
+<c.cyan.bg_black>à la fin des années 1990 :</c>
+
+00:01:49.920 --> 00:01:52.840 line:83% align:center
+<c.cyan.bg_black>le finlandais Nokia,</c>
+<c.cyan.bg_black>avec son 7110,</c>
+
+00:01:53.160 --> 00:01:56.160 line:83% align:center
+<c.cyan.bg_black>et le suédois Ericsson,</c>
+<c.cyan.bg_black>avec son 380.</c>
+
+00:01:56.480 --> 00:02:00.040 line:83% align:center
+<c.cyan.bg_black>Mais le débit limité</c>
+<c.cyan.bg_black>du deuxième réseau mobile, la 2G,</c>
+
+00:02:00.360 --> 00:02:03.320 line:83% align:center
+<c.cyan.bg_black>permet tout juste</c>
+<c.cyan.bg_black>d'échanger des mails.</c>
+
+00:02:03.640 --> 00:02:07.640 line:70% align:center
+<c.cyan.bg_black>Avec le déploiement du réseau</c>
+<c.cyan.bg_black>mobile 3G+, en 2006,</c>
+
+00:02:07.960 --> 00:02:12.200 line:62% align:center
+<c.cyan.bg_black>et son débit supérieur, et</c>
+<c.cyan.bg_black>l'arrivée de nouveaux fabricants,</c>
+
+00:02:12.520 --> 00:02:15.320 line:83% align:center
+<c.cyan.bg_black>le marché se développe</c>
+<c.cyan.bg_black>considérablement.</c>
+
+00:02:15.640 --> 00:02:19.600 line:70% align:center
+<c.cyan.bg_black>On passe de 122 millions</c>
+<c.cyan.bg_black>de smartphones vendus en 2007</c>
+
+00:02:19.920 --> 00:02:22.760 line:75% align:center
+<c.cyan.bg_black>à 297 millions en 2010.</c>
+
+00:02:23.680 --> 00:02:27.280 line:16% align:center
+<c.cyan.bg_black>Face au leader finlandais Nokia</c>
+<c.cyan.bg_black>et ses 40% du marché mondial,</c>
+
+00:02:27.600 --> 00:02:30.080 line:91% align:center
+<c.cyan.bg_black>on trouve le canadien BlackBerry,</c>
+
+00:02:30.400 --> 00:02:33.720 line:16% align:center
+<c.cyan.bg_black>qui détient 15,6%</c>
+<c.cyan.bg_black>des unités constructeur expédiées,</c>
+
+00:02:34.040 --> 00:02:37.600 line:16% align:center
+<c.cyan.bg_black>et surtout l'américain Apple</c>
+<c.cyan.bg_black>qui s'est rapidement positionné</c>
+
+00:02:37.920 --> 00:02:41.280 line:16% align:center
+<c.cyan.bg_black>dans le peloton de tête</c>
+<c.cyan.bg_black>avec 9,1% de part de marché</c>
+
+00:02:41.600 --> 00:02:45.360 line:16% align:center
+<c.cyan.bg_black>grâce aux innovations techniques</c>
+<c.cyan.bg_black>révolutionnaires de son iPhone :</c>
+
+00:02:45.680 --> 00:02:49.600 line:54% align:center
+<c.cyan.bg_black>écran tactile, bouton principal</c>
+<c.cyan.bg_black>et navigation sur Internet.</c>
+
+00:02:49.920 --> 00:02:53.240 line:54% align:center
+<c.cyan.bg_black>Au fil des années</c>
+<c.cyan.bg_black>et des innovations techniques,</c>
+
+00:02:53.560 --> 00:02:57.440 line:83% align:center
+<c.cyan.bg_black>les smartphones vont devenir</c>
+<c.cyan.bg_black>de véritables ordinateurs de poche.</c>
+
+00:02:57.760 --> 00:03:01.440 line:83% align:center
+<c.cyan.bg_black>Les enjeux pour les constructeurs</c>
+<c.cyan.bg_black>vont se complexifier.</c>
+
+00:03:01.760 --> 00:03:04.040 line:91% align:center
+<c.cyan.bg_black>Au design et à la fabrication</c>
+
+00:03:04.360 --> 00:03:07.800 line:83% align:center
+<c.cyan.bg_black>s'ajoute l'élaboration</c>
+<c.cyan.bg_black>du système d'exploitation, l'OS,</c>
+
+00:03:08.120 --> 00:03:11.920 line:83% align:center
+<c.cyan.bg_black>qui permet de gérer les fonctions</c>
+<c.cyan.bg_black>essentielles de l'appareil.</c>
+
+00:03:12.240 --> 00:03:15.280 line:16% align:center
+<c.cyan.bg_black>Un domaine dans lequel Apple,</c>
+<c.cyan.bg_black>avec son iOS,</c>
+
+00:03:15.600 --> 00:03:19.040 line:16% align:center
+<c.cyan.bg_black>et Google, avec Android,</c>
+<c.cyan.bg_black>adopté par d'autres fabricants</c>
+
+00:03:19.360 --> 00:03:22.000 line:16% align:center
+<c.cyan.bg_black>dont le coréen Samsung,</c>
+<c.cyan.bg_black>vont s'imposer</c>
+
+00:03:22.320 --> 00:03:26.640 line:16% align:center
+<c.cyan.bg_black>face au leader historique Nokia et</c>
+<c.cyan.bg_black>son système d'exploitation Symbian.</c>
+
+00:03:26.960 --> 00:03:27.760 line:91% align:center
+<c.cyan.bg_black>Dès 2011,</c>
+
+00:03:28.080 --> 00:03:31.920 line:16% align:center
+<c.cyan.bg_black>le sud-coréen Samsung prend la tête</c>
+<c.cyan.bg_black>du classement des constructeurs,</c>
+
+00:03:32.240 --> 00:03:35.080 line:91% align:center
+<c.cyan.bg_black>devant Apple, Nokia et BlackBerry.</c>
+
+00:03:35.400 --> 00:03:39.120 line:83% align:center
+<c.cyan.bg_black>Avec le déploiement de la 4G,</c>
+<c.cyan.bg_black>qui permet le visionnage de films</c>
+
+00:03:39.440 --> 00:03:43.160 line:83% align:center
+<c.cyan.bg_black>et les appels vidéo grâce à son</c>
+<c.cyan.bg_black>débit jusqu'à 100 fois supérieur</c>
+
+00:03:43.480 --> 00:03:46.840 line:16% align:center
+<c.cyan.bg_black>à celui de la 3G, les ventes</c>
+<c.cyan.bg_black>de smartphones explosent,</c>
+
+00:03:47.160 --> 00:03:50.680 line:16% align:center
+<c.cyan.bg_black>pour atteindre</c>
+<c.cyan.bg_black>1,5 milliard d'unités en 2016.</c>
+
+00:03:52.320 --> 00:03:56.960 line:16% align:center
+<c.cyan.bg_black>Samsung et Apple confortent leur</c>
+<c.cyan.bg_black>position en tête du classement.</c>
+
+00:03:57.280 --> 00:04:00.360 line:16% align:center
+<c.cyan.bg_black>Nokia et BlackBerry,</c>
+<c.cyan.bg_black>qui n'ont pas réussi</c>
+
+00:04:00.680 --> 00:04:03.920 line:16% align:center
+<c.cyan.bg_black>dans la course à l'innovation,</c>
+<c.cyan.bg_black>ont disparu.</c>
+
+00:04:04.240 --> 00:04:08.320 line:83% align:center
+<c.cyan.bg_black>De nouveaux venus,</c>
+<c.cyan.bg_black>Huawei, Oppo, Vivo, Xiaomi,</c>
+
+00:04:08.640 --> 00:04:12.120 line:83% align:center
+<c.cyan.bg_black>tous chinois,</c>
+<c.cyan.bg_black>deviennent de sérieux concurrents.</c>
+
+00:04:12.440 --> 00:04:16.040 line:83% align:center
+<c.cyan.bg_black>Parmi eux, un acteur clé</c>
+<c.cyan.bg_black>de cette histoire, Huawei,</c>
+
+00:04:16.360 --> 00:04:21.600 line:16% align:center
+<c.cyan.bg_black>va menacer la domination des géants</c>
+<c.cyan.bg_black>coréen et américain dès 2018.</c>
+
+00:04:22.400 --> 00:04:25.640 line:83% align:center
+<c.cyan.bg_black>Acteur majeur</c>
+<c.cyan.bg_black>des réseaux de communication,</c>
+
+00:04:25.960 --> 00:04:29.360 line:83% align:center
+<c.cyan.bg_black>comme Ericsson et Nokia,</c>
+<c.cyan.bg_black>Huawei fabrique également</c>
+
+00:04:29.680 --> 00:04:32.880 line:83% align:center
+<c.cyan.bg_black>des smartphones</c>
+<c.cyan.bg_black>fonctionnant sous Android.</c>
+
+00:04:33.200 --> 00:04:35.600 line:91% align:center
+<c.cyan.bg_black>Avec des appareils moins chers,</c>
+
+00:04:35.920 --> 00:04:39.160 line:16% align:center
+<c.cyan.bg_black>Huawei parvient à détrôner Apple</c>
+<c.cyan.bg_black>en 2019,</c>
+
+00:04:39.480 --> 00:04:42.320 line:91% align:center
+<c.cyan.bg_black>et même Samsung au printemps 2020.</c>
+
+00:04:42.640 --> 00:04:45.920 line:83% align:center
+<c.cyan.bg_black>Le succès de Huawei</c>
+<c.cyan.bg_black>va être de courte durée,</c>
+
+00:04:46.240 --> 00:04:49.240 line:83% align:center
+<c.cyan.bg_black>car les services de renseignement</c>
+<c.cyan.bg_black>américains</c>
+
+00:04:49.560 --> 00:04:53.520 line:83% align:center
+<c.cyan.bg_black>suspectent la firme de mener des</c>
+<c.cyan.bg_black>opérations d'espionnage pour Pékin.</c>
+
+00:04:53.840 --> 00:04:56.320 line:91% align:center
+<c.cyan.bg_black>Washington impose des sanctions</c>
+
+00:04:56.640 --> 00:05:01.520 line:83% align:center
+<c.cyan.bg_black>qui vont impacter la fabrication</c>
+<c.cyan.bg_black>des smartphones du géant chinois</c>
+
+00:05:01.840 --> 00:05:05.040 line:83% align:center
+<c.cyan.bg_black>et leur accès</c>
+<c.cyan.bg_black>aux applications de Google.</c>
+
+00:05:05.360 --> 00:05:07.560 line:91% align:center
+<c.cyan.bg_black>Dès le 1er trimestre 2021,</c>
+
+00:05:07.880 --> 00:05:11.200 line:83% align:center
+<c.cyan.bg_black>Huawei disparaît du top 5</c>
+<c.cyan.bg_black>des fabricants.</c>
+
+00:05:11.520 --> 00:05:15.440 line:16% align:center
+<c.cyan.bg_black>En Europe, où sa part de marché</c>
+<c.cyan.bg_black>est la plus importante début 2020,</c>
+
+00:05:15.760 --> 00:05:20.120 line:16% align:center
+<c.cyan.bg_black>avec 18,5%,</c>
+<c.cyan.bg_black>la firme chute vertigineusement,</c>
+
+00:05:20.440 --> 00:05:23.800 line:16% align:center
+<c.cyan.bg_black>ne représentant plus que 3%</c>
+<c.cyan.bg_black>fin 2024.</c>
+
+00:05:24.120 --> 00:05:27.360 line:16% align:center
+<c.cyan.bg_black>Pour comprendre</c>
+<c.cyan.bg_black>pourquoi les sanctions américaines</c>
+
+00:05:27.680 --> 00:05:30.720 line:16% align:center
+<c.cyan.bg_black>ont été aussi efficaces,</c>
+<c.cyan.bg_black>y compris en Europe,</c>
+
+00:05:31.080 --> 00:05:34.520 line:16% align:center
+<c.cyan.bg_black>il faut regarder de près</c>
+<c.cyan.bg_black>la fabrication des smartphones.</c>
+
+00:05:34.840 --> 00:05:36.880 line:91% align:center
+<c.cyan.bg_black>Au coeur de ces machines,</c>
+
+00:05:37.200 --> 00:05:40.480 line:83% align:center
+<c.cyan.bg_black>on trouve un système complexe</c>
+<c.cyan.bg_black>de microprocesseurs.</c>
+
+00:05:40.800 --> 00:05:44.000 line:83% align:center
+<c.cyan.bg_black>Ils sont composés</c>
+<c.cyan.bg_black>de tranches de silicium gravées</c>
+
+00:05:44.320 --> 00:05:48.440 line:83% align:center
+<c.cyan.bg_black>de quelques nanomètres,</c>
+<c.cyan.bg_black>les fameux semi-conducteurs.</c>
+
+00:05:48.760 --> 00:05:52.440 line:83% align:center
+<c.cyan.bg_black>Du fait de la complexité</c>
+<c.cyan.bg_black>des étapes de cette fabrication,</c>
+
+00:05:52.760 --> 00:05:56.680 line:83% align:center
+<c.cyan.bg_black>certains constructeurs comme Huawei</c>
+<c.cyan.bg_black>sous-traitent la production</c>
+
+00:05:57.000 --> 00:06:00.720 line:83% align:center
+<c.cyan.bg_black>de leurs puces à des entreprises</c>
+<c.cyan.bg_black>qui s'occupent de la conception,</c>
+
+00:06:01.040 --> 00:06:04.320 line:83% align:center
+<c.cyan.bg_black>de la fonderie, ou des 2.</c>
+<c.cyan.bg_black>La conception est dominée</c>
+
+00:06:04.640 --> 00:06:08.760 line:83% align:center
+<c.cyan.bg_black>par les américains Qualcomm</c>
+<c.cyan.bg_black>et Broadcom. Le taïwanais TSMC</c>
+
+00:06:09.080 --> 00:06:12.560 line:45% align:center
+<c.cyan.bg_black>représente près des 2/3</c>
+<c.cyan.bg_black>du marché mondial de la fonderie.</c>
+
+00:06:13.000 --> 00:06:17.440 line:70% align:center
+<c.cyan.bg_black>Et le néerlandais ASML détient</c>
+<c.cyan.bg_black>le monopole de ces machines</c>
+
+00:06:17.760 --> 00:06:21.720 line:70% align:center
+<c.cyan.bg_black>d'une précision extrême</c>
+<c.cyan.bg_black>utilisées par TSMC pour graver.</c>
+
+00:06:22.040 --> 00:06:24.920 line:83% align:center
+<c.cyan.bg_black>L'interdiction faite</c>
+<c.cyan.bg_black>aux firmes américaines</c>
+
+00:06:25.240 --> 00:06:28.600 line:83%
+<c.cyan.bg_black>de commercer avec des sociétés</c>
+      <c.cyan.bg_black>représentant un danger</c>
+
+00:06:28.920 --> 00:06:32.520 line:83% align:center
+<c.cyan.bg_black>pour la sécurité nationale</c>
+<c.cyan.bg_black>va s'étendre aux firmes étrangères</c>
+
+00:06:32.840 --> 00:06:36.240 line:83% align:center
+<c.cyan.bg_black>utilisant des technologies</c>
+<c.cyan.bg_black>américaines, comme TSMC.</c>
+
+00:06:36.560 --> 00:06:40.440 line:83% align:center
+<c.cyan.bg_black>Le néerlandais ASML s'alignant</c>
+<c.cyan.bg_black>sur la position américaine,</c>
+
+00:06:40.760 --> 00:06:44.120 line:83% align:center
+<c.cyan.bg_black>Huawei se retrouve</c>
+<c.cyan.bg_black>privé de composants vitaux</c>
+
+00:06:44.440 --> 00:06:47.520 line:83% align:center
+<c.cyan.bg_black>pour la fabrication</c>
+<c.cyan.bg_black>de ses smartphones.</c>
+
+00:06:47.840 --> 00:06:51.480 line:83% align:center
+<c.cyan.bg_black>Privé de puces dernière génération,</c>
+<c.cyan.bg_black>Huawei a dû aussi renoncer</c>
+
+00:06:51.800 --> 00:06:57.000 line:83% align:center
+<c.cyan.bg_black>aux applications du bouquet Google</c>
+<c.cyan.bg_black>fournies avec le système Android.</c>
+
+00:06:57.320 --> 00:07:00.960 line:83% align:center
+<c.cyan.bg_black>Le coup a été d'autant plus dur</c>
+<c.cyan.bg_black>qu'un autre volet de sanctions</c>
+
+00:07:01.280 --> 00:07:04.200 line:83% align:center
+<c.cyan.bg_black>a frappé Huawei</c>
+<c.cyan.bg_black>dans son coeur d'activité :</c>
+
+00:07:04.520 --> 00:07:07.520 line:83% align:center
+<c.cyan.bg_black>la fourniture d'infrastructures.</c>
+<c.cyan.bg_black>Début 2021,</c>
+
+00:07:07.840 --> 00:07:11.600 line:66% align:center
+<c.cyan.bg_black>sous la pression des États-Unis,</c>
+<c.cyan.bg_black>une vingtaine de pays alliés</c>
+
+00:07:11.920 --> 00:07:15.120 line:83% align:center
+<c.cyan.bg_black>ont exclu Huawei</c>
+<c.cyan.bg_black>de leurs infrastructures</c>
+
+00:07:15.440 --> 00:07:18.360 line:83% align:center
+<c.cyan.bg_black>ou du déploiement</c>
+<c.cyan.bg_black>de leur réseau 5G.</c>
+
+00:07:18.680 --> 00:07:22.160 line:83% align:center
+<c.white.bg_black>Cette histoire du smartphone</c>
+<c.white.bg_black>raconte comment on est passé</c>
+
+00:07:22.480 --> 00:07:25.520 line:83% align:center
+<c.white.bg_black>d'une guerre commerciale</c>
+<c.white.bg_black>entre plusieurs pays</c>
+
+00:07:25.840 --> 00:07:29.680 line:83% align:center
+<c.white.bg_black>à une guerre entre 2 géants qui se</c>
+<c.white.bg_black>disputent le leadership mondial :</c>
+
+00:07:30.000 --> 00:07:32.960 line:91% align:center
+<c.white.bg_black>les USA et la Chine, on va le voir.</c>
+
+00:07:33.280 --> 00:07:38.120 line:83% align:center
+<c.cyan.bg_black>En 2023, 70% des smartphones dans</c>
+<c.cyan.bg_black>le monde sont assemblés en Chine.</c>
+
+00:07:38.440 --> 00:07:42.520 line:83% align:center
+<c.cyan.bg_black>Jusqu'à 70% des iPhone 15 de</c>
+<c.cyan.bg_black>la marque Apple étaient assemblés</c>
+
+00:07:42.840 --> 00:07:46.160 line:83% align:center
+<c.cyan.bg_black>dans les usines</c>
+<c.cyan.bg_black>du taïwanais Foxconn de Zhengzhou,</c>
+
+00:07:46.480 --> 00:07:51.640 line:66% align:center
+<c.cyan.bg_black>du chinois Luxshare à Kunshan, et</c>
+<c.cyan.bg_black>du taïwanais Pegatron à Shanghai.</c>
+
+00:07:51.960 --> 00:07:55.520 line:66% align:center
+<c.cyan.bg_black>Pour sortir de cette dépendance,</c>
+<c.cyan.bg_black>depuis 2017, Apple a décidé</c>
+
+00:07:55.840 --> 00:07:59.640 line:83% align:center
+<c.cyan.bg_black>de déplacer progressivement ses</c>
+<c.cyan.bg_black>unités de fabrication vers l'Inde,</c>
+
+00:07:59.960 --> 00:08:03.400 line:16% align:center
+<c.cyan.bg_black>dans les usines du sous-traitant</c>
+<c.cyan.bg_black>Foxconn à Sriperumbudur</c>
+
+00:08:03.720 --> 00:08:07.560 line:16% align:center
+<c.cyan.bg_black>dans le Tamil Nadu, et dans la zone</c>
+<c.cyan.bg_black>économique spéciale de Sri City,</c>
+
+00:08:07.880 --> 00:08:10.800 line:16% align:center
+<c.cyan.bg_black>au nord de Madras,</c>
+<c.cyan.bg_black>dans l'Andhra Pradesh.</c>
+
+00:08:11.120 --> 00:08:15.760 line:16% align:center
+<c.cyan.bg_black>En 2023, 14% des iPhone</c>
+<c.cyan.bg_black>étaient assemblés en Inde,</c>
+
+00:08:16.080 --> 00:08:20.000 line:16% align:center
+<c.cyan.bg_black>et en 2028,</c>
+<c.cyan.bg_black>le chiffre devrait monter à 25%.</c>
+
+00:08:20.320 --> 00:08:23.640 line:83% align:center
+<c.cyan.bg_black>Samsung a aussi délocalisé</c>
+<c.cyan.bg_black>ses chaînes de production</c>
+
+00:08:23.960 --> 00:08:26.760 line:83% align:center
+<c.cyan.bg_black>à Noida, en Inde,</c>
+<c.cyan.bg_black>et surtout au Viêt Nam,</c>
+
+00:08:27.080 --> 00:08:30.360 line:12% align:center
+<c.cyan.bg_black>à Hô Chi Minh-Ville,</c>
+<c.cyan.bg_black>Hanoï et dans ses environs.</c>
+
+00:08:30.680 --> 00:08:33.960 line:16% align:center
+<c.cyan.bg_black>Malgré ces délocalisations,</c>
+<c.cyan.bg_black>la domination de Pékin</c>
+
+00:08:34.280 --> 00:08:37.880 line:83% align:center
+<c.cyan.bg_black>reste considérable, car les autres</c>
+<c.cyan.bg_black>composants des smartphones</c>
+
+00:08:38.200 --> 00:08:41.520 line:83% align:center
+<c.cyan.bg_black>restent souvent fabriqués</c>
+<c.cyan.bg_black>dans des usines chinoises,</c>
+
+00:08:41.840 --> 00:08:45.360 line:83% align:center
+<c.cyan.bg_black>même pour des sociétés occidentales</c>
+<c.cyan.bg_black>comme l'allemand Bosch,</c>
+
+00:08:45.680 --> 00:08:47.960 line:83% align:center
+<c.cyan.bg_black>le franco-italien</c>
+<c.cyan.bg_black>STMicroelectronics,</c>
+
+00:08:48.280 --> 00:08:50.640 line:83% align:center
+<c.cyan.bg_black>les américains</c>
+<c.cyan.bg_black>Qualcomm et Broadcom,</c>
+
+00:08:50.960 --> 00:08:55.320 line:83% align:center
+<c.cyan.bg_black>ou le japonais Kioxia</c>
+<c.cyan.bg_black>et le sud-coréen SK Hynix.</c>
+
+00:08:56.120 --> 00:09:00.920 line:12% align:center
+<c.cyan.bg_black>Pékin s'est aussi notamment imposé</c>
+<c.cyan.bg_black>dans la production du silicium</c>
+
+00:09:01.240 --> 00:09:04.760 line:16% align:center
+<c.cyan.bg_black>nécessaire pour fabriquer</c>
+<c.cyan.bg_black>les microprocesseurs.</c>
+
+00:09:05.080 --> 00:09:09.840 line:16% align:center
+<c.cyan.bg_black>Ainsi, en 2023, la Chine produisait</c>
+<c.cyan.bg_black>80% du silicium métallique.</c>
+
+00:09:10.160 --> 00:09:14.480 line:16% align:center
+<c.cyan.bg_black>Une domination que rien ne semble</c>
+<c.cyan.bg_black>devoir contrecarrer pour le moment.</c>
+
+00:09:14.800 --> 00:09:16.880 line:91% align:center
+<c.cyan.bg_black>À cela s'ajoute le risque</c>
+
+00:09:17.200 --> 00:09:20.720 line:83% align:center
+<c.cyan.bg_black>que fait peser la menace</c>
+<c.cyan.bg_black>d'une invasion chinoise de Taïwan</c>
+
+00:09:21.040 --> 00:09:26.120 line:83% align:center
+<c.cyan.bg_black>qui héberge l'entreprise TSMC,</c>
+<c.cyan.bg_black>leader mondial des semi-conducteurs</c>
+
+00:09:26.440 --> 00:09:29.760 line:83% align:center
+<c.cyan.bg_black>qui représente 62%</c>
+<c.cyan.bg_black>du marché des fondeurs.</c>
+
+00:09:30.080 --> 00:09:33.560 line:83% align:center
+<c.cyan.bg_black>Le contrôle de l'île par Pékin</c>
+<c.cyan.bg_black>serait une catastrophe</c>
+
+00:09:33.880 --> 00:09:36.480 line:83% align:center
+<c.cyan.bg_black>pour les Occidentaux</c>
+<c.cyan.bg_black>et leurs alliés,</c>
+
+00:09:36.800 --> 00:09:40.560 line:83% align:center
+<c.cyan.bg_black>même si TSMC est déjà présent</c>
+<c.cyan.bg_black>au Japon, aux États-Unis,</c>
+
+00:09:40.880 --> 00:09:44.600 line:83% align:center
+<c.cyan.bg_black>et bientôt en Allemagne.</c>
+<c.cyan.bg_black>Pour cette raison, l'UE et les USA</c>
+
+00:09:44.920 --> 00:09:48.480 line:83% align:center
+<c.cyan.bg_black>ont débloqué des investissements</c>
+<c.cyan.bg_black>massifs dans le domaine :</c>
+
+00:09:48.800 --> 00:09:51.680 line:83% align:center
+<c.cyan.bg_black>43 milliards d'euros en 2023</c>
+<c.cyan.bg_black>pour l'UE,</c>
+
+00:09:52.000 --> 00:09:55.080 line:83% align:center
+<c.cyan.bg_black>pour doubler</c>
+<c.cyan.bg_black>la production de microprocesseurs</c>
+
+00:09:55.400 --> 00:09:58.760 line:83% align:center
+<c.cyan.bg_black>et atteindre</c>
+<c.cyan.bg_black>20% des parts de marché en 2030,</c>
+
+00:09:59.080 --> 00:10:02.600 line:83% align:center
+<c.cyan.bg_black>53 milliards de dollars aux USA</c>
+<c.cyan.bg_black>en 2022 pour la recherche,</c>
+
+00:10:02.920 --> 00:10:06.400 line:83% align:center
+<c.cyan.bg_black>le développement, la fabrication</c>
+<c.cyan.bg_black>et le perfectionnement</c>
+
+00:10:06.720 --> 00:10:10.360 line:83% align:center
+<c.cyan.bg_black>de la main-d'oeuvre américaine</c>
+<c.cyan.bg_black>en matière de microprocesseurs.</c>
+
+00:10:10.680 --> 00:10:13.600 line:62% align:center
+<c.cyan.bg_black>Après un ralentissement</c>
+<c.cyan.bg_black>des ventes en 2023,</c>
+
+00:10:13.920 --> 00:10:17.280 line:45% align:center
+<c.cyan.bg_black>le marché du smartphone</c>
+<c.cyan.bg_black>a connu une embellie en 2024</c>
+
+00:10:17.600 --> 00:10:20.880 line:54% align:center
+<c.cyan.bg_black>avec 1,24 milliard d'appareils</c>
+<c.cyan.bg_black>vendus,</c>
+
+00:10:21.200 --> 00:10:25.640 line:45% align:center
+<c.cyan.bg_black>notamment grâce à l'essor</c>
+<c.cyan.bg_black>phénoménal du marché africain :</c>
+
+00:10:25.960 --> 00:10:29.960 line:83% align:center
+<c.cyan.bg_black>+17% d'abonnements en Afrique</c>
+<c.cyan.bg_black>subsaharienne en 2024,</c>
+
+00:10:30.280 --> 00:10:34.200 line:83% align:center
+<c.cyan.bg_black>contre +3% en Amérique du Nord</c>
+<c.cyan.bg_black>et +4% en Europe.</c>
+
+00:10:34.520 --> 00:10:37.920 line:83% align:center
+<c.cyan.bg_black>Un marché africain dominé</c>
+<c.cyan.bg_black>par le chinois Transsion qui,</c>
+
+00:10:38.240 --> 00:10:41.040 line:83% align:center
+<c.cyan.bg_black>avec ses marques Tecno,</c>
+<c.cyan.bg_black>Itel et Infinix,</c>
+
+00:10:41.360 --> 00:10:44.440 line:83% align:center
+<c.cyan.bg_black>détient 40% de part de marché</c>
+<c.cyan.bg_black>sur le continent.</c>
+
+00:10:44.760 --> 00:10:49.000 line:83% align:center
+<c.cyan.bg_black>De quoi continuer à alimenter la</c>
+<c.cyan.bg_black>guerre entre Américains et Chinois</c>
+
+00:10:49.320 --> 00:10:53.200 line:83% align:center
+<c.cyan.bg_black>et rebattre à nouveau les cartes</c>
+<c.cyan.bg_black>des dépendances croisées.</c>
+
+00:10:53.520 --> 00:10:56.320 line:83% align:center
+<c.white.bg_black>Cette guerre des smartphones</c>
+<c.white.bg_black>est au coeur</c>
+
+00:10:56.640 --> 00:10:59.000 line:91% align:center
+<c.white.bg_black>d'enjeux géopolitiques majeurs.</c>
+
+00:10:59.320 --> 00:11:03.760 line:83% align:center
+<c.white.bg_black>Notons toutefois qu'on change</c>
+<c.white.bg_black>moins souvent de portable,</c>
+
+00:11:04.080 --> 00:11:08.080 line:83% align:center
+<c.white.bg_black>même si l'IA embarquée pourrait</c>
+<c.white.bg_black>susciter une nouvelle génération</c>
+
+00:11:08.400 --> 00:11:11.960 line:83% align:center
+<c.white.bg_black>de téléphones</c>
+<c.white.bg_black>que beaucoup voudraient acquérir.</c>
+
+00:11:12.280 --> 00:11:15.080 line:83% align:center
+<c.white.bg_black>Et une nouvelle tendance</c>
+<c.white.bg_black>se développe,</c>
+
+00:11:15.400 --> 00:11:18.800 line:83% align:center
+<c.white.bg_black>celle des téléphones minimalistes,</c>
+<c.white.bg_black>sans écrans tactiles</c>
+
+00:11:19.120 --> 00:11:22.120 line:83% align:center
+<c.white.bg_black>ni applications</c>
+<c.white.bg_black>pour les réseaux sociaux,</c>
+
+00:11:22.440 --> 00:11:25.600 line:83% align:center
+<c.white.bg_black>comme si, après une période</c>
+<c.white.bg_black>d'hyperconnectivité,</c>
+
+00:11:25.920 --> 00:11:29.960 line:83% align:center
+<c.white.bg_black>nous voulions recréer des espaces</c>
+<c.white.bg_black>où l'on ne peut être joint.</c>
+
+00:11:30.920 --> 00:11:34.240 line:83% align:center
+<c.cyan.bg_black>Pour aller plus loin :</c>
+<c.cyan.bg_black>cet ouvrage d'Ophélie Coelho,</c>
+
+00:11:34.560 --> 00:11:38.080 line:83% align:center
+<c.cyan.bg_black>"Géopolitique du numérique,</c>
+<c.cyan.bg_black>l'impérialisme à pas de géants",</c>
+
+00:11:38.400 --> 00:11:40.560 line:91% align:center
+<c.cyan.bg_black>aux éditions de l'Atelier.</c>
+
+00:11:40.880 --> 00:11:43.560 line:83% align:center
+<c.white.bg_black>C'est la fin</c>
+<c.white.bg_black>du "Dessous des cartes".</c>
+
+00:11:43.880 --> 00:11:46.040 line:91% align:center
+<c.white.bg_black>À la semaine prochaine,</c>
+
+00:11:46.360 --> 00:11:49.840 line:83% align:center
+<c.white.bg_black>et d'ici là, n'oubliez pas arte.tv</c>
+<c.white.bg_black>et nos réseaux sociaux</c>
+
+00:11:50.160 --> 00:11:52.880 line:83% align:center
+<c.white.bg_black>pour retrouver nos vidéos.</c>
+<c.white.bg_black>À bientôt.</c>
+
+00:11:53.200 --> 00:11:58.200 line:91% align:center
+<c.green.bg_black>france.tv access</c>
+

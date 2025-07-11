@@ -1,0 +1,798 @@
+WEBVTT
+
+STYLE
+::cue(.black) {
+ color: black;
+}
+
+STYLE
+::cue(.red) {
+ color: red;
+}
+
+STYLE
+::cue(.green) {
+ color: green;
+}
+
+STYLE
+::cue(.yellow) {
+ color: yellow;
+}
+
+STYLE
+::cue(.blue) {
+ color: blue;
+}
+
+STYLE
+::cue(.magenta) {
+ color: magenta;
+}
+
+STYLE
+::cue(.cyan) {
+ color: cyan;
+}
+
+STYLE
+::cue(.white) {
+ color: white;
+}
+
+STYLE
+::cue(.bg_black) {
+ background-color: black;
+}
+
+STYLE
+::cue(.bg_red) {
+ background-color: red;
+}
+
+STYLE
+::cue(.bg_green) {
+ background-color: green;
+}
+
+STYLE
+::cue(.bg_yellow) {
+ background-color: yellow;
+}
+
+STYLE
+::cue(.bg_blue) {
+ background-color: blue;
+}
+
+STYLE
+::cue(.bg_magenta) {
+ background-color: magenta;
+}
+
+STYLE
+::cue(.bg_cyan) {
+ background-color: cyan;
+}
+
+STYLE
+::cue(.bg_white) {
+ background-color: white;
+}
+
+00:00:03.400 --> 00:00:21.040 line:91% align:left
+<c.magenta.bg_black>...</c>
+
+00:00:23.480 --> 00:00:26.160 line:83% align:center
+<c.white.bg_black>-Bienvenue</c>
+<c.white.bg_black>dans "Le dessous des cartes".</c>
+
+00:00:26.480 --> 00:00:28.120 line:91% align:center
+<c.white.bg_black>Je vous emmène au Nigeria.</c>
+
+00:00:28.440 --> 00:00:32.080 line:83% align:center
+<c.white.bg_black>Voici le nouveau port de Lekki,</c>
+<c.white.bg_black>inauguré en janvier 2023,</c>
+
+00:00:32.400 --> 00:00:35.520 line:83% align:center
+<c.white.bg_black>l'un des nouveaux grands ports</c>
+<c.white.bg_black>de la région,</c>
+
+00:00:35.840 --> 00:00:39.840 line:83% align:center
+<c.white.bg_black>comme celui de Luanda en Angola</c>
+<c.white.bg_black>ou d'Abidjan en Côte d'Ivoire.</c>
+
+00:00:40.160 --> 00:00:43.720 line:83% align:center
+<c.white.bg_black>Des ports ouverts</c>
+<c.white.bg_black>sur un espace maritime stratégique,</c>
+
+00:00:44.040 --> 00:00:47.880 line:83% align:center
+<c.white.bg_black>le golfe de Guinée, trop souvent</c>
+<c.white.bg_black>sous les radars médiatiques,</c>
+
+00:00:48.200 --> 00:00:51.160 line:83% align:center
+<c.white.bg_black>alors que s'y jouent</c>
+<c.white.bg_black>des enjeux majeurs</c>
+
+00:00:51.480 --> 00:00:55.320 line:83% align:center
+<c.white.bg_black>en termes de ressources</c>
+<c.white.bg_black>énergétiques, de flux commerciaux,</c>
+
+00:00:55.640 --> 00:00:57.920 line:91% align:center
+<c.white.bg_black>de développements démographiques...</c>
+
+00:00:58.240 --> 00:01:00.800 line:83% align:center
+<c.white.bg_black>Mais avec aussi des pirates,</c>
+<c.white.bg_black>des crises,</c>
+
+00:01:01.120 --> 00:01:04.200 line:83% align:center
+<c.white.bg_black>des États défaillants</c>
+<c.white.bg_black>et des populations fragiles.</c>
+
+00:01:04.520 --> 00:01:05.760 line:91% align:center
+<c.white.bg_black>Sortons nos cartes.</c>
+
+00:01:06.520 --> 00:01:10.640 line:83% align:center
+<c.cyan.bg_black>Le golfe de Guinée se situe</c>
+<c.cyan.bg_black>à l'ouest de l'Afrique.</c>
+
+00:01:10.960 --> 00:01:13.800 line:83% align:center
+<c.cyan.bg_black>Ses contours sont sujets</c>
+<c.cyan.bg_black>à interprétation,</c>
+
+00:01:14.120 --> 00:01:18.040 line:83% align:center
+<c.cyan.bg_black>mais dans sa délimitation la plus</c>
+<c.cyan.bg_black>large, sa limite suit une ligne</c>
+
+00:01:18.360 --> 00:01:21.000 line:83% align:center
+<c.cyan.bg_black>qui part du cap des Palmes,</c>
+<c.cyan.bg_black>au Liberia,</c>
+
+00:01:21.320 --> 00:01:23.840 line:83% align:center
+<c.cyan.bg_black>et va à la Ponta Albina,</c>
+<c.cyan.bg_black>au sud de l'Angola.</c>
+
+00:01:24.160 --> 00:01:26.480 line:83% align:center
+<c.cyan.bg_black>Ses eaux baignent donc</c>
+<c.cyan.bg_black>la Côte d'Ivoire,</c>
+
+00:01:26.800 --> 00:01:29.320 line:83% align:center
+<c.cyan.bg_black>le Ghana, le Togo,</c>
+<c.cyan.bg_black>le Bénin, le Nigeria,</c>
+
+00:01:29.640 --> 00:01:33.880 line:83% align:center
+<c.cyan.bg_black>Sao Tomé-et-Principe, le Cameroun,</c>
+<c.cyan.bg_black>la Guinée équatoriale, le Gabon,</c>
+
+00:01:34.200 --> 00:01:38.040 line:83% align:center
+<c.cyan.bg_black>la République du Congo et la</c>
+<c.cyan.bg_black>République démocratique du Congo.</c>
+
+00:01:38.360 --> 00:01:41.880 line:70% align:center
+<c.cyan.bg_black>Le golfe de Guinée,</c>
+<c.cyan.bg_black>qui s'étend sur 2 350 000km²,</c>
+
+00:01:42.200 --> 00:01:45.680 line:70% align:center
+<c.cyan.bg_black>de par sa position sur les routes</c>
+<c.cyan.bg_black>maritimes mondiales</c>
+
+00:01:46.000 --> 00:01:49.240 line:70% align:center
+<c.cyan.bg_black>entre Europe et Asie,</c>
+<c.cyan.bg_black>et ses richesses propres,</c>
+
+00:01:49.560 --> 00:01:52.920 line:75% align:center
+<c.cyan.bg_black>représente, pour les populations</c>
+<c.cyan.bg_black>des pays riverains,</c>
+
+00:01:53.240 --> 00:01:56.240 line:75% align:center
+<c.cyan.bg_black>un espace économique vital,</c>
+<c.cyan.bg_black>on va le voir.</c>
+
+00:01:57.240 --> 00:02:00.800 line:8% align:center
+<c.cyan.bg_black>Le golfe possède d'importantes</c>
+<c.cyan.bg_black>ressources halieutiques,</c>
+
+00:02:01.120 --> 00:02:03.600 line:8% align:center
+<c.cyan.bg_black>estimées à un milliard de tonnes,</c>
+
+00:02:03.920 --> 00:02:06.720 line:8% align:center
+<c.cyan.bg_black>et des ressources pétrolières</c>
+<c.cyan.bg_black>et gazières</c>
+
+00:02:07.040 --> 00:02:10.480 line:8% align:center
+<c.cyan.bg_black>qui font de la zone la 1re région</c>
+<c.cyan.bg_black>pétrolifère d'Afrique.</c>
+
+00:02:10.800 --> 00:02:14.320 line:8% align:center
+<c.cyan.bg_black>Riche en ressources propres,</c>
+<c.cyan.bg_black>le golfe de Guinée est aussi</c>
+
+00:02:14.640 --> 00:02:17.680 line:8% align:center
+<c.cyan.bg_black>le point de sortie</c>
+<c.cyan.bg_black>des ressources terrestres.</c>
+
+00:02:18.000 --> 00:02:21.240 line:66% align:center
+<c.cyan.bg_black>Notamment les minerais :</c>
+<c.cyan.bg_black>manganèse, tantale,</c>
+
+00:02:21.560 --> 00:02:24.120 line:75% align:center
+<c.cyan.bg_black>cobalt, nickel, niobium, fer, or.</c>
+
+00:02:24.440 --> 00:02:28.440 line:8% align:center
+<c.cyan.bg_black>Mais aussi le bois, le coton, le</c>
+<c.cyan.bg_black>palmier à huile, le café, le cacao,</c>
+
+00:02:28.760 --> 00:02:32.920 line:8% align:center
+<c.cyan.bg_black>le caoutchouc et les gisements</c>
+<c.cyan.bg_black>d'hydrocarbures terrestres.</c>
+
+00:02:33.240 --> 00:02:38.360 line:8% align:center
+<c.cyan.bg_black>S'ajoutent aussi les ressources</c>
+<c.cyan.bg_black>des pays enclavés du Sahel,</c>
+
+00:02:38.680 --> 00:02:42.360 line:83% align:center
+<c.cyan.bg_black>pour lesquels le golfe</c>
+<c.cyan.bg_black>est la seule porte de sortie.</c>
+
+00:02:42.680 --> 00:02:45.880 line:83% align:center
+<c.cyan.bg_black>Le golfe est donc</c>
+<c.cyan.bg_black>un point de passage névralgique</c>
+
+00:02:46.240 --> 00:02:48.880 line:83% align:center
+<c.cyan.bg_black>des échanges commerciaux</c>
+<c.cyan.bg_black>de la région.</c>
+
+00:02:49.200 --> 00:02:52.680 line:83% align:center
+<c.cyan.bg_black>D'importants ports se sont</c>
+<c.cyan.bg_black>développés le long de la côte</c>
+
+00:02:53.000 --> 00:02:56.160 line:83% align:center
+<c.cyan.bg_black>pour assurer le transbordement</c>
+<c.cyan.bg_black>des marchandises.</c>
+
+00:02:56.480 --> 00:02:59.720 line:83% align:center
+<c.cyan.bg_black>Les plus importants sont</c>
+<c.cyan.bg_black>Abidjan en Côte d'Ivoire,</c>
+
+00:03:00.040 --> 00:03:03.320 line:83% align:center
+<c.cyan.bg_black>Tema près d'Accra au Ghana,</c>
+<c.cyan.bg_black>Lomé au Togo,</c>
+
+00:03:03.640 --> 00:03:06.560 line:83% align:center
+<c.cyan.bg_black>Lagos au Nigeria,</c>
+<c.cyan.bg_black>Douala au Cameroun,</c>
+
+00:03:06.880 --> 00:03:09.040 line:91% align:center
+<c.cyan.bg_black>et Pointe-Noire au Congo.</c>
+
+00:03:09.360 --> 00:03:12.960 line:70% align:center
+<c.cyan.bg_black>Après un afflux massif</c>
+<c.cyan.bg_black>de population, Lagos, Luanda</c>
+
+00:03:13.280 --> 00:03:17.240 line:70% align:center
+<c.cyan.bg_black>et Abidjan comptent parmi</c>
+<c.cyan.bg_black>les plus grosses villes d'Afrique</c>
+
+00:03:17.560 --> 00:03:19.080 line:79% align:center
+<c.cyan.bg_black>derrière le Caire.</c>
+
+00:03:19.400 --> 00:03:23.760 line:70% align:center
+<c.cyan.bg_black>La zone littorale entre Benin City,</c>
+<c.cyan.bg_black>au Nigeria, et Accra, au Ghana,</c>
+
+00:03:24.080 --> 00:03:26.160 line:79% align:center
+<c.cyan.bg_black>est en passe de devenir</c>
+
+00:03:26.480 --> 00:03:29.840 line:70% align:center
+<c.cyan.bg_black>une conurbation</c>
+<c.cyan.bg_black>de plus de 25 millions d'habitants.</c>
+
+00:03:30.160 --> 00:03:31.080 line:91% align:center
+<c.cyan.bg_black>En 2050,</c>
+
+00:03:31.400 --> 00:03:34.840 line:62% align:center
+<c.cyan.bg_black>le Nigeria compterait</c>
+<c.cyan.bg_black>379 millions d'habitants</c>
+
+00:03:35.160 --> 00:03:38.400 line:62% align:center
+<c.cyan.bg_black>et deviendrait le 3e pays</c>
+<c.cyan.bg_black>le plus peuplé du monde,</c>
+
+00:03:38.720 --> 00:03:42.240 line:8% align:center
+<c.cyan.bg_black>derrière l'Inde et la Chine.</c>
+<c.cyan.bg_black>Et les pays du golfe de Guinée</c>
+
+00:03:42.560 --> 00:03:45.920 line:8% align:center
+<c.cyan.bg_black>concentreraient le quart</c>
+<c.cyan.bg_black>de la population africaine.</c>
+
+00:03:46.240 --> 00:03:50.240 line:83% align:center
+<c.white.bg_black>Région interconnectée vitale</c>
+<c.white.bg_black>pour le développement de l'Afrique,</c>
+
+00:03:50.560 --> 00:03:53.400 line:83% align:center
+<c.white.bg_black>au coeur du commerce</c>
+<c.white.bg_black>et du fret international,</c>
+
+00:03:53.720 --> 00:03:56.560 line:83% align:center
+<c.white.bg_black>le golfe de Guinée</c>
+<c.white.bg_black>attire les convoitises.</c>
+
+00:03:56.880 --> 00:03:59.480 line:91% align:center
+<c.white.bg_black>Il est devenu une zone de tensions.</c>
+
+00:03:59.800 --> 00:04:03.320 line:83% align:center
+<c.white.bg_black>Des tensions liées aux disparités</c>
+<c.white.bg_black>multiples de la région,</c>
+
+00:04:03.640 --> 00:04:04.920 line:91% align:center
+<c.white.bg_black>on va le voir.</c>
+
+00:04:05.520 --> 00:04:08.760 line:83% align:center
+<c.cyan.bg_black>Le développement</c>
+<c.cyan.bg_black>des villes portuaires de la côte</c>
+
+00:04:09.080 --> 00:04:13.880 line:83% align:center
+<c.cyan.bg_black>a entraîné de nombreux problèmes,</c>
+<c.cyan.bg_black>car à Luanda, Abidjan ou Lagos,</c>
+
+00:04:14.200 --> 00:04:17.720 line:70% align:center
+<c.cyan.bg_black>prolifèrent des bidonvilles</c>
+<c.cyan.bg_black>à la criminalité galopante.</c>
+
+00:04:18.040 --> 00:04:21.360 line:70% align:center
+<c.cyan.bg_black>La concentration des richesses</c>
+<c.cyan.bg_black>sur la côte a provoqué</c>
+
+00:04:21.680 --> 00:04:25.320 line:70% align:center
+<c.cyan.bg_black>un déséquilibre de population</c>
+<c.cyan.bg_black>à l'intérieur des pays,</c>
+
+00:04:25.640 --> 00:04:28.520 line:83% align:center
+<c.cyan.bg_black>qui s'accompagne, lui aussi,</c>
+<c.cyan.bg_black>de tensions.</c>
+
+00:04:28.840 --> 00:04:32.080 line:83% align:center
+<c.cyan.bg_black>Cette disparité démographique</c>
+<c.cyan.bg_black>joue entre les pays,</c>
+
+00:04:32.400 --> 00:04:36.160 line:83% align:center
+<c.cyan.bg_black>le Nigeria avec ses 200 millions</c>
+<c.cyan.bg_black>d'habitants pesant plus lourd</c>
+
+00:04:36.480 --> 00:04:39.880 line:83% align:center
+<c.cyan.bg_black>que Sao Tomé-et-Principe</c>
+<c.cyan.bg_black>avec ses 200 000 habitants.</c>
+
+00:04:40.200 --> 00:04:44.280 line:83% align:center
+<c.cyan.bg_black>S'ajoutent à cela des disparités</c>
+<c.cyan.bg_black>économiques, liées aux ressources</c>
+
+00:04:44.600 --> 00:04:47.880 line:83% align:center
+<c.cyan.bg_black>et aux systèmes politiques</c>
+<c.cyan.bg_black>plus ou moins démocratiques,</c>
+
+00:04:48.200 --> 00:04:49.680 line:91% align:center
+<c.cyan.bg_black>comme on va le voir.</c>
+
+00:04:50.000 --> 00:04:53.640 line:83% align:center
+<c.cyan.bg_black>La Côte d'Ivoire, démocratie</c>
+<c.cyan.bg_black>dysfonctionnelle, et le Ghana,</c>
+
+00:04:53.960 --> 00:04:58.040 line:83% align:center
+<c.cyan.bg_black>ont des économies dynamiques</c>
+<c.cyan.bg_black>avec respectivement 6,5% et 6,4%</c>
+
+00:04:58.360 --> 00:05:01.080 line:83% align:center
+<c.cyan.bg_black>de taux de croissance du PIB</c>
+<c.cyan.bg_black>en 2024.</c>
+
+00:05:01.400 --> 00:05:03.760 line:91% align:center
+<c.cyan.bg_black>Malgré leur régime autoritaire,</c>
+
+00:05:04.080 --> 00:05:07.640 line:83% align:center
+<c.cyan.bg_black>le Togo et le Bénin affichent</c>
+<c.cyan.bg_black>un taux de croissance</c>
+
+00:05:07.960 --> 00:05:09.640 line:91% align:center
+<c.cyan.bg_black>de 6,6% et 6,5%.</c>
+
+00:05:10.600 --> 00:05:15.640 line:66% align:center
+<c.cyan.bg_black>Le Cameroun est une gérontocratie</c>
+<c.cyan.bg_black>dirigée par Paul Biya depuis 1982.</c>
+
+00:05:15.960 --> 00:05:18.720 line:75% align:center
+<c.cyan.bg_black>Il affiche un taux de 3,3%.</c>
+
+00:05:19.040 --> 00:05:20.560 line:91% align:center
+<c.cyan.bg_black>Et le Nigeria,</c>
+
+00:05:20.880 --> 00:05:24.120 line:83% align:center
+<c.cyan.bg_black>entre rente pétrolière</c>
+<c.cyan.bg_black>et démocratie corrompue,</c>
+
+00:05:24.440 --> 00:05:27.240 line:91% align:center
+<c.cyan.bg_black>voit son PIB régresser à 2,9%.</c>
+
+00:05:27.560 --> 00:05:30.600 line:83% align:center
+<c.cyan.bg_black>Le Gabon, l'Angola</c>
+<c.cyan.bg_black>et la Guinée équatoriale,</c>
+
+00:05:30.920 --> 00:05:34.480 line:83% align:center
+<c.cyan.bg_black>qui sont des dictatures,</c>
+<c.cyan.bg_black>affichent des taux de croissance</c>
+
+00:05:34.800 --> 00:05:39.840 line:83% align:center
+<c.cyan.bg_black>à respectivement</c>
+<c.cyan.bg_black>2,4%, 0,9%, et -5,1%.</c>
+
+00:05:41.120 --> 00:05:47.080 line:83% align:center
+<c.cyan.bg_black>La RDC, avec ses 8,4%,</c>
+<c.cyan.bg_black>et le Liberia, 4,7%,</c>
+
+00:05:47.400 --> 00:05:49.680 line:83% align:center
+<c.cyan.bg_black>deux États</c>
+<c.cyan.bg_black>particulièrement instables,</c>
+
+00:05:50.000 --> 00:05:52.880 line:83% align:center
+<c.cyan.bg_black>s'en tirent</c>
+<c.cyan.bg_black>grâce à leurs rentes minières.</c>
+
+00:05:53.200 --> 00:05:56.200 line:83% align:center
+<c.cyan.bg_black>La République du Congo,</c>
+<c.cyan.bg_black>aussi très instable,</c>
+
+00:05:56.520 --> 00:06:02.000 line:8% align:center
+<c.cyan.bg_black>et celle de Sao Tomé stagnent</c>
+<c.cyan.bg_black>de leur côté à 1,9% et 0,5%.</c>
+
+00:06:02.320 --> 00:06:05.600 line:8% align:center
+<c.cyan.bg_black>Ces taux de croissance</c>
+<c.cyan.bg_black>ne doivent pas faire oublier</c>
+
+00:06:05.920 --> 00:06:07.640 line:91% align:center
+<c.cyan.bg_black>la grande pauvreté.</c>
+
+00:06:07.960 --> 00:06:11.960 line:83% align:center
+<c.cyan.bg_black>Les indices de développement humain</c>
+<c.cyan.bg_black>des pays du golfe se situent tous</c>
+
+00:06:12.280 --> 00:06:14.720 line:83% align:center
+<c.cyan.bg_black>dans la queue</c>
+<c.cyan.bg_black>du classement mondial,</c>
+
+00:06:15.040 --> 00:06:19.120 line:83% align:center
+<c.cyan.bg_black>de la 123e position pour le Gabon</c>
+<c.cyan.bg_black>avec un IDH de 0,693,</c>
+
+00:06:19.440 --> 00:06:25.560 line:83% align:center
+<c.cyan.bg_black>à la 180e position pour la RDC</c>
+<c.cyan.bg_black>avec un IDH de 0,481.</c>
+
+00:06:25.880 --> 00:06:29.720 line:83% align:center
+<c.cyan.bg_black>Cette pauvreté</c>
+<c.cyan.bg_black>et l'instabilité politique</c>
+
+00:06:30.040 --> 00:06:33.880 line:83% align:center
+<c.cyan.bg_black>favorisent l'émergence de conflits</c>
+<c.cyan.bg_black>pour le contrôle des richesses,</c>
+
+00:06:34.200 --> 00:06:37.120 line:83% align:center
+<c.cyan.bg_black>et tout particulièrement</c>
+<c.cyan.bg_black>les hydrocarbures.</c>
+
+00:06:37.440 --> 00:06:40.480 line:83% align:center
+<c.cyan.bg_black>Ce fut le cas</c>
+<c.cyan.bg_black>entre le Cameroun et le Nigeria</c>
+
+00:06:40.800 --> 00:06:43.280 line:91% align:center
+<c.cyan.bg_black>à propos du territoire de Bakassi,</c>
+
+00:06:43.600 --> 00:06:46.040 line:91% align:center
+<c.cyan.bg_black>avec une victoire pour Yaoundé.</c>
+
+00:06:46.360 --> 00:06:49.760 line:83% align:center
+<c.cyan.bg_black>Le Gabon et la Guinée équatoriale</c>
+<c.cyan.bg_black>se disputent</c>
+
+00:06:50.080 --> 00:06:53.720 line:83% align:center
+<c.cyan.bg_black>les ressources autour des îles</c>
+<c.cyan.bg_black>de la baie de Corisco.</c>
+
+00:06:54.040 --> 00:06:57.680 line:83% align:center
+<c.cyan.bg_black>Le Nigeria et Sao Tomé-et-Principe</c>
+<c.cyan.bg_black>ont trouvé un accord</c>
+
+00:06:58.000 --> 00:07:01.960 line:83% align:center
+<c.cyan.bg_black>pour se partager les revenus</c>
+<c.cyan.bg_black>de leurs exploitations pétrolières</c>
+
+00:07:02.280 --> 00:07:03.760 line:91% align:center
+<c.cyan.bg_black>et gazières offshore :</c>
+
+00:07:04.080 --> 00:07:08.600 line:83% align:center
+<c.cyan.bg_black>60% des bénéfices pour le Nigeria</c>
+<c.cyan.bg_black>et 40% pour Sao Tomé.</c>
+
+00:07:09.160 --> 00:07:12.240 line:83% align:center
+<c.cyan.bg_black>La guerre pour contrôler le pétrole</c>
+<c.cyan.bg_black>sévit aussi</c>
+
+00:07:12.560 --> 00:07:15.800 line:83% align:center
+<c.cyan.bg_black>à l'intérieur des États,</c>
+<c.cyan.bg_black>notamment au Nigeria,</c>
+
+00:07:16.120 --> 00:07:18.760 line:83% align:center
+<c.cyan.bg_black>où les populations</c>
+<c.cyan.bg_black>du delta du Niger</c>
+
+00:07:19.080 --> 00:07:23.280 line:83% align:center
+<c.cyan.bg_black>se rebellent contre la mainmise</c>
+<c.cyan.bg_black>du régime sur la rente pétrolière.</c>
+
+00:07:23.760 --> 00:07:28.320 line:83% align:center
+<c.cyan.bg_black>L'instabilité politique des pays du</c>
+<c.cyan.bg_black>golfe favorise aussi la piraterie.</c>
+
+00:07:28.640 --> 00:07:32.760 line:83% align:center
+<c.cyan.bg_black>Concentrant un tiers des attaques</c>
+<c.cyan.bg_black>de pirates recensées dans le monde</c>
+
+00:07:33.080 --> 00:07:37.080 line:83% align:center
+<c.cyan.bg_black>et 95% des enlèvements de marins</c>
+<c.cyan.bg_black>en 2020, ces actes de piraterie,</c>
+
+00:07:37.400 --> 00:07:41.120 line:83% align:center
+<c.cyan.bg_black>malgré une forte baisse en 2024,</c>
+<c.cyan.bg_black>représentent toujours un risque</c>
+
+00:07:41.440 --> 00:07:45.120 line:83% align:center
+<c.cyan.bg_black>pour les bateaux de pêche</c>
+<c.cyan.bg_black>et les plateformes pétrolières.</c>
+
+00:07:45.440 --> 00:07:49.680 line:83% align:center
+<c.cyan.bg_black>S'ajoute aussi la pêche illégale</c>
+<c.cyan.bg_black>massivement pratiquée par la Chine</c>
+
+00:07:50.000 --> 00:07:52.120 line:83% align:center
+<c.cyan.bg_black>et parfois</c>
+<c.cyan.bg_black>par des armateurs européens</c>
+
+00:07:52.440 --> 00:07:55.800 line:83% align:center
+<c.cyan.bg_black>grâce au système</c>
+<c.cyan.bg_black>des pavillons de complaisance,</c>
+
+00:07:56.120 --> 00:07:59.560 line:83% align:center
+<c.cyan.bg_black>soit le fait de dissimuler</c>
+<c.cyan.bg_black>la nationalité du propriétaire</c>
+
+00:07:59.880 --> 00:08:03.320 line:83% align:center
+<c.cyan.bg_black>d'un navire en l'immatriculant</c>
+<c.cyan.bg_black>dans un autre pays.</c>
+
+00:08:03.640 --> 00:08:07.480 line:83% align:center
+<c.cyan.bg_black>Certains pays du golfe de Guinée</c>
+<c.cyan.bg_black>en ont fait une spécialité.</c>
+
+00:08:08.320 --> 00:08:09.880 line:91% align:center
+<c.cyan.bg_black>Le golfe est aussi</c>
+
+00:08:10.200 --> 00:08:13.960 line:83% align:center
+<c.cyan.bg_black>un point d'entrée des routes</c>
+<c.cyan.bg_black>de la cocaïne vers l'Europe,</c>
+
+00:08:14.280 --> 00:08:17.680 line:83% align:center
+<c.cyan.bg_black>les trafiquants</c>
+<c.cyan.bg_black>profitant de l'instabilité du Sahel</c>
+
+00:08:18.000 --> 00:08:22.040 line:83% align:center
+<c.cyan.bg_black>pour acheminer leur marchandise</c>
+<c.cyan.bg_black>vers les côtes méditerranéennes.</c>
+
+00:08:22.360 --> 00:08:26.560 line:83% align:center
+<c.cyan.bg_black>Cette instabilité du Sahel impacte</c>
+<c.cyan.bg_black>directement les pays du golfe,</c>
+
+00:08:26.880 --> 00:08:29.560 line:83% align:center
+<c.cyan.bg_black>à cause des réfugiés</c>
+<c.cyan.bg_black>fuyant les conflits</c>
+
+00:08:29.880 --> 00:08:33.880 line:83% align:center
+<c.cyan.bg_black>et des djihadistes qui cherchent</c>
+<c.cyan.bg_black>à étendre leur zone d'influence.</c>
+
+00:08:34.200 --> 00:08:37.160 line:83% align:center
+<c.cyan.bg_black>La Côte d'Ivoire</c>
+<c.cyan.bg_black>a dû faire face à ces 2 menaces.</c>
+
+00:08:37.480 --> 00:08:41.240 line:8% align:center
+<c.cyan.bg_black>En 2016, à Grand-Bassam,</c>
+<c.cyan.bg_black>une station balnéaire de la côte,</c>
+
+00:08:41.560 --> 00:08:45.040 line:83% align:center
+<c.cyan.bg_black>un attentat revendiqué</c>
+<c.cyan.bg_black>par AQMI a fait 19 morts.</c>
+
+00:08:45.360 --> 00:08:49.640 line:83% align:center
+<c.cyan.bg_black>Et on estime que la guerre civile</c>
+<c.cyan.bg_black>dans les années 2000</c>
+
+00:08:49.960 --> 00:08:54.560 line:83% align:center
+<c.cyan.bg_black>est en partie due à l'afflux</c>
+<c.cyan.bg_black>d'immigrés maliens et burkinabés.</c>
+
+00:08:54.880 --> 00:08:59.760 line:83% align:center
+<c.cyan.bg_black>Le Nigeria combat le groupe</c>
+<c.cyan.bg_black>Boko Haram aux abords du lac Tchad.</c>
+
+00:09:00.080 --> 00:09:04.400 line:8% align:center
+<c.cyan.bg_black>Le Bénin et le Togo doivent faire</c>
+<c.cyan.bg_black>face à des groupes armés se servant</c>
+
+00:09:04.720 --> 00:09:08.240 line:83% align:center
+<c.cyan.bg_black>de leurs réserves naturelles</c>
+<c.cyan.bg_black>comme bases arrière.</c>
+
+00:09:08.560 --> 00:09:12.440 line:83% align:center
+<c.cyan.bg_black>Pour tenter de maintenir</c>
+<c.cyan.bg_black>une stabilité propice à l'économie,</c>
+
+00:09:12.760 --> 00:09:15.560 line:83% align:center
+<c.cyan.bg_black>la majorité des pays du golfe</c>
+<c.cyan.bg_black>ont intégré</c>
+
+00:09:15.880 --> 00:09:20.320 line:8% align:center
+<c.cyan.bg_black>la Commission du golfe de Guinée,</c>
+<c.cyan.bg_black>fondée en 2001 afin de renforcer</c>
+
+00:09:20.640 --> 00:09:24.240 line:8% align:center
+<c.cyan.bg_black>la coopération et la solidarité</c>
+<c.cyan.bg_black>entre les États membres</c>
+
+00:09:24.560 --> 00:09:27.480 line:8% align:center
+<c.cyan.bg_black>pour tenter</c>
+<c.cyan.bg_black>d'en assurer une bonne gestion.</c>
+
+00:09:27.800 --> 00:09:32.040 line:8% align:center
+<c.cyan.bg_black>Différentes alliances économiques</c>
+<c.cyan.bg_black>se sont mises en place : la CEDEAO,</c>
+
+00:09:32.360 --> 00:09:35.680 line:83% align:center
+<c.cyan.bg_black>Communauté économique</c>
+<c.cyan.bg_black>des États de l'Afrique de l'Ouest,</c>
+
+00:09:36.000 --> 00:09:39.600 line:83% align:center
+<c.cyan.bg_black>la CEMAC, Communauté économique</c>
+<c.cyan.bg_black>et monétaire de l'Afrique centrale,</c>
+
+00:09:39.920 --> 00:09:44.040 line:83% align:center
+<c.cyan.bg_black>la CEEAC, Communauté économique</c>
+<c.cyan.bg_black>des États de l'Afrique centrale,</c>
+
+00:09:44.360 --> 00:09:47.680 line:83% align:center
+<c.cyan.bg_black>mais sans enregistrer</c>
+<c.cyan.bg_black>de résultats probants.</c>
+
+00:09:48.640 --> 00:09:52.200 line:83% align:center
+<c.cyan.bg_black>Le fort potentiel de la région</c>
+<c.cyan.bg_black>en termes de développement</c>
+
+00:09:52.520 --> 00:09:55.080 line:83% align:center
+<c.cyan.bg_black>et son manque</c>
+<c.cyan.bg_black>de coopération interne</c>
+
+00:09:55.400 --> 00:09:58.320 line:83% align:center
+<c.cyan.bg_black>profitent</c>
+<c.cyan.bg_black>aux puissances étrangères :</c>
+
+00:09:58.640 --> 00:10:01.960 line:83% align:center
+<c.cyan.bg_black>les anciennes puissances</c>
+<c.cyan.bg_black>coloniales, comme la France,</c>
+
+00:10:02.280 --> 00:10:05.320 line:83% align:center
+<c.cyan.bg_black>1er partenaire commercial</c>
+<c.cyan.bg_black>de la Côte d'Ivoire</c>
+
+00:10:05.640 --> 00:10:09.000 line:83% align:center
+<c.cyan.bg_black>et 1er investisseur étranger</c>
+<c.cyan.bg_black>au Bénin et au Cameroun,</c>
+
+00:10:09.320 --> 00:10:12.600 line:83% align:center
+<c.cyan.bg_black>au Portugal, 1er partenaire</c>
+<c.cyan.bg_black>commercial de Sao Tomé,</c>
+
+00:10:12.920 --> 00:10:16.440 line:83% align:center
+<c.cyan.bg_black>ou au Royaume-Uni,</c>
+<c.cyan.bg_black>1er investisseur étranger au Ghana.</c>
+
+00:10:16.760 --> 00:10:19.840 line:83% align:center
+<c.cyan.bg_black>La Chine s'impose aussi</c>
+<c.cyan.bg_black>dans la région</c>
+
+00:10:20.160 --> 00:10:24.480 line:83% align:center
+<c.cyan.bg_black>en devenant le 1er partenaire</c>
+<c.cyan.bg_black>commercial du Ghana, du Togo,</c>
+
+00:10:24.800 --> 00:10:28.520 line:83% align:center
+<c.cyan.bg_black>du Cameroun, de la Guinée</c>
+<c.cyan.bg_black>équatoriale et du Gabon.</c>
+
+00:10:28.840 --> 00:10:33.840 line:83% align:center
+<c.cyan.bg_black>L'Inde s'étant, de son côté,</c>
+<c.cyan.bg_black>rapprochée du Nigeria et du Bénin.</c>
+
+00:10:34.880 --> 00:10:37.800 line:83% align:center
+<c.white.bg_black>Voilà pour ce tour</c>
+<c.white.bg_black>dans le golfe de Guinée,</c>
+
+00:10:38.120 --> 00:10:42.160 line:83% align:center
+<c.white.bg_black>carrefour économique et sécuritaire</c>
+<c.white.bg_black>essentiel, où se croisent</c>
+
+00:10:42.480 --> 00:10:46.280 line:83% align:center
+<c.white.bg_black>différentes influences étrangères,</c>
+<c.white.bg_black>notamment celle de la France.</c>
+
+00:10:46.600 --> 00:10:50.800 line:83% align:center
+<c.white.bg_black>Paris qui, récemment, a renforcé</c>
+<c.white.bg_black>ses liens avec son allié ivoirien,</c>
+
+00:10:51.120 --> 00:10:54.720 line:83% align:center
+<c.white.bg_black>lors d'une opération visant</c>
+<c.white.bg_black>à affirmer la présence française</c>
+
+00:10:55.040 --> 00:10:59.480 line:83% align:center
+<c.white.bg_black>dans la zone, enrayer la pêche</c>
+<c.white.bg_black>illégale, contrer la piraterie</c>
+
+00:10:59.800 --> 00:11:04.080 line:83% align:center
+<c.white.bg_black>et anticiper l'expansion du</c>
+<c.white.bg_black>terrorisme depuis le Sahel voisin.</c>
+
+00:11:05.160 --> 00:11:07.240 line:91% align:center
+<c.cyan.bg_black>Pour aller plus loin :</c>
+
+00:11:07.560 --> 00:11:10.800 line:83% align:center
+<c.cyan.bg_black>la revue "Documentation</c>
+<c.cyan.bg_black>photographique" qui publie</c>
+
+00:11:11.120 --> 00:11:14.440 line:83% align:center
+<c.cyan.bg_black>"L'Afrique subsaharienne"</c>
+<c.cyan.bg_black>par Jean-Fabien Steck.</c>
+
+00:11:14.760 --> 00:11:18.240 line:83% align:center
+<c.cyan.bg_black>Et c'est avec lui que nous avons</c>
+<c.cyan.bg_black>préparé cette émission,</c>
+
+00:11:18.560 --> 00:11:21.880 line:83% align:center
+<c.cyan.bg_black>le chercheur Marc-Antoine</c>
+<c.cyan.bg_black>Pérouse de Montclos publie</c>
+
+00:11:22.200 --> 00:11:26.240 line:83% align:center
+<c.cyan.bg_black>aux Presses universitaires de</c>
+<c.cyan.bg_black>France "Géopolitique du Nigeria".</c>
+
+00:11:26.840 --> 00:11:29.600 line:83% align:center
+<c.white.bg_black>C'est la fin</c>
+<c.white.bg_black>du "Dessous des cartes".</c>
+
+00:11:29.920 --> 00:11:32.440 line:91% align:center
+<c.white.bg_black>Rendez-vous la semaine prochaine.</c>
+
+00:11:32.760 --> 00:11:35.680 line:83% align:center
+<c.white.bg_black>Et d'ici là, arte.tv</c>
+<c.white.bg_black>et nos réseaux sociaux</c>
+
+00:11:36.000 --> 00:11:38.480 line:83% align:center
+<c.white.bg_black>pour retrouver</c>
+<c.white.bg_black>l'ensemble de nos vidéos,</c>
+
+00:11:38.800 --> 00:11:40.880 line:91% align:center
+<c.white.bg_black>et abonnez-vous à notre newsletter.</c>
+
+00:11:41.200 --> 00:11:42.200 line:91% align:center
+<c.white.bg_black>À bientôt !</c>
+
+00:11:42.520 --> 00:11:47.520 line:91% align:center
+<c.green.bg_black>france.tv access</c>
+

@@ -12,3 +12,5 @@ Poser les bases pour en discuter, capacité à dégrossir un sujet > pas forcém
 ### Lancer Langflow en local 
 docker run -p 7860:7860 langflowai/langflow:latest
 http://localhost:7860/
+
+python3 -m venv .venv

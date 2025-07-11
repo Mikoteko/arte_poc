@@ -1,0 +1,780 @@
+WEBVTT
+
+STYLE
+::cue(.black) {
+ color: black;
+}
+
+STYLE
+::cue(.red) {
+ color: red;
+}
+
+STYLE
+::cue(.green) {
+ color: green;
+}
+
+STYLE
+::cue(.yellow) {
+ color: yellow;
+}
+
+STYLE
+::cue(.blue) {
+ color: blue;
+}
+
+STYLE
+::cue(.magenta) {
+ color: magenta;
+}
+
+STYLE
+::cue(.cyan) {
+ color: cyan;
+}
+
+STYLE
+::cue(.white) {
+ color: white;
+}
+
+STYLE
+::cue(.bg_black) {
+ background-color: black;
+}
+
+STYLE
+::cue(.bg_red) {
+ background-color: red;
+}
+
+STYLE
+::cue(.bg_green) {
+ background-color: green;
+}
+
+STYLE
+::cue(.bg_yellow) {
+ background-color: yellow;
+}
+
+STYLE
+::cue(.bg_blue) {
+ background-color: blue;
+}
+
+STYLE
+::cue(.bg_magenta) {
+ background-color: magenta;
+}
+
+STYLE
+::cue(.bg_cyan) {
+ background-color: cyan;
+}
+
+STYLE
+::cue(.bg_white) {
+ background-color: white;
+}
+
+00:00:03.400 --> 00:00:22.440 line:91% align:left
+<c.white.bg_black>...</c>
+
+00:00:22.760 --> 00:00:26.640 line:83% align:right
+<c.white.bg_black>-Ravie de vous retrouver.</c>
+<c.white.bg_black>Direction la mer Baltique.</c>
+
+00:00:26.960 --> 00:00:31.200 line:83% align:right
+<c.white.bg_black>Voici le pétrolier Eventin</c>
+<c.white.bg_black>dérivant au large de l'Allemagne,</c>
+
+00:00:31.520 --> 00:00:34.440 line:83% align:right
+<c.white.bg_black>en janvier 2025,</c>
+<c.white.bg_black>sous pavillon du Panama,</c>
+
+00:00:34.760 --> 00:00:39.280 line:83% align:right
+<c.white.bg_black>transportant 100 000 tonnes de</c>
+<c.white.bg_black>pétrole, mais en panne de moteur,</c>
+
+00:00:39.600 --> 00:00:42.560 line:83% align:center
+<c.white.bg_black>faisant craindre</c>
+<c.white.bg_black>un risque de marée noire.</c>
+
+00:00:42.880 --> 00:00:45.800 line:83% align:center
+<c.white.bg_black>Le cargo rejoignait Port-Saïd,</c>
+<c.white.bg_black>en Égypte,</c>
+
+00:00:46.120 --> 00:00:49.200 line:83% align:center
+<c.white.bg_black>et ferait partie</c>
+<c.white.bg_black>des vieux pétroliers russes</c>
+
+00:00:49.520 --> 00:00:52.960 line:83% align:center
+<c.white.bg_black>qui permettent à Moscou</c>
+<c.white.bg_black>de contourner les sanctions.</c>
+
+00:00:53.280 --> 00:00:57.680 line:83% align:center
+<c.white.bg_black>Quels torts ces sanctions liées</c>
+<c.white.bg_black>à l'invasion russe de l'Ukraine</c>
+
+00:00:58.000 --> 00:01:02.920 line:83% align:center
+<c.white.bg_black>ont fait à la Russie de Poutine ?</c>
+<c.white.bg_black>Comment les a-t-il contournées ?</c>
+
+00:01:03.240 --> 00:01:07.600 line:83% align:center
+<c.white.bg_black>Avec quels nouveaux partenaires</c>
+<c.white.bg_black>commerciaux ? On s'est demandé</c>
+
+00:01:07.920 --> 00:01:11.440 line:83% align:center
+<c.white.bg_black>si l'économie russe</c>
+<c.white.bg_black>est résiliente ou déclinante.</c>
+
+00:01:11.760 --> 00:01:13.440 line:91% align:center
+<c.white.bg_black>Sortons nos cartes.</c>
+
+00:01:13.760 --> 00:01:17.480 line:83% align:center
+<c.cyan.bg_black>Depuis l'invasion russe</c>
+<c.cyan.bg_black>de l'Ukraine en février 2022,</c>
+
+00:01:17.800 --> 00:01:22.280 line:12% align:center
+<c.cyan.bg_black>des vagues de sanctions ont été</c>
+<c.cyan.bg_black>imposées par l'Union européenne,</c>
+
+00:01:22.600 --> 00:01:26.400 line:83% align:center
+<c.cyan.bg_black>le Royaume-Uni, les États-Unis</c>
+<c.cyan.bg_black>et d'autres pays alliés</c>
+
+00:01:26.720 --> 00:01:30.880 line:12% align:center
+<c.cyan.bg_black>pour affaiblir la machine de guerre</c>
+<c.cyan.bg_black>russe et isoler Moscou.</c>
+
+00:01:31.200 --> 00:01:33.400 line:91% align:center
+<c.cyan.bg_black>Un front jusqu'à présent uni,</c>
+
+00:01:33.720 --> 00:01:38.240 line:12% align:center
+<c.cyan.bg_black>même si Donald Trump semblait</c>
+<c.cyan.bg_black>se rapprocher des positions russes.</c>
+
+00:01:38.560 --> 00:01:41.160 line:91% align:center
+<c.cyan.bg_black>Parmi les mesures de rétorsion,</c>
+
+00:01:41.520 --> 00:01:44.960 line:83% align:center
+<c.cyan.bg_black>l'Union européenne a décidé</c>
+<c.cyan.bg_black>plusieurs embargos :</c>
+
+00:01:45.280 --> 00:01:48.200 line:83% align:center
+<c.cyan.bg_black>sur le charbon et le pétrole,</c>
+<c.cyan.bg_black>sur l'or,</c>
+
+00:01:48.520 --> 00:01:52.480 line:83% align:center
+<c.cyan.bg_black>fermeture de l'espace aérien</c>
+<c.cyan.bg_black>européen aux avions russes,</c>
+
+00:01:52.800 --> 00:01:54.240 line:91% align:center
+<c.cyan.bg_black>des routes et des ports.</c>
+
+00:01:54.560 --> 00:01:57.160 line:83% align:center
+<c.cyan.bg_black>Exporter</c>
+<c.cyan.bg_black>des technologies de pointe,</c>
+
+00:01:57.480 --> 00:02:01.640 line:83% align:center
+<c.cyan.bg_black>des produits de luxe et des armes</c>
+<c.cyan.bg_black>est interdit vers Moscou.</c>
+
+00:02:01.960 --> 00:02:04.960 line:83% align:center
+<c.cyan.bg_black>Ces sanctions devaient asphyxier</c>
+<c.cyan.bg_black>la Russie.</c>
+
+00:02:05.280 --> 00:02:06.320 line:91% align:center
+<c.cyan.bg_black>Pourtant, en 2024,</c>
+
+00:02:06.640 --> 00:02:11.080 line:83% align:center
+<c.cyan.bg_black>le Kremlin annonce une croissance</c>
+<c.cyan.bg_black>de 4,1% du PIB russe,</c>
+
+00:02:11.400 --> 00:02:15.920 line:83% align:center
+<c.cyan.bg_black>une performance attribuée</c>
+<c.cyan.bg_black>au principal moteur de l'économie :</c>
+
+00:02:16.240 --> 00:02:17.960 line:91% align:center
+<c.cyan.bg_black>l'effort de guerre.</c>
+
+00:02:18.280 --> 00:02:22.320 line:83% align:center
+<c.cyan.bg_black>La Russie bat ses propres records</c>
+<c.cyan.bg_black>de dépenses militaires.</c>
+
+00:02:22.640 --> 00:02:25.320 line:83% align:center
+<c.cyan.bg_black>En 2025,</c>
+<c.cyan.bg_black>près de 40% du budget fédéral</c>
+
+00:02:25.640 --> 00:02:29.360 line:83% align:center
+<c.cyan.bg_black>est consacré à la défense</c>
+<c.cyan.bg_black>et à la sécurité nationale,</c>
+
+00:02:29.680 --> 00:02:31.680 line:91% align:center
+<c.cyan.bg_black>soit presque 10% du PIB.</c>
+
+00:02:32.000 --> 00:02:35.800 line:83% align:center
+<c.cyan.bg_black>Moscou prévoit de recruter</c>
+<c.cyan.bg_black>350 000 militaires de plus,</c>
+
+00:02:36.120 --> 00:02:39.920 line:83% align:center
+<c.cyan.bg_black>pour atteindre 1,5 million</c>
+<c.cyan.bg_black>de soldats et d'officiers.</c>
+
+00:02:40.240 --> 00:02:44.280 line:83% align:center
+<c.cyan.bg_black>15% de la population russe</c>
+<c.cyan.bg_black>vit sous le seuil de pauvreté,</c>
+
+00:02:44.600 --> 00:02:47.320 line:83% align:center
+<c.cyan.bg_black>notamment</c>
+<c.cyan.bg_black>dans les provinces éloignées,</c>
+
+00:02:47.640 --> 00:02:50.720 line:83% align:center
+<c.cyan.bg_black>et le salaire moyen</c>
+<c.cyan.bg_black>est d'environ 820 euros.</c>
+
+00:02:51.040 --> 00:02:55.120 line:83% align:center
+<c.cyan.bg_black>Le gouvernement russe propose</c>
+<c.cyan.bg_black>aux soldats 210 000 roubles,</c>
+
+00:02:55.440 --> 00:02:57.720 line:91% align:center
+<c.cyan.bg_black>un peu plus de 2 300 euros.</c>
+
+00:02:58.040 --> 00:03:01.720 line:83% align:center
+<c.cyan.bg_black>Pour compenser ces coûts,</c>
+<c.cyan.bg_black>l'État augmente les impôts</c>
+
+00:03:02.040 --> 00:03:04.920 line:83% align:center
+<c.cyan.bg_black>pour les particuliers</c>
+<c.cyan.bg_black>et les entreprises.</c>
+
+00:03:05.240 --> 00:03:09.840 line:83% align:center
+<c.cyan.bg_black>Si la Russie dope sa croissance</c>
+<c.cyan.bg_black>avec son industrie de la défense,</c>
+
+00:03:10.160 --> 00:03:14.200 line:83% align:center
+<c.cyan.bg_black>sa résilience économique</c>
+<c.cyan.bg_black>s'explique aussi par sa capacité</c>
+
+00:03:14.520 --> 00:03:16.600 line:91% align:center
+<c.cyan.bg_black>à contourner les sanctions.</c>
+
+00:03:16.920 --> 00:03:21.160 line:83% align:center
+<c.cyan.bg_black>Moscou a réussi à maintenir</c>
+<c.cyan.bg_black>l'épine dorsale de son économie,</c>
+
+00:03:21.480 --> 00:03:23.680 line:91% align:center
+<c.cyan.bg_black>les exportations d'hydrocarbures.</c>
+
+00:03:24.000 --> 00:03:27.600 line:45% align:center
+<c.cyan.bg_black>C'est l'un des 3 principaux</c>
+<c.cyan.bg_black>producteurs de pétrole au monde</c>
+
+00:03:27.920 --> 00:03:30.120 line:50% align:center
+<c.cyan.bg_black>avec l'Arabie saoudite et les USA,</c>
+
+00:03:30.440 --> 00:03:33.280 line:12% align:center
+<c.cyan.bg_black>le 2d producteur de gaz</c>
+<c.cyan.bg_black>derrière les USA</c>
+
+00:03:33.600 --> 00:03:36.240 line:12% align:center
+<c.cyan.bg_black>et elle a les cinquièmes</c>
+<c.cyan.bg_black>réserves de charbon.</c>
+
+00:03:36.560 --> 00:03:41.680 line:12% align:center
+<c.cyan.bg_black>En 2021, avant la guerre,</c>
+<c.cyan.bg_black>les hydrocarbures représentaient</c>
+
+00:03:42.000 --> 00:03:46.240 line:12% align:center
+<c.cyan.bg_black>jusqu'à 45% du budget russe</c>
+<c.cyan.bg_black>et 60% des exportations du pays.</c>
+
+00:03:46.560 --> 00:03:49.720 line:83% align:center
+<c.cyan.bg_black>Aujourd'hui,</c>
+<c.cyan.bg_black>si les pays européens ont baissé</c>
+
+00:03:50.040 --> 00:03:52.360 line:91% align:center
+<c.cyan.bg_black>leurs importations de gaz russe,</c>
+
+00:03:52.680 --> 00:03:56.280 line:83% align:center
+<c.cyan.bg_black>certains restent en partie</c>
+<c.cyan.bg_black>dépendants de la Russie,</c>
+
+00:03:56.600 --> 00:03:58.560 line:91% align:center
+<c.cyan.bg_black>pour plusieurs raisons.</c>
+
+00:03:58.880 --> 00:04:02.920 line:83% align:center
+<c.cyan.bg_black>La Hongrie et la Slovaquie</c>
+<c.cyan.bg_black>sont toujours liées à la Russie</c>
+
+00:04:03.240 --> 00:04:07.720 line:83% align:center
+<c.cyan.bg_black>par des contrats à long terme,</c>
+<c.cyan.bg_black>et les 27 en importent encore</c>
+
+00:04:08.040 --> 00:04:11.920 line:83% align:center
+<c.cyan.bg_black>via le gazoduc TurkStream</c>
+<c.cyan.bg_black>ou sous forme de gaz liquéfié</c>
+
+00:04:12.240 --> 00:04:14.840 line:91% align:center
+<c.cyan.bg_black>via leurs nombreux terminaux.</c>
+
+00:04:15.160 --> 00:04:18.920 line:83% align:center
+<c.cyan.bg_black>Les Européens ont arrêté d'acheter</c>
+<c.cyan.bg_black>du charbon russe</c>
+
+00:04:19.240 --> 00:04:23.320 line:83% align:center
+<c.cyan.bg_black>et drastiquement réduit</c>
+<c.cyan.bg_black>les importations de pétrole russe.</c>
+
+00:04:23.640 --> 00:04:28.080 line:83% align:center
+<c.cyan.bg_black>En août 2023, l'UE n'en a acheté</c>
+<c.cyan.bg_black>que 1,7 million de tonnes,</c>
+
+00:04:28.400 --> 00:04:32.720 line:12% align:center
+<c.cyan.bg_black>alors qu'elle en importait</c>
+<c.cyan.bg_black>près de 10 fois plus en août 2021,</c>
+
+00:04:33.040 --> 00:04:35.480 line:91% align:center
+<c.cyan.bg_black>soit 14,9 millions.</c>
+
+00:04:35.800 --> 00:04:39.760 line:83% align:center
+<c.cyan.bg_black>Si le vaste marché européen</c>
+<c.cyan.bg_black>s'est progressivement fermé,</c>
+
+00:04:40.080 --> 00:04:43.880 line:83% align:center
+<c.cyan.bg_black>la Russie a trouvé</c>
+<c.cyan.bg_black>de nouveaux débouchés énergétiques.</c>
+
+00:04:44.200 --> 00:04:45.720 line:91% align:center
+<c.cyan.bg_black>Direction l'Asie.</c>
+
+00:04:46.040 --> 00:04:50.080 line:83% align:center
+<c.cyan.bg_black>La Chine et l'Inde sont</c>
+<c.cyan.bg_black>les principaux clients de Moscou.</c>
+
+00:04:50.400 --> 00:04:54.760 line:83% align:center
+<c.cyan.bg_black>En 2023, 58% des exportations</c>
+<c.cyan.bg_black>de pétrole russe ont été dirigées</c>
+
+00:04:55.080 --> 00:04:57.160 line:91% align:center
+<c.cyan.bg_black>vers les 2 géants asiatiques.</c>
+
+00:04:57.480 --> 00:04:59.040 line:91% align:center
+<c.cyan.bg_black>Pour exporter son pétrole,</c>
+
+00:04:59.360 --> 00:05:02.520 line:83% align:center
+<c.cyan.bg_black>la Russie a réussi</c>
+<c.cyan.bg_black>à contourner les sanctions</c>
+
+00:05:02.840 --> 00:05:05.600 line:83% align:center
+<c.cyan.bg_black>grâce à sa flotte</c>
+<c.cyan.bg_black>de bateaux fantômes.</c>
+
+00:05:05.920 --> 00:05:09.040 line:83% align:center
+<c.cyan.bg_black>De quoi s'agit-il ?</c>
+<c.cyan.bg_black>En 2022, les pays du G7,</c>
+
+00:05:09.360 --> 00:05:13.520 line:83% align:center
+<c.cyan.bg_black>l'Union européenne et l'Australie,</c>
+<c.cyan.bg_black>interdisent le transport</c>
+
+00:05:13.840 --> 00:05:18.720 line:83% align:center
+<c.cyan.bg_black>du pétrole russe s'il est vendu</c>
+<c.cyan.bg_black>à plus de 60 dollars le baril.</c>
+
+00:05:19.040 --> 00:05:23.760 line:83% align:center
+<c.cyan.bg_black>Mais grâce à des sociétés-écrans,</c>
+<c.cyan.bg_black>la Russie achète de vieux tankers</c>
+
+00:05:24.080 --> 00:05:27.880 line:83% align:center
+<c.cyan.bg_black>et les fait naviguer</c>
+<c.cyan.bg_black>sous un pavillon de complaisance</c>
+
+00:05:28.200 --> 00:05:31.520 line:83% align:center
+<c.cyan.bg_black>pour échapper au plafonnement</c>
+<c.cyan.bg_black>du prix du baril.</c>
+
+00:05:31.840 --> 00:05:35.880 line:12% align:center
+<c.cyan.bg_black>Cette menace pour la sécurité</c>
+<c.cyan.bg_black>maritime et l'environnement</c>
+
+00:05:36.200 --> 00:05:39.680 line:83% align:center
+<c.cyan.bg_black>serait constituée</c>
+<c.cyan.bg_black>d'environ 600 pétroliers russes.</c>
+
+00:05:40.000 --> 00:05:43.040 line:83% align:center
+<c.cyan.bg_black>Moscou a su jouer</c>
+<c.cyan.bg_black>des sanctions économiques</c>
+
+00:05:43.360 --> 00:05:47.160 line:83% align:center
+<c.cyan.bg_black>pour trouver de nouvelles sources</c>
+<c.cyan.bg_black>d'approvisionnement.</c>
+
+00:05:47.480 --> 00:05:51.080 line:83% align:center
+<c.cyan.bg_black>La Chine est devenue</c>
+<c.cyan.bg_black>son 1er partenaire économique.</c>
+
+00:05:51.400 --> 00:05:55.560 line:83% align:center
+<c.cyan.bg_black>Le commerce entre les 2 pays</c>
+<c.cyan.bg_black>a progressé de 1,9% en 2024</c>
+
+00:05:55.880 --> 00:05:58.800 line:83% align:center
+<c.cyan.bg_black>pour atteindre</c>
+<c.cyan.bg_black>245 milliards de dollars,</c>
+
+00:05:59.120 --> 00:06:01.600 line:91% align:center
+<c.cyan.bg_black>un niveau jamais atteint.</c>
+
+00:06:01.920 --> 00:06:04.960 line:83% align:center
+<c.cyan.bg_black>La présence chinoise en Russie</c>
+<c.cyan.bg_black>est écrasante</c>
+
+00:06:05.280 --> 00:06:08.480 line:83% align:center
+<c.cyan.bg_black>dans l'automobile</c>
+<c.cyan.bg_black>ou la téléphonie mobile.</c>
+
+00:06:08.800 --> 00:06:12.600 line:83% align:center
+<c.cyan.bg_black>Moscou a pu aussi compter</c>
+<c.cyan.bg_black>sur des pays intermédiaires,</c>
+
+00:06:12.920 --> 00:06:16.800 line:83% align:center
+<c.cyan.bg_black>des plaques tournantes</c>
+<c.cyan.bg_black>comme les pays d'Asie centrale,</c>
+
+00:06:17.120 --> 00:06:21.200 line:83% align:center
+<c.cyan.bg_black>le Kazakhstan et le Kirghizistan,</c>
+<c.cyan.bg_black>mais aussi d'autres pays</c>
+
+00:06:21.520 --> 00:06:24.240 line:83% align:center
+<c.cyan.bg_black>comme la Géorgie,</c>
+<c.cyan.bg_black>l'Arménie, la Turquie</c>
+
+00:06:24.560 --> 00:06:28.080 line:83% align:center
+<c.cyan.bg_black>ou les Émirats arabes unis</c>
+<c.cyan.bg_black>qui abreuvent la Russie</c>
+
+00:06:28.400 --> 00:06:32.000 line:83% align:center
+<c.cyan.bg_black>de produits européens</c>
+<c.cyan.bg_black>en contournant les sanctions.</c>
+
+00:06:32.320 --> 00:06:36.480 line:83% align:center
+<c.cyan.bg_black>En 2022, le Kremlin a légalisé</c>
+<c.cyan.bg_black>ces importations parallèles,</c>
+
+00:06:36.800 --> 00:06:40.520 line:83% align:center
+<c.cyan.bg_black>par exemple le commerce</c>
+<c.cyan.bg_black>entre la Russie et l'Arménie.</c>
+
+00:06:40.840 --> 00:06:45.120 line:83% align:center
+<c.cyan.bg_black>Il a augmenté de près de 92%</c>
+<c.cyan.bg_black>entre 2021 et 2022.</c>
+
+00:06:45.440 --> 00:06:49.120 line:83% align:center
+<c.cyan.bg_black>Les entreprises russes</c>
+<c.cyan.bg_black>ont trouvé un chemin détourné</c>
+
+00:06:49.440 --> 00:06:54.160 line:83% align:center
+<c.cyan.bg_black>pour s'approvisionner auprès</c>
+<c.cyan.bg_black>de leurs fournisseurs européens.</c>
+
+00:06:55.440 --> 00:06:59.640 line:83% align:center
+<c.white.bg_black>Après 3 ans de guerre en Ukraine</c>
+<c.white.bg_black>et des sanctions strictes,</c>
+
+00:06:59.960 --> 00:07:02.760 line:83% align:center
+<c.white.bg_black>l'économie russe</c>
+<c.white.bg_black>ne s'est pas effondrée,</c>
+
+00:07:03.080 --> 00:07:08.400 line:83% align:center
+<c.white.bg_black>mais pour 2025, il y a des signes</c>
+<c.white.bg_black>de ralentissement de la croissance</c>
+
+00:07:08.720 --> 00:07:12.120 line:83% align:center
+<c.white.bg_black>et son économie,</c>
+<c.white.bg_black>chauffée à blanc par la guerre,</c>
+
+00:07:12.440 --> 00:07:14.280 line:91% align:center
+<c.white.bg_black>accumule des difficultés.</c>
+
+00:07:14.600 --> 00:07:16.240 line:91% align:center
+<c.white.bg_black>C'est ce qu'on va voir.</c>
+
+00:07:16.560 --> 00:07:20.360 line:83% align:center
+<c.cyan.bg_black>La Russie est confrontée</c>
+<c.cyan.bg_black>à une spirale inflationniste.</c>
+
+00:07:20.680 --> 00:07:23.760 line:83% align:center
+<c.cyan.bg_black>En 2024, la hausse des prix</c>
+<c.cyan.bg_black>était de 10%,</c>
+
+00:07:24.080 --> 00:07:27.200 line:83% align:center
+<c.cyan.bg_black>plus du double</c>
+<c.cyan.bg_black>des objectifs du Kremlin,</c>
+
+00:07:27.560 --> 00:07:31.960 line:83% align:center
+<c.cyan.bg_black>mais la population subit</c>
+<c.cyan.bg_black>entre 10 et 20% d'inflation.</c>
+
+00:07:32.280 --> 00:07:35.400 line:83% align:center
+<c.cyan.bg_black>Le prix du beurre</c>
+<c.cyan.bg_black>a augmenté de 36%</c>
+
+00:07:35.720 --> 00:07:38.720 line:83% align:center
+<c.cyan.bg_black>et celui des pommes de terre</c>
+<c.cyan.bg_black>de 92%.</c>
+
+00:07:39.040 --> 00:07:43.480 line:83% align:center
+<c.cyan.bg_black>Cette montée des prix est alimentée</c>
+<c.cyan.bg_black>par des salaires en hausse,</c>
+
+00:07:43.800 --> 00:07:48.360 line:83% align:center
+<c.cyan.bg_black>conséquence des pénuries de la</c>
+<c.cyan.bg_black>main-d'oeuvre, notamment qualifiée.</c>
+
+00:07:48.680 --> 00:07:53.120 line:83% align:center
+<c.cyan.bg_black>Les entreprises doivent proposer</c>
+<c.cyan.bg_black>des rémunérations attractives</c>
+
+00:07:53.440 --> 00:07:55.280 line:91% align:center
+<c.cyan.bg_black>pour espérer recruter.</c>
+
+00:07:55.600 --> 00:08:00.440 line:83% align:center
+<c.cyan.bg_black>La pénurie de salariés est estimée</c>
+<c.cyan.bg_black>à près de 5 millions de personnes,</c>
+
+00:08:00.760 --> 00:08:04.120 line:83% align:center
+<c.cyan.bg_black>ce qui peut constituer</c>
+<c.cyan.bg_black>un frein à la croissance.</c>
+
+00:08:04.440 --> 00:08:07.160 line:83% align:center
+<c.cyan.bg_black>Pour enrayer</c>
+<c.cyan.bg_black>cette inflation galopante,</c>
+
+00:08:07.480 --> 00:08:11.360 line:83% align:center
+<c.cyan.bg_black>la banque centrale a augmenté</c>
+<c.cyan.bg_black>son taux directeur à 21%,</c>
+
+00:08:11.680 --> 00:08:15.200 line:83% align:center
+<c.cyan.bg_black>entraînant des prêts bancaires</c>
+<c.cyan.bg_black>au coût exorbitant,</c>
+
+00:08:15.520 --> 00:08:18.560 line:83% align:center
+<c.cyan.bg_black>décourageant les entreprises</c>
+<c.cyan.bg_black>d'investir</c>
+
+00:08:18.880 --> 00:08:20.880 line:91% align:center
+<c.cyan.bg_black>et causant des faillites.</c>
+
+00:08:21.200 --> 00:08:25.280 line:83% align:center
+<c.cyan.bg_black>Le pays manque d'investissements</c>
+<c.cyan.bg_black>dans les infrastructures,</c>
+
+00:08:25.600 --> 00:08:29.960 line:83% align:center
+<c.cyan.bg_black>ponts, routes, services publics</c>
+<c.cyan.bg_black>de plus en plus vieillissants.</c>
+
+00:08:30.280 --> 00:08:35.480 line:83% align:center
+<c.cyan.bg_black>Les chemins de fer vont réduire</c>
+<c.cyan.bg_black>d'un tiers leurs investissements.</c>
+
+00:08:35.800 --> 00:08:39.000 line:83% align:center
+<c.cyan.bg_black>Autre handicap</c>
+<c.cyan.bg_black>que cumule l'économie russe,</c>
+
+00:08:39.320 --> 00:08:43.240 line:83% align:center
+<c.cyan.bg_black>sa dépendance</c>
+<c.cyan.bg_black>de plus en plus forte à la Chine.</c>
+
+00:08:43.560 --> 00:08:48.000 line:83% align:center
+<c.cyan.bg_black>Malgré l'amitié politique affichée</c>
+<c.cyan.bg_black>entre Poutine et Xi Jinping,</c>
+
+00:08:48.320 --> 00:08:52.040 line:83% align:center
+<c.cyan.bg_black>sur le plan économique,</c>
+<c.cyan.bg_black>Pékin fait le strict minimum,</c>
+
+00:08:52.360 --> 00:08:54.360 line:91% align:center
+<c.cyan.bg_black>des investissements faibles,</c>
+
+00:08:54.680 --> 00:08:57.920 line:83% align:center
+<c.cyan.bg_black>et le marché chinois</c>
+<c.cyan.bg_black>ne s'ouvre qu'à la marge.</c>
+
+00:08:58.240 --> 00:09:01.280 line:83% align:center
+<c.cyan.bg_black>Preuve de cet ascendant chinois</c>
+<c.cyan.bg_black>sur Moscou,</c>
+
+00:09:01.600 --> 00:09:06.280 line:83% align:center
+<c.cyan.bg_black>le projet pharaonique de gazoduc</c>
+<c.cyan.bg_black>que Vladimir Poutine a lancé.</c>
+
+00:09:06.600 --> 00:09:10.480 line:83% align:center
+<c.cyan.bg_black>Long de 6 700 km,</c>
+<c.cyan.bg_black>Force de Sibérie 2, c'est son nom,</c>
+
+00:09:10.800 --> 00:09:13.840 line:83% align:center
+<c.cyan.bg_black>doit relier la Sibérie</c>
+<c.cyan.bg_black>au nord de la Chine,</c>
+
+00:09:14.160 --> 00:09:16.840 line:83% align:center
+<c.cyan.bg_black>mais sa construction</c>
+<c.cyan.bg_black>est au point mort,</c>
+
+00:09:17.160 --> 00:09:21.920 line:83% align:center
+<c.cyan.bg_black>Pékin exigeant de son allié russe</c>
+<c.cyan.bg_black>des tarifs de gaz au plus bas.</c>
+
+00:09:22.240 --> 00:09:27.080 line:83% align:center
+<c.cyan.bg_black>Obligée de s'affranchir du dollar</c>
+<c.cyan.bg_black>à cause des sanctions occidentales,</c>
+
+00:09:27.400 --> 00:09:29.760 line:91% align:center
+<c.cyan.bg_black>la Russie utilise le yuan chinois</c>
+
+00:09:30.080 --> 00:09:34.480 line:83% align:center
+<c.cyan.bg_black>pour régler ses échanges</c>
+<c.cyan.bg_black>avec la Chine, mais pas seulement.</c>
+
+00:09:34.880 --> 00:09:39.040 line:83% align:center
+<c.cyan.bg_black>Elle tente de développer</c>
+<c.cyan.bg_black>ses propres mécanismes financiers</c>
+
+00:09:39.400 --> 00:09:41.760 line:91% align:center
+<c.cyan.bg_black>face aux systèmes internationaux,</c>
+
+00:09:42.080 --> 00:09:46.600 line:83% align:center
+<c.cyan.bg_black>une opportunité saisie par Poutine</c>
+<c.cyan.bg_black>dans sa volonté de structurer</c>
+
+00:09:46.920 --> 00:09:51.440 line:83% align:center
+<c.cyan.bg_black>un nouvel ordre mondial et de peser</c>
+<c.cyan.bg_black>sur la scène internationale.</c>
+
+00:09:51.760 --> 00:09:53.320 line:91% align:center
+<c.cyan.bg_black>Voyons comment.</c>
+
+00:09:53.640 --> 00:09:58.080 line:83% align:center
+<c.cyan.bg_black>Pour riposter à l'exclusion</c>
+<c.cyan.bg_black>de banques russes du système Swift,</c>
+
+00:09:58.400 --> 00:10:01.080 line:83% align:center
+<c.cyan.bg_black>réseau mondial</c>
+<c.cyan.bg_black>de transferts monétaires,</c>
+
+00:10:01.400 --> 00:10:05.320 line:83% align:center
+<c.cyan.bg_black>Moscou a mis en place</c>
+<c.cyan.bg_black>un système équivalent appelé SPFS.</c>
+
+00:10:05.640 --> 00:10:10.800 line:50% align:center
+<c.cyan.bg_black>Les systèmes VISA et MasterCard ont</c>
+<c.cyan.bg_black>été remplacés par les cartes MIR.</c>
+
+00:10:11.120 --> 00:10:15.800 line:83% align:center
+<c.cyan.bg_black>Ce système financier indépendant</c>
+<c.cyan.bg_black>pourrait intéresser d'autres pays,</c>
+
+00:10:16.120 --> 00:10:17.360 line:91% align:center
+<c.cyan.bg_black>ceux du BRICS+.</c>
+
+00:10:17.680 --> 00:10:19.720 line:91% align:center
+<c.cyan.bg_black>Objectif de ce groupe d'États</c>
+
+00:10:20.040 --> 00:10:23.920 line:83% align:center
+<c.cyan.bg_black>comme le Brésil, la Russie,</c>
+<c.cyan.bg_black>l'Inde ou la Chine :</c>
+
+00:10:24.240 --> 00:10:29.080 line:12% align:center
+<c.cyan.bg_black>renforcer leur influence économique</c>
+<c.cyan.bg_black>face aux puissances occidentales,</c>
+
+00:10:29.400 --> 00:10:32.280 line:12% align:center
+<c.cyan.bg_black>tout en diminuant</c>
+<c.cyan.bg_black>la domination du dollar</c>
+
+00:10:32.600 --> 00:10:34.960 line:12% align:center
+<c.cyan.bg_black>dans les échanges internationaux.</c>
+
+00:10:35.280 --> 00:10:39.600 line:83% align:center
+<c.cyan.bg_black>Ainsi, 90% des échanges commerciaux</c>
+<c.cyan.bg_black>entre l'Inde et la Russie</c>
+
+00:10:39.920 --> 00:10:44.960 line:83% align:center
+<c.cyan.bg_black>sont effectués en monnaies locales,</c>
+<c.cyan.bg_black>en roubles et en roupies.</c>
+
+00:10:46.400 --> 00:10:48.840 line:91% align:center
+<c.white.bg_black>L'économie russe s'est réorganisée</c>
+
+00:10:49.160 --> 00:10:52.600 line:83% align:center
+<c.white.bg_black>au fil des mois de guerre</c>
+<c.white.bg_black>contre l'Ukraine.</c>
+
+00:10:52.920 --> 00:10:56.280 line:83% align:center
+<c.white.bg_black>Elle se montre résiliente</c>
+<c.white.bg_black>sur certains aspects.</c>
+
+00:10:56.600 --> 00:11:00.680 line:83% align:center
+<c.white.bg_black>Le média d'investigation russophone</c>
+<c.white.bg_black>"The Insider" révélait</c>
+
+00:11:01.000 --> 00:11:06.440 line:83% align:center
+<c.white.bg_black>que ce sont les classes moyennes</c>
+<c.white.bg_black>et populaires qui sont impactées,</c>
+
+00:11:06.760 --> 00:11:10.240 line:83% align:center
+<c.white.bg_black>avec la hausse des prix</c>
+<c.white.bg_black>sur les produits courants</c>
+
+00:11:10.600 --> 00:11:13.760 line:83% align:center
+<c.white.bg_black>et la complexification</c>
+<c.white.bg_black>du marché de l'emploi,</c>
+
+00:11:14.080 --> 00:11:16.680 line:83% align:center
+<c.white.bg_black>des employeurs</c>
+<c.white.bg_black>qui peinent à recruter</c>
+
+00:11:17.000 --> 00:11:19.480 line:91% align:center
+<c.white.bg_black>en raison de la fuite des cerveaux,</c>
+
+00:11:19.800 --> 00:11:23.480 line:83% align:center
+<c.white.bg_black>le départ des sociétés étrangères</c>
+<c.white.bg_black>et l'économie de guerre.</c>
+
+00:11:23.800 --> 00:11:27.800 line:83% align:center
+<c.white.bg_black>Certains secteurs recrutent</c>
+<c.white.bg_black>bien moins qu'avant.</c>
+
+00:11:28.120 --> 00:11:32.800 line:83% align:center
+<c.yellow.bg_black>Pour aller plus loin, publié par</c>
+<c.yellow.bg_black>le service cartographie du "Monde",</c>
+
+00:11:33.120 --> 00:11:35.720 line:83% align:center
+<c.yellow.bg_black>sous la direction</c>
+<c.yellow.bg_black>de Delphine Papin :</c>
+
+00:11:36.040 --> 00:11:38.560 line:91% align:center
+<c.yellow.bg_black>"Atlas géopolitique de la Russie".</c>
+
+00:11:38.880 --> 00:11:41.520 line:91% align:center
+<c.white.bg_black>Rendez-vous la semaine prochaine,</c>
+
+00:11:41.840 --> 00:11:44.360 line:91% align:center
+<c.white.bg_black>même endroit, même heure.</c>
+
+00:11:44.680 --> 00:11:47.720 line:83% align:center
+<c.white.bg_black>D'ici là,</c>
+<c.white.bg_black>arte.tv pour retrouver nos vidéos</c>
+
+00:11:48.040 --> 00:11:51.760 line:83% align:center
+<c.white.bg_black>et n'oubliez pas de vous abonner</c>
+<c.white.bg_black>à notre newsletter.</c>
+
+00:11:52.080 --> 00:11:53.160 line:91% align:center
+<c.white.bg_black>À bientôt !</c>
+
+00:11:53.480 --> 00:11:58.480 line:91% align:center
+<c.green.bg_black>france.tv access</c>
+

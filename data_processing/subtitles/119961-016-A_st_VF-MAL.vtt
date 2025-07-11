@@ -1,0 +1,786 @@
+WEBVTT
+
+STYLE
+::cue(.black) {
+ color: black;
+}
+
+STYLE
+::cue(.red) {
+ color: red;
+}
+
+STYLE
+::cue(.green) {
+ color: green;
+}
+
+STYLE
+::cue(.yellow) {
+ color: yellow;
+}
+
+STYLE
+::cue(.blue) {
+ color: blue;
+}
+
+STYLE
+::cue(.magenta) {
+ color: magenta;
+}
+
+STYLE
+::cue(.cyan) {
+ color: cyan;
+}
+
+STYLE
+::cue(.white) {
+ color: white;
+}
+
+STYLE
+::cue(.bg_black) {
+ background-color: black;
+}
+
+STYLE
+::cue(.bg_red) {
+ background-color: red;
+}
+
+STYLE
+::cue(.bg_green) {
+ background-color: green;
+}
+
+STYLE
+::cue(.bg_yellow) {
+ background-color: yellow;
+}
+
+STYLE
+::cue(.bg_blue) {
+ background-color: blue;
+}
+
+STYLE
+::cue(.bg_magenta) {
+ background-color: magenta;
+}
+
+STYLE
+::cue(.bg_cyan) {
+ background-color: cyan;
+}
+
+STYLE
+::cue(.bg_white) {
+ background-color: white;
+}
+
+00:00:03.400 --> 00:00:21.080 line:91% align:left
+<c.magenta.bg_black>...</c>
+
+00:00:21.400 --> 00:00:24.400 line:83% align:center
+<c.white.bg_black>-Bienvenue</c>
+<c.white.bg_black>dans "Le Dessous des cartes".</c>
+
+00:00:24.720 --> 00:00:27.600 line:83% align:center
+<c.white.bg_black>Nous prenons</c>
+<c.white.bg_black>la direction de Mamoudzou,</c>
+
+00:00:27.920 --> 00:00:31.320 line:83% align:center
+<c.white.bg_black>chef-lieu de Mayotte,</c>
+<c.white.bg_black>101e département français,</c>
+
+00:00:31.640 --> 00:00:35.600 line:83% align:center
+<c.white.bg_black>particulièrement éprouvé</c>
+<c.white.bg_black>par le passage du cyclone Chido</c>
+
+00:00:35.920 --> 00:00:37.320 line:91% align:center
+<c.white.bg_black>en décembre 2024.</c>
+
+00:00:37.640 --> 00:00:40.440 line:83% align:center
+<c.white.bg_black>Vents dévastateurs</c>
+<c.white.bg_black>et pluies intenses</c>
+
+00:00:40.760 --> 00:00:43.920 line:83% align:center
+<c.white.bg_black>ont causé des dégâts</c>
+<c.white.bg_black>humains et matériels.</c>
+
+00:00:44.240 --> 00:00:47.120 line:83% align:center
+<c.white.bg_black>Une tragédie</c>
+<c.white.bg_black>qui illustre un paradoxe :</c>
+
+00:00:47.440 --> 00:00:51.200 line:83% align:center
+<c.white.bg_black>Mayotte est le plus pauvre</c>
+<c.white.bg_black>des départements français,</c>
+
+00:00:51.520 --> 00:00:55.320 line:83% align:center
+<c.white.bg_black>avec des habitats précaires</c>
+<c.white.bg_black>qui ont volé en éclats,</c>
+
+00:00:55.640 --> 00:00:59.840 line:83% align:center
+<c.white.bg_black>et à la fois un territoire français</c>
+<c.white.bg_black>qui, par son système de soins,</c>
+
+00:01:00.160 --> 00:01:05.280 line:83% align:center
+<c.white.bg_black>attire les migrants de la région,</c>
+<c.white.bg_black>notamment des Comores voisines.</c>
+
+00:01:05.600 --> 00:01:09.120 line:83% align:center
+<c.white.bg_black>Au-delà de Mayotte,</c>
+<c.white.bg_black>voici un tour d'horizon</c>
+
+00:01:09.440 --> 00:01:11.880 line:91% align:center
+<c.white.bg_black>des territoires d'outre-mer,</c>
+
+00:01:12.200 --> 00:01:15.840 line:83% align:center
+<c.white.bg_black>qui sont par essence</c>
+<c.white.bg_black>des territoires singuliers.</c>
+
+00:01:16.160 --> 00:01:17.560 line:91% align:center
+<c.white.bg_black>Sortons nos cartes.</c>
+
+00:01:18.520 --> 00:01:22.840 line:83% align:center
+<c.cyan.bg_black>Ses territoires ultramarins offrent</c>
+<c.cyan.bg_black>à la France un large maillage</c>
+
+00:01:23.160 --> 00:01:25.040 line:91% align:center
+<c.cyan.bg_black>sur les trois océans.</c>
+
+00:01:25.360 --> 00:01:29.160 line:83% align:center
+<c.cyan.bg_black>2,8 millions d'habitants</c>
+<c.cyan.bg_black>peuplent les 12 départements,</c>
+
+00:01:29.480 --> 00:01:32.880 line:83% align:center
+<c.cyan.bg_black>collectivités d'outre-mer</c>
+<c.cyan.bg_black>et Nouvelle-Calédonie.</c>
+
+00:01:33.200 --> 00:01:37.440 line:83% align:center
+<c.cyan.bg_black>Les plus peuplés : Guadeloupe,</c>
+<c.cyan.bg_black>Martinique, Guyane, Réunion.</c>
+
+00:01:37.760 --> 00:01:41.520 line:83% align:center
+<c.cyan.bg_black>Ce sont à la fois</c>
+<c.cyan.bg_black>des départements depuis 1946,</c>
+
+00:01:41.840 --> 00:01:44.480 line:91% align:center
+<c.cyan.bg_black>et des régions depuis 1982.</c>
+
+00:01:44.800 --> 00:01:49.480 line:83% align:center
+<c.cyan.bg_black>À elles seules, ces quatre régions</c>
+<c.cyan.bg_black>totalisent 1,9 million d'habitants,</c>
+
+00:01:49.800 --> 00:01:53.960 line:83% align:center
+<c.cyan.bg_black>soit les deux tiers</c>
+<c.cyan.bg_black>de la population d'outre-mer.</c>
+
+00:01:54.280 --> 00:01:59.040 line:83% align:center
+<c.cyan.bg_black>À ces quatre "vieilles colonies",</c>
+<c.cyan.bg_black>il faut ajouter Mayotte,</c>
+
+00:01:59.360 --> 00:02:03.360 line:83% align:center
+<c.cyan.bg_black>devenue en 2011</c>
+<c.cyan.bg_black>le 101e département français.</c>
+
+00:02:04.040 --> 00:02:07.080 line:83% align:center
+<c.cyan.bg_black>L'outre-mer français</c>
+<c.cyan.bg_black>est aussi constitué</c>
+
+00:02:07.400 --> 00:02:09.720 line:91% align:center
+<c.cyan.bg_black>de collectivités d'outre-mer,</c>
+
+00:02:10.040 --> 00:02:13.280 line:83% align:center
+<c.cyan.bg_black>qui ne sont qu'associées</c>
+<c.cyan.bg_black>à l'Union européenne,</c>
+
+00:02:13.600 --> 00:02:17.080 line:83% align:center
+<c.cyan.bg_black>comme Wallis-et-Futuna,</c>
+<c.cyan.bg_black>la Polynésie française,</c>
+
+00:02:17.400 --> 00:02:21.120 line:83% align:center
+<c.cyan.bg_black>St-Pierre-et-Miquelon,</c>
+<c.cyan.bg_black>ou encore Saint-Barthélemy.</c>
+
+00:02:23.000 --> 00:02:27.160 line:83% align:center
+<c.cyan.bg_black>Et enfin, des îles inhabitées</c>
+<c.cyan.bg_black>ou sans population permanente :</c>
+
+00:02:27.480 --> 00:02:30.880 line:83% align:center
+<c.cyan.bg_black>les terres australes</c>
+<c.cyan.bg_black>et antarctiques françaises.</c>
+
+00:02:31.200 --> 00:02:35.080 line:83% align:center
+<c.cyan.bg_black>Cet ensemble hétéroclite</c>
+<c.cyan.bg_black>et dispersé offre à la France</c>
+
+00:02:35.400 --> 00:02:38.680 line:83% align:center
+<c.cyan.bg_black>la 2e plus grande zone</c>
+<c.cyan.bg_black>économique exclusive,</c>
+
+00:02:39.000 --> 00:02:43.160 line:83% align:center
+<c.cyan.bg_black>derrière les États-Unis,</c>
+<c.cyan.bg_black>soit 10,1 millions de km2.</c>
+
+00:02:44.840 --> 00:02:48.960 line:83% align:center
+<c.cyan.bg_black>Elle peut ainsi entretenir</c>
+<c.cyan.bg_black>des relations transfrontalières</c>
+
+00:02:49.280 --> 00:02:53.400 line:83% align:center
+<c.cyan.bg_black>avec des dizaines de pays</c>
+<c.cyan.bg_black>éloignés de sa base européenne.</c>
+
+00:02:54.120 --> 00:02:57.920 line:83% align:center
+<c.cyan.bg_black>La France est ainsi voisine</c>
+<c.cyan.bg_black>du Brésil et du Suriname,</c>
+
+00:02:58.240 --> 00:03:01.240 line:83% align:center
+<c.cyan.bg_black>de l'Australie</c>
+<c.cyan.bg_black>et de la Nouvelle-Zélande.</c>
+
+00:03:01.560 --> 00:03:05.760 line:83% align:center
+<c.cyan.bg_black>Elle dispose également</c>
+<c.cyan.bg_black>de zones de pêche très étendues</c>
+
+00:03:06.080 --> 00:03:09.680 line:83% align:center
+<c.cyan.bg_black>et d'importantes</c>
+<c.cyan.bg_black>ressources minérales sous-marines.</c>
+
+00:03:10.000 --> 00:03:15.200 line:83% align:center
+<c.cyan.bg_black>Autre atout, l'outre-mer représente</c>
+<c.cyan.bg_black>80% de la biodiversité en France.</c>
+
+00:03:15.520 --> 00:03:18.000 line:91% align:center
+<c.cyan.bg_black>Un quart de ses parcs nationaux</c>
+
+00:03:18.320 --> 00:03:21.760 line:83% align:center
+<c.cyan.bg_black>se trouve en Guadeloupe,</c>
+<c.cyan.bg_black>en Guyane, à La Réunion.</c>
+
+00:03:22.080 --> 00:03:25.880 line:83% align:center
+<c.cyan.bg_black>Et une partie de la barrière</c>
+<c.cyan.bg_black>de corail néo-calédonienne,</c>
+
+00:03:26.200 --> 00:03:30.480 line:83% align:center
+<c.cyan.bg_black>longue de 1 600km, est inscrite</c>
+<c.cyan.bg_black>au patrimoine mondial de l'UNESCO.</c>
+
+00:03:30.800 --> 00:03:35.800 line:83% align:center
+<c.cyan.bg_black>Ces territoires ultramarins</c>
+<c.cyan.bg_black>sont donc des atouts stratégiques.</c>
+
+00:03:36.120 --> 00:03:40.720 line:83% align:center
+<c.cyan.bg_black>Sauf que leur administration</c>
+<c.cyan.bg_black>par Paris est éminemment complexe,</c>
+
+00:03:41.040 --> 00:03:43.320 line:91% align:center
+<c.cyan.bg_black>en raison de leur diversité</c>
+
+00:03:43.640 --> 00:03:47.560 line:83% align:center
+<c.cyan.bg_black>et de leurs spécificités</c>
+<c.cyan.bg_black>historiques et géographiques.</c>
+
+00:03:47.880 --> 00:03:51.200 line:83% align:center
+<c.cyan.bg_black>La dynamique démographique</c>
+<c.cyan.bg_black>est très contrastée.</c>
+
+00:03:51.520 --> 00:03:55.320 line:83%
+<c.cyan.bg_black>En Martinique et en Guadeloupe,</c>
+      <c.cyan.bg_black>la population baisse,</c>
+
+00:03:55.640 --> 00:03:59.440 line:83% align:center
+<c.cyan.bg_black>avec des départs massifs</c>
+<c.cyan.bg_black>de jeunes vers l'Hexagone.</c>
+
+00:03:59.760 --> 00:04:04.400 line:83% align:center
+<c.cyan.bg_black>Tandis qu'en Guyane et à Mayotte,</c>
+<c.cyan.bg_black>la démographie explose,</c>
+
+00:04:04.720 --> 00:04:07.800 line:83% align:center
+<c.cyan.bg_black>en raison d'une forte</c>
+<c.cyan.bg_black>immigration illégale.</c>
+
+00:04:08.120 --> 00:04:11.760 line:83% align:center
+<c.cyan.bg_black>La population de la Guyane</c>
+<c.cyan.bg_black>a été multipliée par 8,</c>
+
+00:04:12.080 --> 00:04:15.680 line:83% align:center
+<c.cyan.bg_black>celle de Mayotte par 12,</c>
+<c.cyan.bg_black>en 60 ans.</c>
+
+00:04:16.960 --> 00:04:19.280 line:91% align:center
+<c.cyan.bg_black>Arrêtons-nous sur la Guyane.</c>
+
+00:04:19.600 --> 00:04:23.080 line:83% align:center
+<c.cyan.bg_black>Seule porte d'entrée pour l'UE</c>
+<c.cyan.bg_black>en Amérique du Sud,</c>
+
+00:04:23.400 --> 00:04:27.120 line:83% align:center
+<c.cyan.bg_black>elle attire des immigrants</c>
+<c.cyan.bg_black>venus des pays voisins</c>
+
+00:04:27.440 --> 00:04:29.440 line:91% align:center
+<c.cyan.bg_black>et de la zone Caraïbes.</c>
+
+00:04:30.120 --> 00:04:32.920 line:91% align:center
+<c.cyan.bg_black>85% de la population clandestine</c>
+
+00:04:33.240 --> 00:04:37.240 line:83% align:center
+<c.cyan.bg_black>serait issue du Suriname,</c>
+<c.cyan.bg_black>du Brésil et d'Haïti.</c>
+
+00:04:37.560 --> 00:04:40.760 line:83% align:center
+<c.cyan.bg_black>En cause,</c>
+<c.cyan.bg_black>des frontières très perméables.</c>
+
+00:04:41.080 --> 00:04:43.400 line:91% align:center
+<c.cyan.bg_black>À l'est, celle avec le Brésil</c>
+
+00:04:43.720 --> 00:04:47.000 line:83% align:center
+<c.cyan.bg_black>est constituée en partie</c>
+<c.cyan.bg_black>par le fleuve Oyapock.</c>
+
+00:04:47.320 --> 00:04:50.120 line:83% align:center
+<c.cyan.bg_black>À l'ouest,</c>
+<c.cyan.bg_black>le Maroni et ses affluents</c>
+
+00:04:50.440 --> 00:04:54.120 line:83% align:center
+<c.cyan.bg_black>délimitent les 520km</c>
+<c.cyan.bg_black>de séparation avec le Suriname.</c>
+
+00:04:54.440 --> 00:04:56.360 line:91% align:center
+<c.cyan.bg_black>Les activités illégales</c>
+
+00:04:56.680 --> 00:04:59.680 line:83% align:center
+<c.cyan.bg_black>font prospérer</c>
+<c.cyan.bg_black>une économie souterraine.</c>
+
+00:05:00.000 --> 00:05:02.520 line:91% align:center
+<c.cyan.bg_black>L'orpaillage illégal y fleurit,</c>
+
+00:05:02.840 --> 00:05:06.320 line:83% align:center
+<c.cyan.bg_black>et c'est une plaque tournante</c>
+<c.cyan.bg_black>du trafic de drogues.</c>
+
+00:05:06.640 --> 00:05:09.840 line:83% align:center
+<c.cyan.bg_black>Un tiers de la production</c>
+<c.cyan.bg_black>mondiale de cocaïne</c>
+
+00:05:10.160 --> 00:05:13.040 line:83% align:center
+<c.cyan.bg_black>passerait</c>
+<c.cyan.bg_black>par le Suriname et la Guyane.</c>
+
+00:05:13.360 --> 00:05:15.360 line:91% align:center
+<c.cyan.bg_black>Une réalité qui contraste</c>
+
+00:05:15.680 --> 00:05:19.760 line:83% align:center
+<c.cyan.bg_black>avec la vitrine technologique</c>
+<c.cyan.bg_black>du centre spatial de Kourou.</c>
+
+00:05:21.160 --> 00:05:25.320 line:83% align:center
+<c.cyan.bg_black>Quant à Mayotte, son histoire</c>
+<c.cyan.bg_black>avec Paris est singulière.</c>
+
+00:05:26.200 --> 00:05:30.120 line:83% align:center
+<c.cyan.bg_black>Les 4 îles des Comores,</c>
+<c.cyan.bg_black>rattachées à la France au 19e,</c>
+
+00:05:30.440 --> 00:05:34.600 line:83% align:center
+<c.cyan.bg_black>deviennent un seul territoire</c>
+<c.cyan.bg_black>d'outre-mer en 1946.</c>
+
+00:05:36.880 --> 00:05:40.880 line:83% align:center
+<c.cyan.bg_black>1974 : l'archipel souhaite</c>
+<c.cyan.bg_black>accéder à son indépendance.</c>
+
+00:05:41.200 --> 00:05:44.600 line:83% align:center
+<c.cyan.bg_black>Une consultation</c>
+<c.cyan.bg_black>d'autodétermination est lancée.</c>
+
+00:05:44.920 --> 00:05:50.160 line:83% align:center
+<c.cyan.bg_black>Anjouan, Mohéli et la Grande Comore</c>
+<c.cyan.bg_black>se prononcent pour l'indépendance,</c>
+
+00:05:50.480 --> 00:05:53.880 line:83% align:center
+<c.cyan.bg_black>mais Mayotte choisit</c>
+<c.cyan.bg_black>de rester française.</c>
+
+00:05:54.200 --> 00:05:58.520 line:83% align:center
+<c.cyan.bg_black>Cette fragmentation de l'archipel</c>
+<c.cyan.bg_black>ébranle le droit international,</c>
+
+00:05:58.840 --> 00:06:02.960 line:83% align:center
+<c.cyan.bg_black>bafouant le principe de l'intégrité</c>
+<c.cyan.bg_black>territoriale des Comores,</c>
+
+00:06:03.280 --> 00:06:05.160 line:91% align:center
+<c.cyan.bg_black>mais permet à la France</c>
+
+00:06:05.480 --> 00:06:08.680 line:83% align:center
+<c.cyan.bg_black>de maintenir sa présence</c>
+<c.cyan.bg_black>dans l'océan Indien.</c>
+
+00:06:09.000 --> 00:06:13.520 line:83% align:center
+<c.cyan.bg_black>Mayotte la Française</c>
+<c.cyan.bg_black>devient au fil des ans un eldorado</c>
+
+00:06:13.840 --> 00:06:18.120 line:83% align:center
+<c.cyan.bg_black>pour les habitants des autres îles</c>
+<c.cyan.bg_black>de la République des Comores,</c>
+
+00:06:18.440 --> 00:06:22.240 line:83% align:center
+<c.cyan.bg_black>qui sombre dans l'instabilité</c>
+<c.cyan.bg_black>politique et la misère.</c>
+
+00:06:23.400 --> 00:06:25.920 line:4% align:center
+<c.cyan.bg_black>La catastrophe du cyclone Chido</c>
+
+00:06:26.240 --> 00:06:29.360 line:4% align:center
+<c.cyan.bg_black>a révélé les difficultés</c>
+<c.cyan.bg_black>frappant Mayotte,</c>
+
+00:06:29.680 --> 00:06:32.640 line:83% align:center
+<c.cyan.bg_black>du fait</c>
+<c.cyan.bg_black>des flux migratoires mal gérés :</c>
+
+00:06:32.960 --> 00:06:36.760 line:83% align:center
+<c.cyan.bg_black>infrastructures vétustes,</c>
+<c.cyan.bg_black>services publics défaillants,</c>
+
+00:06:37.080 --> 00:06:38.400 line:91% align:center
+<c.cyan.bg_black>économie atrophiée.</c>
+
+00:06:38.720 --> 00:06:41.240 line:91% align:center
+<c.cyan.bg_black>Notre département le plus pauvre</c>
+
+00:06:41.560 --> 00:06:44.400 line:83% align:center
+<c.cyan.bg_black>semble être</c>
+<c.cyan.bg_black>l'oublié de la République.</c>
+
+00:06:45.080 --> 00:06:48.280 line:83% align:center
+<c.white.bg_black>Confrontés aux crises</c>
+<c.white.bg_black>sociales et politiques,</c>
+
+00:06:48.600 --> 00:06:52.800 line:83% align:center
+<c.white.bg_black>ces territoires se trouvent</c>
+<c.white.bg_black>moins développés que l'Hexagone,</c>
+
+00:06:53.120 --> 00:06:57.200 line:83% align:center
+<c.white.bg_black>souvent en raison de l'héritage</c>
+<c.white.bg_black>de l'ancien système colonial,</c>
+
+00:06:57.520 --> 00:06:59.000 line:91% align:center
+<c.white.bg_black>nous allons le voir.</c>
+
+00:07:00.080 --> 00:07:02.560 line:91% align:center
+<c.cyan.bg_black>Malgré des statuts différents,</c>
+
+00:07:02.880 --> 00:07:06.120 line:83% align:center
+<c.cyan.bg_black>tous ces territoires</c>
+<c.cyan.bg_black>souffrent des mêmes maux.</c>
+
+00:07:06.440 --> 00:07:10.760 line:83% align:center
+<c.cyan.bg_black>Le chômage est 2 à 3 fois supérieur</c>
+<c.cyan.bg_black>aux Antilles et à La Réunion</c>
+
+00:07:11.080 --> 00:07:12.520 line:91% align:center
+<c.cyan.bg_black>que dans l'Hexagone.</c>
+
+00:07:12.840 --> 00:07:16.600 line:83% align:center
+<c.cyan.bg_black>Le PIB par habitant</c>
+<c.cyan.bg_black>est inférieur de plus d'un tiers.</c>
+
+00:07:16.920 --> 00:07:21.000 line:83% align:center
+<c.cyan.bg_black>La population présente</c>
+<c.cyan.bg_black>plus de problèmes de santé :</c>
+
+00:07:21.320 --> 00:07:25.240 line:83% align:center
+<c.cyan.bg_black>diabète, obésité, addiction</c>
+<c.cyan.bg_black>aux drogues et à l'alcool.</c>
+
+00:07:25.560 --> 00:07:29.880 line:83% align:center
+<c.cyan.bg_black>Toujours dépendantes d'une relation</c>
+<c.cyan.bg_black>quasi exclusive avec l'Hexagone,</c>
+
+00:07:30.200 --> 00:07:32.920 line:91% align:center
+<c.cyan.bg_black>ces économies sont très fragiles.</c>
+
+00:07:33.240 --> 00:07:36.240 line:83% align:center
+<c.cyan.bg_black>Entre 50% et 75%</c>
+<c.cyan.bg_black>des échanges commerciaux</c>
+
+00:07:36.560 --> 00:07:39.280 line:91% align:center
+<c.cyan.bg_black>se font uniquement avec l'Hexagone.</c>
+
+00:07:39.600 --> 00:07:43.840 line:83% align:center
+<c.cyan.bg_black>Cette situation est un héritage</c>
+<c.cyan.bg_black>du système économique colonial</c>
+
+00:07:44.160 --> 00:07:45.640 line:91% align:center
+<c.cyan.bg_black>dit "de l'exclusif".</c>
+
+00:07:45.960 --> 00:07:50.800 line:83% align:center
+<c.cyan.bg_black>Les territoires devaient fournir</c>
+<c.cyan.bg_black>des matières premières agricoles,</c>
+
+00:07:51.120 --> 00:07:54.320 line:83% align:center
+<c.cyan.bg_black>tout en recevant</c>
+<c.cyan.bg_black>les produits de l'Hexagone.</c>
+
+00:07:54.640 --> 00:07:56.880 line:91% align:center
+<c.cyan.bg_black>Sans vrai projet industriel,</c>
+
+00:07:57.200 --> 00:08:01.400 line:83% align:center
+<c.cyan.bg_black>leur économie dépend surtout</c>
+<c.cyan.bg_black>des transferts publics de l'État,</c>
+
+00:08:01.720 --> 00:08:05.160 line:83% align:center
+<c.cyan.bg_black>d'aides et de salaires</c>
+<c.cyan.bg_black>artificiellement élevés.</c>
+
+00:08:05.480 --> 00:08:08.520 line:83% align:center
+<c.cyan.bg_black>Autre persistance</c>
+<c.cyan.bg_black>de la période coloniale,</c>
+
+00:08:08.840 --> 00:08:12.640 line:83% align:center
+<c.cyan.bg_black>les fonctionnaires</c>
+<c.cyan.bg_black>bénéficient d'une surrémunération,</c>
+
+00:08:12.960 --> 00:08:17.080 line:83% align:center
+<c.cyan.bg_black>allant de 40% aux Antilles</c>
+<c.cyan.bg_black>à 108% en Polynésie française.</c>
+
+00:08:17.400 --> 00:08:20.400 line:83% align:center
+<c.cyan.bg_black>Un dispositif</c>
+<c.cyan.bg_black>à l'effet inflationniste,</c>
+
+00:08:20.720 --> 00:08:24.320 line:83% align:center
+<c.cyan.bg_black>tout comme une taxe spécifique,</c>
+<c.cyan.bg_black>l'octroi de mer.</c>
+
+00:08:24.640 --> 00:08:28.120 line:83% align:center
+<c.cyan.bg_black>Cette taxe douanière</c>
+<c.cyan.bg_black>s'applique aux importations</c>
+
+00:08:28.440 --> 00:08:32.240 line:83% align:center
+<c.cyan.bg_black>en Guadeloupe, Martinique,</c>
+<c.cyan.bg_black>Guyane, Mayotte, Réunion.</c>
+
+00:08:32.560 --> 00:08:35.320 line:83% align:center
+<c.cyan.bg_black>Censée protéger</c>
+<c.cyan.bg_black>la production locale</c>
+
+00:08:35.640 --> 00:08:38.200 line:91% align:center
+<c.cyan.bg_black>et financer les collectivités,</c>
+
+00:08:38.520 --> 00:08:41.520 line:83% align:center
+<c.cyan.bg_black>elle a surtout</c>
+<c.cyan.bg_black>fait grimper les prix.</c>
+
+00:08:42.280 --> 00:08:44.640 line:91% align:center
+<c.cyan.bg_black>La question de la vie chère</c>
+
+00:08:44.960 --> 00:08:48.200 line:83% align:center
+<c.cyan.bg_black>a donné lieu</c>
+<c.cyan.bg_black>à des mouvements de protestation,</c>
+
+00:08:48.520 --> 00:08:51.560 line:83% align:center
+<c.cyan.bg_black>à La Réunion en 2012,</c>
+<c.cyan.bg_black>en Guyane en 2017,</c>
+
+00:08:51.880 --> 00:08:55.000 line:83% align:center
+<c.cyan.bg_black>ou plus récemment</c>
+<c.cyan.bg_black>en Martinique, en 2024.</c>
+
+00:08:56.160 --> 00:09:00.280 line:83% align:center
+<c.cyan.bg_black>Si les produits alimentaires</c>
+<c.cyan.bg_black>y sont près de 40% plus chers</c>
+
+00:09:00.600 --> 00:09:04.440 line:83% align:center
+<c.cyan.bg_black>que dans l'Hexagone,</c>
+<c.cyan.bg_black>c'est aussi en raison du monopole</c>
+
+00:09:04.760 --> 00:09:08.760 line:83% align:center
+<c.cyan.bg_black>qu'exercent les groupes</c>
+<c.cyan.bg_black>d'importation et de distribution,</c>
+
+00:09:09.080 --> 00:09:13.200 line:83% align:center
+<c.cyan.bg_black>appartenant à quelques familles</c>
+<c.cyan.bg_black>de Blancs créoles, les békés,</c>
+
+00:09:13.520 --> 00:09:17.080 line:83% align:center
+<c.cyan.bg_black>qui tiennent la majorité</c>
+<c.cyan.bg_black>de l'économie antillaise.</c>
+
+00:09:17.400 --> 00:09:21.920 line:83% align:center
+<c.cyan.bg_black>Une situation qui relance</c>
+<c.cyan.bg_black>les tensions socio-identitaires</c>
+
+00:09:22.240 --> 00:09:26.320 line:83% align:center
+<c.cyan.bg_black>et les velléités d'indépendance</c>
+<c.cyan.bg_black>d'une partie des citoyens,</c>
+
+00:09:26.640 --> 00:09:29.240 line:91% align:center
+<c.cyan.bg_black>notamment en Nouvelle-Calédonie,</c>
+
+00:09:29.560 --> 00:09:33.800 line:83% align:center
+<c.cyan.bg_black>tiraillée entre les loyalistes,</c>
+<c.cyan.bg_black>installés plutôt à l'ouest,</c>
+
+00:09:34.120 --> 00:09:38.480 line:83% align:center
+<c.cyan.bg_black>en majorité d'origine européenne</c>
+<c.cyan.bg_black>et qui veulent rester français,</c>
+
+00:09:38.800 --> 00:09:42.640 line:83% align:center
+<c.cyan.bg_black>et les indépendantistes,</c>
+<c.cyan.bg_black>issus du peuple autochtone,</c>
+
+00:09:42.960 --> 00:09:46.320 line:83% align:center
+<c.cyan.bg_black>les Kanaks, présents</c>
+<c.cyan.bg_black>à l'est de l'archipel.</c>
+
+00:09:46.640 --> 00:09:50.720 line:83% align:center
+<c.cyan.bg_black>1988 : les accords de Matignon</c>
+<c.cyan.bg_black>négociés avec Michel Rocard</c>
+
+00:09:51.040 --> 00:09:54.080 line:83% align:center
+<c.cyan.bg_black>ont mis fin</c>
+<c.cyan.bg_black>à la période insurrectionnelle</c>
+
+00:09:54.400 --> 00:09:58.680 line:62% align:center
+<c.cyan.bg_black>liée au réveil de l'identité kanak,</c>
+<c.cyan.bg_black>autour de Jean-Marie Tjibaou.</c>
+
+00:09:59.000 --> 00:10:02.760 line:83% align:center
+<c.cyan.bg_black>Ces accords, complétés</c>
+<c.cyan.bg_black>par ceux de Nouméa en 1998,</c>
+
+00:10:03.080 --> 00:10:07.240 line:83% align:center
+<c.cyan.bg_black>prévoient l'organisation</c>
+<c.cyan.bg_black>de référendums d'autodétermination.</c>
+
+00:10:07.560 --> 00:10:11.760 line:83% align:center
+<c.cyan.bg_black>Trois scrutins ont été organisés</c>
+<c.cyan.bg_black>en 2018, 2020 et 2021.</c>
+
+00:10:12.520 --> 00:10:15.680 line:83% align:center
+<c.cyan.bg_black>Une majorité désire</c>
+<c.cyan.bg_black>rester liée à la France.</c>
+
+00:10:16.000 --> 00:10:19.880 line:83% align:center
+<c.cyan.bg_black>Mais le dernier vote,</c>
+<c.cyan.bg_black>boycotté par les indépendantistes,</c>
+
+00:10:20.200 --> 00:10:24.000 line:83% align:center
+<c.cyan.bg_black>a ravivé les tensions</c>
+<c.cyan.bg_black>dans une population fragmentée,</c>
+
+00:10:24.320 --> 00:10:27.200 line:83% align:center
+<c.cyan.bg_black>entre les Kanaks,</c>
+<c.cyan.bg_black>41% de la population,</c>
+
+00:10:27.520 --> 00:10:31.840 line:83% align:center
+<c.cyan.bg_black>les personnes d'origine européenne,</c>
+<c.cyan.bg_black>dont les descendants de colons,</c>
+
+00:10:32.160 --> 00:10:35.280 line:83% align:center
+<c.cyan.bg_black>qui pèsent 24%,</c>
+<c.cyan.bg_black>et les autres communautés,</c>
+
+00:10:35.600 --> 00:10:40.320 line:83% align:center
+<c.cyan.bg_black>surtout asiatiques et océaniennes,</c>
+<c.cyan.bg_black>pour environ 27% de la population.</c>
+
+00:10:41.320 --> 00:10:44.120 line:83% align:center
+<c.cyan.bg_black>En 2024,</c>
+<c.cyan.bg_black>la réforme constitutionnelle</c>
+
+00:10:44.440 --> 00:10:47.160 line:91% align:center
+<c.cyan.bg_black>visant à élargir le corps électoral</c>
+
+00:10:47.480 --> 00:10:50.680 line:83% align:center
+<c.cyan.bg_black>donne lieu</c>
+<c.cyan.bg_black>à des émeutes d'indépendantistes,</c>
+
+00:10:51.000 --> 00:10:53.600 line:91% align:center
+<c.cyan.bg_black>causant la mort de 14 personnes.</c>
+
+00:10:54.400 --> 00:10:57.440 line:83% align:center
+<c.cyan.bg_black>Des violences</c>
+<c.cyan.bg_black>qui percutent de plein fouet</c>
+
+00:10:57.760 --> 00:11:00.960 line:83% align:center
+<c.cyan.bg_black>la stratégie française</c>
+<c.cyan.bg_black>dite "de l'Indopacifique",</c>
+
+00:11:01.280 --> 00:11:05.000 line:83% align:center
+<c.cyan.bg_black>région où la Chine cherche</c>
+<c.cyan.bg_black>à imposer son leadership.</c>
+
+00:11:06.320 --> 00:11:09.480 line:83% align:center
+<c.white.bg_black>Enfin, des opérations</c>
+<c.white.bg_black>de déstabilisation</c>
+
+00:11:09.800 --> 00:11:13.960 line:83% align:center
+<c.white.bg_black>des territoires d'outre-mer</c>
+<c.white.bg_black>viennent de Russie, de Chine,</c>
+
+00:11:14.280 --> 00:11:15.680 line:91% align:center
+<c.white.bg_black>ou d'Azerbaïdjan.</c>
+
+00:11:16.000 --> 00:11:20.080 line:83% align:center
+<c.white.bg_black>Sur cette photo prise</c>
+<c.white.bg_black>en mars 2024 en Nouvelle-Calédonie,</c>
+
+00:11:20.400 --> 00:11:22.840 line:91% align:center
+<c.white.bg_black>parmi les manifestants kanaks,</c>
+
+00:11:23.160 --> 00:11:26.160 line:83% align:center
+<c.white.bg_black>on voit une banderole</c>
+<c.white.bg_black>soutenant la Russie</c>
+
+00:11:26.480 --> 00:11:28.920 line:91% align:center
+<c.white.bg_black>et le drapeau de l'Azerbaïdjan,</c>
+
+00:11:29.240 --> 00:11:32.120 line:83% align:center
+<c.white.bg_black>deux pays qui,</c>
+<c.white.bg_black>sur les réseaux sociaux,</c>
+
+00:11:32.440 --> 00:11:35.680 line:83% align:center
+<c.white.bg_black>dénoncent</c>
+<c.white.bg_black>"la politique coloniale française".</c>
+
+00:11:36.000 --> 00:11:39.480 line:83% align:center
+<c.white.bg_black>Or, Poutine,</c>
+<c.white.bg_black>en envahissant l'Ukraine,</c>
+
+00:11:39.800 --> 00:11:42.600 line:83% align:center
+<c.white.bg_black>a précisément</c>
+<c.white.bg_black>manifesté une nostalgie</c>
+
+00:11:42.920 --> 00:11:45.800 line:91% align:center
+<c.white.bg_black>de l'ancien Empire soviétique.</c>
+
+00:11:46.240 --> 00:11:50.120 line:83% align:center
+<c.cyan.bg_black>Nous avons préparé l'émission</c>
+<c.cyan.bg_black>avec Jean-Christophe Gay,</c>
+
+00:11:50.440 --> 00:11:53.080 line:91% align:center
+<c.cyan.bg_black>et son ouvrage, chez Armand Colin,</c>
+
+00:11:53.400 --> 00:11:56.000 line:91% align:center
+<c.cyan.bg_black>"La France d'outre-mer".</c>
+
+00:11:56.320 --> 00:11:58.440 line:91% align:center
+<c.white.bg_black>Ainsi s'achève ce numéro.</c>
+
+00:11:58.760 --> 00:12:03.120 line:83% align:center
+<c.white.bg_black>Rendez-vous la semaine prochaine,</c>
+<c.white.bg_black>même endroit, même heure.</c>
+
+00:12:03.440 --> 00:12:08.440 line:91% align:center
+<c.green.bg_black>france.tv access</c>
+
