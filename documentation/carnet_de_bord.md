@@ -27,3 +27,14 @@ Installation de Weaviate sur mon conteneur docker de développement python pour 
 
 Les bdd vectorielles ne sont pas installées par défaut dans langflow, il faut utiliser une image docker full
 
+au final essai de flowiseai mais certains templates sont basés sur des anciennes versions logicielles donc j'avais des erreurs sans trop savoir pourquoi.
+aucune info sur le fait que ça soit mal maintenu
+
+la clé api mistral données ne fonctionnait pas, mais étant donné que la chaine flowiseai n'indiquait rien (obsolète) je pensais que le problème venait de ma bdd : Astra
+
+après avoir essayé un template récent, plus aucun problème et après quelques heures de tests, on peut enfin voir un contexte apparaitre
+la documentation est en carton mais au moins on obtient un résultat contrairement à langflow
+
+je remercie grandement les exports en .json des chaines de traitement de rag et chatgpt sans qui je n'aurais pas vaincu
+
+![victoire](./ressources/victoire.png)
