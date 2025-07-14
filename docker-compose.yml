@@ -8,3 +8,32 @@ services:
     environment:
       JUPYTER_TOKEN: ${JUPYTER_TOKEN}
     restart: unless-stopped
+
+  wikipedia-mcp:
+    build:
+      context: .
+      dockerfile: wiki.Dockerfile
+    ports:
+      - "8080:8080"
+
+  flowise:
+    image: flowiseai/flowise:latest
+    restart: always
+    env_file:
+      - .env
+    ports:
+        - '${PORT}:${PORT}'
+    healthcheck:
+        test: ['CMD', 'curl', '-f', 'http://localhost:${PORT}/api/v1/ping']
+        interval: 10s
+        timeout: 5s
+        retries: 5
+        start_period: 30s
+    depends_on:
+      - wikipedia-mcp
+    volumes:
+      - ~/.flowise:/root/.flowise
+    entrypoint: /bin/sh -c "sleep 3; flowise start"
+
+volumes:
+  flowise_data:

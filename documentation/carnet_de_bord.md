@@ -48,3 +48,13 @@ après avoir essayé un template récent, plus aucun problème et après quelque
 la documentation de flowise est très légère mais on arrive à obtenir un résultat !
 
 ![victoire](../ressources/victoire.png)
+
+## installation de flowise en local
+
+fait facilement
+
+## installation de wikipedia mcp en local
+
+problème de binding de port sur 127.0.0.1 à l'intérieur du container, ce qui empêchait son accès depuis mon navigateur et depuis flowise
+
+Nécessité de créer un wrapper parce que le mcp de wikipédia utilise du sse pour l'envoi des données et ça n'est pas géré nativement par flowise
