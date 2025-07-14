@@ -42,7 +42,7 @@ Pourquoi ?
 
 - Création de personas, interviews, user flows
 
-![Image UI/UX](./ressources/uiux.png)
+![Image UI/UX](../ressources/uiux.png)
 - https://roadmap.uxuiopen.com/
 
 ### Nécessités 

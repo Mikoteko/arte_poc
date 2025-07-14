@@ -1,6 +1,6 @@
 # Tests réalisés sur Zapier (échec)
 
-![zapier](./ressources/zapier.png)
+![zapier](../ressources/zapier.png)
 
 Traitement qui prenait le fichier .json et fetchait chacune des urls des sous-titres pour les process
 Nettoyage des sous-titres pour ingestion (suppression de tous les caractères inutiles)
@@ -47,4 +47,4 @@ J'ai ensuite "ajouté à la main" les données depuis un fichier .json contenant
 après avoir essayé un template récent, plus aucun problème et après quelques heures de tests, on peut enfin voir un contexte apparaitre
 la documentation de flowise est très légère mais on arrive à obtenir un résultat !
 
-![victoire](./ressources/victoire.png)
+![victoire](../ressources/victoire.png)
