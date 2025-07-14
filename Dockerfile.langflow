@@ -1,7 +1,0 @@
-FROM langflowai/langflow:latest
-
-USER root
-# RUN pip install weaviate-client==3.24.1
-RUN pip install qdrant-client
-
-USER user

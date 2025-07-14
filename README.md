@@ -1,16 +1,24 @@
-# arte_poc
+# POC pour Arte
 
-API keys données pour mistral & gemini
+## Traitement des données
 
-https://ai.google.dev/gemini-api/docs
-https://docs.mistral.ai/getting-started/quickstart/
- 
-Rendu : Application web ou notebook
+Lancer le projet en local
 
-Poser les bases pour en discuter, capacité à dégrossir un sujet > pas forcément d’avoir quelque chose de fonctionnel
+Créer un fichier.env et y ajouter
+JUPYTER_TOKEN='{entrezvotretokenici}'
 
-### Lancer Langflow en local 
-docker run -p 7860:7860 langflowai/langflow:latest
-http://localhost:7860/
+```sh
+docker-compose up -d
+```
 
-python3 -m venv .venv
+Puis aller sur http://localhost:8888 
+Entrez le mot de passe que vous avez choisi dans votre variable JUPYTER_TOKEN
+Et vous avez accès au notebook Jupyter pour le traitement des données.
+
+## Système d'IA
+
+Utilisation de Flowise, [import du flow possible ici](/rag_processing/flowise_rag_test_working.json)
+Il faudra juste entrer les clés d'API de Mistral AI et d'Astra
+
+## Accès au chatbot
+

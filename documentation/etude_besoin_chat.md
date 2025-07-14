@@ -1,12 +1,22 @@
-#Etude sur ARTE intitulée Le dessous des cartes :
+# Création d'une fonctionnalité sur arte.tv permettant de « discuter avec les vidéos » de l'émission "Le dessous des cartes"
 
-Fonctionnalité sur arte.tv permettant de « discuter avec les vidéos »
+## Emission [le dessous des cartes](https://fr.wikipedia.org/wiki/Le_Dessous_des_cartes)
 
-Ci-joint un fichier JSON contenant les métadonnées des 10 derniers épisodes, avec notamment les vidéos et les sous-titres.
+But supposé : éducation populaire sur la géopolitique en un temps limité à destination de XX public qui est disponible dans un format hebdomadaire
+
+But de l'émission : donner de la place à la géographie, donner du sens par l’histoire, croiser les disciplines, tout est lié, fuir l’ethnocentrisme, tenter la prospective, prendre position.
+Objectif principal : **Faire comprendre plutôt que faire savoir**
+
+## Plateformes Arte.tv
+- application mobile (tablette et portable)
+- site web 
+- télé (certaines box, Smart TV/boitiers HDMI)
+- combien de viewers de l'émission par jour ? (2 millions d'utilisateurs sur Arte.tv par jour potentiellement)
+- présence sur les RS ? répondre aux questions des users ? aider les CM ?
 
 ### Redéfinition du besoin ?
 Pourquoi souhaite-t-on discuter avec les vidéos du dessous des cartes ?
-But éducationnel ? 
+But éducationnel ?
 Neutralité scientifique ? déontologie ?
 Discuter par écrit ou par oral ?
 Financement pour le développement des fonctionnalités mais pour le maintien du service une fois la fin des subventions ? 
@@ -43,93 +53,3 @@ Pourquoi ?
 - respect de l'AI Act, du RGPD, de l'EAA
 - utiliser principalement des technologies open-source
 - réutilisabilité du projet par d'autres médias ?
-
-### IA utilisables
-- LLM/NLP + reinforcement learning 
-- logical agents/règles (Pour intégrer un raisonnement pédagogique structuré ex : "Si l’utilisateur ne connaît pas ce terme, alors expliquer avec un exemple simple")
-
-### Plateformes Arte.tv
-- application mobile (tablette et portable)
-- site web 
-- télé (certaines box, Smart TV/boitiers HDMI)
-- combien de viewers de l'émission par jour ? (2 millions d'utilisateurs sur Arte.tv par jour potentiellement)
-- présence sur les RS ? répondre aux questions des users ? aider les CM ?
-
-### Emission [le dessous des cartes](https://fr.wikipedia.org/wiki/Le_Dessous_des_cartes)
-
-But supposé : éducation populaire sur la géopolitique en un temps limité à destination de XX public qui est disponible dans un format hebdomadaire
-
-But de l'émission : donner de la place à la géographie, donner du sens par l’histoire, croiser les disciplines, tout est lié, fuir l’ethnocentrisme, tenter la prospective, prendre position.
-Objectif principal : **Faire comprendre plutôt que faire savoir**
-
-### Etude du fichier JSON et des datas
-
-temps moyen des vidéos proposées dans les fichiers JSON
-comment exploiter un fichier .vtt ? 
-
-#### sous-titres
-#### vidéo
-#### son
-#### images 
-
-### Recherche concurrence
-
-FireTV & YouTube Ask
-Regarder ce qui a été fait côté data for good
-
-https://support.google.com/youtube/answer/14110396?hl=en
-https://www.aboutamazon.com/news/devices/how-amazon-developers-built-fire-tv-ai-search
-
-### Recherche techniques actuelles pour répondre au besoin
-
-Comme nous en avons discuté, voici également un serveur MCP pertinent si vous souhaitez tester :
-https://github.com/Rudra-ravi/wikipedia-mcp
-
-agents ??? rechercher des infos cools ?
-LLMs avec capacité d'orchestration ou 
-
-https://slite.com/learn/llm-knowledge-base 
-
-LLMs entre 10 et 40% d'erreurs dans les réponses
-quelles apis interroger pour être sûrs d'obtenir des réponses pertinentes ?
-
-datamesh ???
-
-rust avancées ? 
-quantique avancées ? 
-
-llms qui citent les sources ? 
-
-#### fact checking API ou recherches
-
-https://jina.ai/news/fact-checking-with-new-grounding-api-in-jina-reader/
-https://github.com/yuxiaw/OpenFactCheck?tab=readme-ov-file
-
-https://info.arxiv.org/help/api/index.html
-https://www.afp.com/fr/notre-offre/afp-api#mktoForm_3489
-https://www.ncbi.nlm.nih.gov/home/develop/api/
-https://doaj.org/api/v4/docs
-https://encyclopaediaapi.com/
-https://publicapis.io/contextual-web-news-api
-
-
-#### tutoriels
-
-- https://www.bitdoze.com/langflow-docker-install/
-- 
-
-### Pour aller plus loin
-
-- traduire sous-titres dans les 7 langues nécessaires
-- ingérer les données 
-OU
-- ingérer les données
-- puis traduire dans une des 7 langues ? 
-
-- RAG ?
-- MCP 
-- enregistrement des réponses
-- enregistrement de feedbacks (pouce en bas si réponse pas ok et possibilité de commenter)
-- surveillance des réponses (taux d'erreur)
-
-- MLOPS/Dataops ?

@@ -1,11 +1,4 @@
-Imaginez-vous dans un processus d’idéation / exploration autour de fonctionnalités IA qui ouvrent de nouveaux champs des possibles pour notre plateforme arte.tv
-
-(on se base sur le dessous des cartes ou de manière globale ?)
-
-À vous de choisir ou d’imaginer la fonctionnalité et l’angle technique qui vous inspirent le plus : IA, data, développement web, DevOps…
-
-Datalakes et media asset management existants
-
+# Brainstorming autour de fonctionnalités IA pour la plateforme arte.tv
 
 ### Sujets donnés dans le dossier de subvention 
 - analyser et quantifier les scénarios en amont des productions, anticiper les tendances et le moment de diffusion à la télé
@@ -22,6 +15,18 @@ Datalakes et media asset management existants
 - études statistiques du nombre de viewers en fonction des sujets
 - prédiction de thèmes que les viewers aimeraient voir en fonction de la popularité des thèmes précédents
 - aide à la compliance des lois européennes
+
+### Fonctionnalités type des LLMs : 
+- synthèse
+- classification
+- traduction (overkill niveau ressources ?)
+- génération de contenu
+- planification
+
+### Cas d'usage les plus répandus LLMS :
+- chatbot d'interrogation de documentation (catalogues, offres en ligne, service client, assistance téléconseiller, chatbot interne d'interrogation de BDD de connaissances : RH, juridique, technique, réglementaire...)
+- knowledge management/mining : accès unifié et interactif à la BDD documentaire d'un service, d'une BU ou d'une entreprise
+- chatgpt version privée (problématique confidentialité des données)
 
 
 

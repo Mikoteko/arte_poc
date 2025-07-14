@@ -1,25 +1,15 @@
-### Rappel de la route vers l'IA : 
-Big data -> analyses -> prédictions -> IA
-
-Evolution des analytics
-Descriptif -> Prédictif -> Prescriptif (définit actions futures, tester résultats potentiels de chaque décision et recommander le meilleur plan d'action)
+# Informations générales sur la conduite d'un projet d'IA
 
 IA = enabler 
 1. interaction homme - machine
 2. augmentation des capacités de l'humain avec la mise à disposition d'assistants digitaux
 3. déploiement de processus intelligents doués d'actionnabilité
 
-### Fonctionnalités type des LLMs : 
-- synthèse
-- classification
-- traduction (overkill niveau ressources ?)
-- génération de contenu
-- planification
+### Rappel de la route vers l'IA : 
+Big data -> analyses -> prédictions -> IA
 
-### Cas d'usage les plus répandus LLMS :
-- chatbot d'interrogation de documentation (catalogues, offres en ligne, service client, assistance téléconseiller, chatbot interne d'interrogation de BDD de connaissances : RH, juridique, technique, réglementaire...)
-- knowledge management/mining : accès unifié et interactif à la BDD documentaire d'un service, d'une BU ou d'une entreprise
-- chatgpt version privée (problématique confidentialité des données)
+### Evolution des analytics
+Descriptif -> Prédictif -> Prescriptif (définit actions futures, tester résultats potentiels de chaque décision et recommander le meilleur plan d'action)
 
 ### Cycle de vie des LLMs
 
